@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:55:40+00:00",
+  "generated_at": "2026-08-20T19:17:57+00:00",
   "count": 59,
   "active_count": 59,
   "archive_count": 0,
@@ -2145,7 +2145,7 @@
         "forks": 1820,
         "open_issues": 472,
         "age_days": 5145,
-        "pushed_days_ago": 7,
+        "pushed_days_ago": 8,
         "stars_per_day": 6.9,
         "commits": 1934,
         "contributors": 227,
@@ -2162,10 +2162,6 @@
         "content_kind": "project",
         "maturity": "proven",
         "badges": [
-          {
-            "kind": "good",
-            "text": "active this week"
-          },
           {
             "kind": "good",
             "text": "227 contributors"
@@ -2187,11 +2183,11 @@
             "text": "6.9 stars/day"
           }
         ],
-        "momentum": 1.23
+        "momentum": 1.174
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 7,
+        "last_push_days": 8,
         "contributors": 227,
         "commits": 1934,
         "releases": 16,
