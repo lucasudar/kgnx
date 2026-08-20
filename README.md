@@ -22,7 +22,7 @@ Open-source tools that are still maintained — found automatically, published o
 | --- | --- | --- | --- | --- | --- |
 | **59** | **59** | **0** | **1** | **151** | **31** |
 
-24 app · 20 command line · 11 self-hosted · 4 browser extension. Evidence refreshed 20 Aug 2026, 18:39 UTC.
+24 app · 20 command line · 11 self-hosted · 4 browser extension. Evidence refreshed 20 Aug 2026, 18:55 UTC.
 
 <!-- stats:end -->
 
