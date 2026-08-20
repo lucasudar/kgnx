@@ -1,164 +1,172 @@
+<div align="center">
+
 # kgnx
 
-**Known good. Try next.**
+### Known good. Try next.
 
-Discover useful open-source tools you can start using today, save them on your
-phone, and install them later from your computer.
+Open-source tools that are still maintained — found automatically, published one at a time, and explained with public evidence.
 
-A catalogue entry is anything usable, not only a desktop application:
+[**Open the catalogue →**](https://lucasudar.github.io/kgnx/)
 
-| Kind | Examples |
+[![Daily catalogue](https://github.com/lucasudar/kgnx/actions/workflows/refresh-catalogue.yml/badge.svg)](https://github.com/lucasudar/kgnx/actions/workflows/refresh-catalogue.yml)
+[![Deploy](https://github.com/lucasudar/kgnx/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/lucasudar/kgnx/actions/workflows/deploy-pages.yml)
+![No backend](https://img.shields.io/badge/backend-none-2e5c8a)
+![No account](https://img.shields.io/badge/account-not%20required-245f47)
+![No telemetry](https://img.shields.io/badge/telemetry-none-6b4d9c)
+
+</div>
+
+<!-- stats:start -->
+
+| Published | Current | Archived | Chosen unattended | Screened last run | Waiting candidates |
+| --- | --- | --- | --- | --- | --- |
+| **59** | **59** | **0** | **1** | **151** | **31** |
+
+24 app · 20 command line · 11 self-hosted · 4 browser extension. Evidence refreshed 20 Aug 2026, 18:39 UTC.
+
+<!-- stats:end -->
+
+---
+
+## The idea
+
+Finding a good tool is easy. Finding out whether it will still exist in six months is not.
+
+Popularity charts answer the wrong question. A repository can have thousands of stars and no releases, no tests, one exhausted maintainer, and no commits since last winter. kgnx asks a different question on every card:
+
+> **Can I depend on this?**
+
+| | |
 | --- | --- |
-| App | VoiceInk, Maccy, Ice, Zed |
-| Command line | ripgrep, fzf, lazygit, restic |
-| Self-hosted | Immich, Vaultwarden, Paperless-ngx |
-| Browser extension | uBlock Origin, Dark Reader |
+| 🔎 **Found by search** | Public GitHub API queries per kind of tool, not a trending chart |
+| 🧪 **Gated by evidence** | Activity, releases, contributors, tests, CI, and licence must all pass |
+| 🗓 **One at a time** | At most one new tool per day, rotating kinds so nothing dominates |
+| 📦 **Archived, not deleted** | Current for 30 days, then searchable in the archive |
+| 🕶 **Nobody in the loop** | No moderation queue, no approval step, no hidden database |
 
-> Status: working local-first vertical slice. `kgnx` is the working product name
-> inspired by the available `kgnx.nx.kg` domain; naming is not final.
+## What counts as a tool
 
-## Product thesis
+Something you can run — not a library you build against, and not a reading list.
 
-People do not want repositories. They want a clipboard manager, local meeting
-transcription, better window management, or a trustworthy replacement for a
-subscription.
+| Kind | Meaning | Where it runs |
+| --- | --- | --- |
+| **App** | A program with an interface | Desktop |
+| **Command line** | A CLI or terminal UI | Terminal |
+| **Self-hosted** | A service on hardware you control | Your server |
+| **Browser extension** | An add-on for the browser | Firefox, Chrome, Safari |
 
-GitHub is evidence, not the product:
+## What a card tells you
 
-- the card leads with the outcome, the kind of tool, platforms, and the real
-  install command where one exists;
-- no invented artwork: if a tool has no genuine icon, none is drawn;
-- Save, Try next, and I use this create a useful personal workflow;
-- maintenance evidence is available under **Why trust it?**;
-- browsing and local personalisation require no account;
-- GitHub authentication later adds cross-device sync and an optional, separate
-  Star action.
+The card leads with usefulness; the receipts sit one tap away.
 
-The initial wedge is technical users looking for free and open-source tools they
-probably missed, starting from macOS but not limited to it.
+**On the card** — kind · platforms · one-line purpose · traits · `Save` `Try next` `I use this`
 
-## Run everything
+**Under “Why trust it”** — last commit · maturity · contributors · releases · tests · CI · licence · language · stars · commits · upstream description · source link
 
-Requires Python 3 and an authenticated GitHub CLI (`gh auth login`).
+Nothing decorative is invented. If a tool has no genuine icon, none is drawn. If metadata cannot prove an install command, the card says so instead of guessing.
 
-```bash
-./run-everything.sh
+## Publication rules
+
+Every threshold below must pass, together, before anything is published unattended.
+
+| Signal | Requirement |
+| --- | --- |
+| Last commit | within 21 days |
+| Maturity verdict | `proven` |
+| Commits | ≥ 100 |
+| Contributors | ≥ 3 |
+| Releases | ≥ 2 |
+| Tests | detected |
+| CI | configured |
+| Licence | detected |
+| Kind | proven by the project's own description |
+| Policy | not a list, template, dependency, or high-risk category |
+
+The bias is deliberate: useful tools are sometimes missed, but uncertain ones are not published. Automation earns trust by being strict and auditable — never by claiming that software is guaranteed safe.
+
+## The daily run
+
+```mermaid
+flowchart LR
+  A[Search by kind] --> B[Reject by policy]
+  B --> C[Measure evidence]
+  C --> D{All gates pass?}
+  D -- no --> E[Stays a candidate]
+  D -- yes --> F[Publish one tool]
+  F --> G[30 days current]
+  G --> H[Archive]
+  F --> I[Commit + deploy]
+  I --> J[Telegram post]
 ```
 
-This refreshes GitHub evidence, builds the catalogue, renders the PWA, and serves
-it at <http://127.0.0.1:8787>. If the server already exists, it reuses it.
+Candidates, publications, evidence snapshots, and lifecycle transitions are all committed as JSON. Every automated decision has a public paper trail in the Git history.
 
-Individual stages:
+## Your side of it
+
+State lives in your browser. There is nothing to sign up for.
+
+- `Save` — remember it
+- `Try next` — a short queue you can actually finish
+- `I use this` — the strongest signal for what you are shown next
+- `Not for me` — hides it locally, never a public downvote
+
+Discovery happens on a phone; installing happens at a desk. Cross-device sync is the next milestone, and a GitHub star will stay a separate, deliberate action rather than a side effect of saving.
+
+## Run it yourself
+
+Needs Python 3 and an authenticated GitHub CLI.
 
 ```bash
-python3 -m pipeline.discover --limit 8   # search GitHub for new candidates
-python3 -m pipeline.autopublish          # publish at most one strict candidate
-python3 -m pipeline.lifecycle            # expire 30-day publication windows
-python3 -m pipeline.catalog              # refresh evidence for published tools
-python3 -m pipeline.render               # build the static site
-python3 -m http.server 8787 --directory site
+./run-everything.sh              # build the catalogue and serve it locally
+./run-everything.sh --discover   # also search for and publish a new tool
 ```
 
-`./run-everything.sh --discover` includes the search step.
+Individual stages, in order:
 
-The scheduled GitHub Action runs the same sequence once per day, commits the
-generated JSON and site directly, deploys Pages, and optionally posts the new
-tool to Telegram. No pull request or approval queue is involved.
-
-## How selection works
-
-Search proposes, strict evidence gates decide, and one tool is published per day.
-
-1. `pipeline/discover.py` queries the public GitHub API per kind (macOS and
-   desktop app topics, CLI and TUI topics, self-hosted and homelab topics,
-   browser-extension topics), bounded by star range and recent activity.
-2. Candidates are rejected when archived, forked, templated, unsafe by policy,
-   thinly described, or when their own description does not prove that they are
-   a runnable tool of the claimed kind.
-3. Unattended publication additionally requires: activity within 21 days,
-   `proven` maturity, at least 100 commits, 3 contributors, 2 releases, tests,
-   CI, and a detected licence.
-4. `pipeline.autopublish` rotates through kinds and publishes no more than one
-   unseen candidate per UTC day. Unknown facts are displayed as unknown; they
-   are never invented.
-5. The tool remains current for 30 days and then moves to Archive automatically.
-
-The latest strict run screened 215 repositories and produced 34 eligible
-proposals. The full candidate and publication JSON remains committed for audit.
-
-## What exists
-
-- 59 tools: 58 initial selections plus one strict automatic publication;
-- a detail view per tool: upstream description, full maintenance evidence,
-  topics, install command, and links;
-- responsive discovery UI with phone bottom navigation;
-- kind, platform, category, and text filters with a visible active-filter
-  summary and a clear button;
-- daily automatic discovery, strict publication, and 30-day archive rotation;
-- local Save / Try next / I use this / Not for me state;
-- separate Saved, Try next, and Using views;
-- JSON export;
-- progressive static HTML, PWA manifest, and offline service worker;
-- GitHub evidence hidden behind a human-readable trust disclosure;
-- no backend, account, token in the browser, or telemetry.
+```bash
+python3 -m pipeline.discover     # search GitHub for candidates
+python3 -m pipeline.autopublish  # publish at most one that clears every gate
+python3 -m pipeline.lifecycle    # rotate 30-day windows into the archive
+python3 -m pipeline.catalog      # refresh evidence for published tools
+python3 -m pipeline.render       # build the static site
+python3 -m pipeline.stats        # refresh the numbers in this README
+```
 
 ## Repository map
 
-```text
-data/catalog/tools.json  initial catalogue
-data/catalog/automatic.json  unattended publications
-data/tools/feed.json     generated catalogue + GitHub evidence
-data/candidates/         candidates and daily publication report
-pipeline/discover.py     GitHub Search candidate generation
-pipeline/autopublish.py  strict daily selection
-pipeline/lifecycle.py    current/archive rotation
-pipeline/catalog.py      catalogue enrichment
-pipeline/telegram.py     optional one-tool Telegram announcement
-pipeline/gh.py           cached GitHub REST client
-pipeline/evidence.py     explainable trust signals
-pipeline/render.py       static PWA renderer
-web/                     source assets and local state client
-site/                    deployable generated output
-docs/PRODUCT.md          product loop and content policy
-docs/ARCHITECTURE.md     current and authenticated architecture
-```
-
-The earlier repository-rubric experiment was replaced by `pipeline/discover.py`,
-which applies the same search-and-evidence approach to tool candidates instead
-of raw repositories. `research/slop_probe.py` remains as the measurement that
-rejected the AI-filler premise.
+| Path | Purpose |
+| --- | --- |
+| `data/catalog/` | Editorial and automatic catalogue entries |
+| `data/candidates/` | Search candidates and the daily publication report |
+| `data/editorial/` | Publication windows and archive state |
+| `data/tools/feed.json` | Generated catalogue with evidence |
+| `pipeline/discover.py` | Candidate search and policy filtering |
+| `pipeline/evidence.py` | Explainable trust signals |
+| `pipeline/autopublish.py` | Strict daily selection |
+| `pipeline/lifecycle.py` | Current and archive rotation |
+| `pipeline/catalog.py` | Evidence refresh |
+| `pipeline/render.py` | Static PWA renderer |
+| `pipeline/telegram.py` | Optional channel announcement |
+| `web/` · `site/` | Source assets and generated output |
+| `docs/` | Product, architecture, research, and roadmap |
 
 ## Telegram
 
-Create a channel, add a bot as an administrator, then add two repository
-secrets:
+Create a channel, add a bot as administrator, then set two repository secrets:
 
 ```text
 TELEGRAM_BOT_TOKEN
 TELEGRAM_CHAT_ID
 ```
 
-The daily workflow posts only when `autopublish` added a new tool. Missing
-secrets simply disable Telegram; they never fail catalogue publication.
-
-## Next architecture stage
-
-Anonymous state remains local. When cross-device use is implemented:
-
-- GitHub App OAuth with PKCE through a Cloudflare Worker BFF;
-- encrypted GitHub token on the server, opaque HttpOnly session in the browser;
-- D1 tables for user app state and preferences;
-- timestamp-based merge of existing local state on first sign-in;
-- GitHub Star as an explicit external action, never an automatic side effect of
-  Save.
-
-The public catalogue and SEO pages remain static and cacheable.
+The workflow posts only when a new tool was actually published. Without the secrets the step is skipped and publication continues normally.
 
 ## Documents
 
-- [Product brief](docs/PRODUCT.md)
-- [Architecture](docs/ARCHITECTURE.md)
-- [Market and research](docs/RESEARCH.md)
-- [GitHub API constraints](docs/GITHUB_API.md)
-- [Roadmap](docs/ROADMAP.md)
-- [Hosting](docs/HOSTING.md)
+[Product](docs/PRODUCT.md) · [Architecture](docs/ARCHITECTURE.md) · [Research](docs/RESEARCH.md) · [GitHub API limits](docs/GITHUB_API.md) · [Roadmap](docs/ROADMAP.md) · [Hosting](docs/HOSTING.md)
+
+<div align="center">
+
+**Known good. Try next.**
+
+</div>

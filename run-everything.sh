@@ -19,6 +19,7 @@ python3 -m pipeline.catalog
 
 echo "→ Rendering the static PWA"
 python3 -m pipeline.render
+python3 -m pipeline.stats
 
 if curl --silent --fail "http://127.0.0.1:${PORT}/" >/dev/null 2>&1; then
   echo "✓ Site is already running at http://127.0.0.1:${PORT}"
