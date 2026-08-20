@@ -6,7 +6,7 @@
 
 Open-source tools that are still maintained — found automatically, published one at a time, and explained with public evidence.
 
-[**Open the catalogue →**](https://lucasudar.github.io/kgnx/)
+[**Open the catalogue →**](https://kgnx.nx.kg)
 
 [![Daily catalogue](https://github.com/lucasudar/kgnx/actions/workflows/refresh-catalogue.yml/badge.svg)](https://github.com/lucasudar/kgnx/actions/workflows/refresh-catalogue.yml)
 [![Deploy](https://github.com/lucasudar/kgnx/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/lucasudar/kgnx/actions/workflows/deploy-pages.yml)
@@ -15,16 +15,6 @@ Open-source tools that are still maintained — found automatically, published o
 ![No telemetry](https://img.shields.io/badge/telemetry-none-6b4d9c)
 
 </div>
-
-<!-- stats:start -->
-
-| Published | Current | Archived | Chosen unattended | Screened last run | Waiting candidates |
-| --- | --- | --- | --- | --- | --- |
-| **59** | **59** | **0** | **1** | **151** | **31** |
-
-24 app · 20 command line · 11 self-hosted · 4 browser extension. Evidence refreshed 20 Aug 2026, 18:55 UTC.
-
-<!-- stats:end -->
 
 ---
 
@@ -129,7 +119,6 @@ python3 -m pipeline.autopublish  # publish at most one that clears every gate
 python3 -m pipeline.lifecycle    # rotate 30-day windows into the archive
 python3 -m pipeline.catalog      # refresh evidence for published tools
 python3 -m pipeline.render       # build the static site
-python3 -m pipeline.stats        # refresh the numbers in this README
 ```
 
 ## Repository map
