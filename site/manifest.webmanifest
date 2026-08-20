@@ -1,0 +1,18 @@
+{
+  "name": "kgnx — open-source tools worth using",
+  "short_name": "kgnx",
+  "description": "Discover open-source apps, command-line tools, self-hosted services, and extensions that are actually maintained.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#f6f4ef",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,6215 @@
+{
+  "generated_at": "2026-08-20T18:39:19+00:00",
+  "count": 59,
+  "active_count": 59,
+  "archive_count": 0,
+  "automatic_count": 1,
+  "kinds": [
+    {
+      "id": "app",
+      "label": "App",
+      "count": 24
+    },
+    {
+      "id": "cli",
+      "label": "Command line",
+      "count": 20
+    },
+    {
+      "id": "service",
+      "label": "Self-hosted",
+      "count": 11
+    },
+    {
+      "id": "extension",
+      "label": "Browser extension",
+      "count": 4
+    }
+  ],
+  "categories": [
+    "AI",
+    "Automation",
+    "Backup",
+    "Browser",
+    "Clipboard",
+    "Developer tools",
+    "Documents",
+    "File transfer",
+    "Media",
+    "Meetings",
+    "Menu bar",
+    "Networking",
+    "Notes",
+    "Privacy",
+    "Productivity",
+    "Self-hosted",
+    "System",
+    "Terminal",
+    "Voice",
+    "Window management"
+  ],
+  "platforms": [
+    "Android",
+    "Chrome",
+    "Desktop",
+    "Docker",
+    "Firefox",
+    "Linux",
+    "Safari",
+    "Self-hosted",
+    "Web",
+    "Windows",
+    "iOS",
+    "macOS"
+  ],
+  "tools": [
+    {
+      "slug": "maccy",
+      "name": "Maccy",
+      "repo": "p0deje/Maccy",
+      "kind": "app",
+      "pitch": "Search your clipboard history instantly without leaving the keyboard.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Clipboard",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Local"
+      ],
+      "install": "brew install --cask maccy",
+      "get_url": "https://maccy.app",
+      "featured": true,
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "p0deje/Maccy",
+        "url": "https://github.com/p0deje/Maccy",
+        "description": "Lightweight clipboard manager for macOS",
+        "language": "Swift",
+        "topics": [
+          "clipboard-manager",
+          "maccy",
+          "macos"
+        ],
+        "stars": 21262,
+        "forks": 1112,
+        "open_issues": 157,
+        "age_days": 3123,
+        "pushed_days_ago": 7,
+        "stars_per_day": 6.81,
+        "commits": 1088,
+        "contributors": 82,
+        "top_author_share": 0.76,
+        "releases": 91,
+        "latest_release_days": 10,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "82 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "91 releases"
+          },
+          {
+            "kind": "good",
+            "text": "6.81 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.226
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 7,
+        "contributors": 82,
+        "commits": 1088,
+        "releases": 91,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 21262,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "hammerspoon",
+      "name": "Hammerspoon",
+      "repo": "Hammerspoon/hammerspoon",
+      "kind": "app",
+      "pitch": "Automate windows, shortcuts, and apps on macOS with Lua.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Automation",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "Scriptable"
+      ],
+      "install": "brew install --cask hammerspoon",
+      "get_url": "https://www.hammerspoon.org",
+      "featured": true,
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "Hammerspoon/hammerspoon",
+        "url": "https://github.com/Hammerspoon/hammerspoon",
+        "description": "Staggeringly powerful macOS desktop automation with Lua",
+        "language": "Objective-C",
+        "topics": [
+          "automation",
+          "hammerspoon",
+          "irc",
+          "lua",
+          "macos",
+          "mjolnir",
+          "objective-c",
+          "osx"
+        ],
+        "stars": 15958,
+        "forks": 711,
+        "open_issues": 686,
+        "age_days": 4333,
+        "pushed_days_ago": 42,
+        "stars_per_day": 3.68,
+        "commits": 6938,
+        "contributors": 144,
+        "top_author_share": 0.41,
+        "releases": 103,
+        "latest_release_days": 175,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "144 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "103 releases"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.394
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 42,
+        "contributors": 144,
+        "commits": 6938,
+        "releases": 103,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 15958,
+        "language": "Objective-C"
+      }
+    },
+    {
+      "slug": "localsend",
+      "name": "LocalSend",
+      "repo": "localsend/localsend",
+      "kind": "app",
+      "pitch": "Send files between phones and computers over your local network.",
+      "platforms": [
+        "macOS",
+        "Windows",
+        "Linux",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "File transfer",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "No cloud"
+      ],
+      "get_url": "https://localsend.org",
+      "featured": true,
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "localsend/localsend",
+        "url": "https://github.com/localsend/localsend",
+        "description": "An open-source cross-platform alternative to AirDrop",
+        "language": "Dart",
+        "topics": [
+          "dart",
+          "file-sharing",
+          "flutter",
+          "flutter-apps"
+        ],
+        "stars": 88811,
+        "forks": 4939,
+        "open_issues": 1087,
+        "age_days": 1343,
+        "pushed_days_ago": 1,
+        "stars_per_day": 66.13,
+        "commits": 2092,
+        "contributors": 227,
+        "top_author_share": 0.67,
+        "releases": 26,
+        "latest_release_days": 8,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "227 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "26 releases"
+          },
+          {
+            "kind": "good",
+            "text": "66.13 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 2.633
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 227,
+        "commits": 2092,
+        "releases": 26,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "Apache-2.0",
+        "stars": 88811,
+        "language": "Dart"
+      }
+    },
+    {
+      "slug": "ripgrep",
+      "name": "ripgrep",
+      "repo": "BurntSushi/ripgrep",
+      "kind": "cli",
+      "pitch": "Search huge codebases in milliseconds while respecting your gitignore.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "Fast"
+      ],
+      "install": "brew install ripgrep",
+      "get_url": "https://github.com/BurntSushi/ripgrep",
+      "featured": true,
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "BurntSushi/ripgrep",
+        "url": "https://github.com/BurntSushi/ripgrep",
+        "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+        "language": "Rust",
+        "topics": [
+          "cli",
+          "command-line",
+          "command-line-tool",
+          "gitignore",
+          "grep",
+          "recursively-search",
+          "regex",
+          "ripgrep",
+          "rust",
+          "search"
+        ],
+        "stars": 67447,
+        "forks": 2729,
+        "open_issues": 179,
+        "age_days": 3814,
+        "pushed_days_ago": 16,
+        "stars_per_day": 17.68,
+        "commits": 2287,
+        "contributors": 439,
+        "top_author_share": 0.69,
+        "releases": 75,
+        "latest_release_days": 36,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "439 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "75 releases"
+          },
+          {
+            "kind": "good",
+            "text": "17.68 stars/day"
+          }
+        ],
+        "momentum": 1.05
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 16,
+        "contributors": 439,
+        "commits": 2287,
+        "releases": 75,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "Unlicense",
+        "stars": 67447,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "nutola",
+      "name": "Nutola",
+      "repo": "Nutola/Nutola",
+      "kind": "app",
+      "pitch": "Record, transcribe, and summarise meetings directly on your Mac.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Meetings",
+        "Voice",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "On-device"
+      ],
+      "get_url": "https://github.com/Nutola/Nutola",
+      "featured": true,
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "Nutola/Nutola",
+        "url": "https://github.com/Nutola/Nutola",
+        "description": "On-device meeting notetaker for macOS — an open-source Granola alternative. Records, transcribes, and summarizes meetings locally with Apple Intelligence, with your own Claude account for advanced chat & publishing.",
+        "language": "Swift",
+        "topics": [],
+        "stars": 3,
+        "forks": 0,
+        "open_issues": 0,
+        "age_days": 36,
+        "pushed_days_ago": 1,
+        "stars_per_day": 0.08,
+        "commits": 129,
+        "contributors": 2,
+        "top_author_share": 0.69,
+        "releases": 0,
+        "latest_release_days": null,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "promising",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "warn",
+            "text": "no releases"
+          }
+        ],
+        "momentum": 0.238
+      },
+      "trust": {
+        "maturity": "promising",
+        "last_push_days": 1,
+        "contributors": 2,
+        "commits": 129,
+        "releases": 0,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 3,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "fzf",
+      "name": "fzf",
+      "repo": "junegunn/fzf",
+      "kind": "cli",
+      "pitch": "Fuzzy-find anything in your shell: files, command history, git branches.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Composable"
+      ],
+      "install": "brew install fzf",
+      "get_url": "https://github.com/junegunn/fzf",
+      "featured": true,
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "junegunn/fzf",
+        "url": "https://github.com/junegunn/fzf",
+        "description": ":cherry_blossom: A command-line fuzzy finder",
+        "language": "Go",
+        "topics": [
+          "bash",
+          "cli",
+          "fish",
+          "fzf",
+          "go",
+          "neovim",
+          "tmux",
+          "unix",
+          "vim",
+          "zsh"
+        ],
+        "stars": 82597,
+        "forks": 2855,
+        "open_issues": 328,
+        "age_days": 4684,
+        "pushed_days_ago": 0,
+        "stars_per_day": 17.63,
+        "commits": 3725,
+        "contributors": 313,
+        "top_author_share": 0.81,
+        "releases": 84,
+        "latest_release_days": 3,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "313 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "84 releases"
+          },
+          {
+            "kind": "good",
+            "text": "17.63 stars/day"
+          }
+        ],
+        "momentum": 0.715
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 313,
+        "commits": 3725,
+        "releases": 84,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 82597,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "lazygit",
+      "name": "lazygit",
+      "repo": "jesseduffield/lazygit",
+      "kind": "cli",
+      "pitch": "Stage hunks, rebase, and fix conflicts in a terminal UI instead of memorising flags.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "Keyboard-first"
+      ],
+      "install": "brew install lazygit",
+      "get_url": "https://github.com/jesseduffield/lazygit",
+      "featured": true,
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "jesseduffield/lazygit",
+        "url": "https://github.com/jesseduffield/lazygit",
+        "description": "simple terminal UI for git commands",
+        "language": "Go",
+        "topics": [
+          "cli",
+          "git",
+          "terminal"
+        ],
+        "stars": 81495,
+        "forks": 2999,
+        "open_issues": 1024,
+        "age_days": 3015,
+        "pushed_days_ago": 0,
+        "stars_per_day": 27.03,
+        "commits": 8156,
+        "contributors": 361,
+        "top_author_share": 0.39,
+        "releases": 186,
+        "latest_release_days": 8,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "361 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "186 releases"
+          },
+          {
+            "kind": "good",
+            "text": "27.03 stars/day"
+          }
+        ],
+        "momentum": 0.774
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 361,
+        "commits": 8156,
+        "releases": 186,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 81495,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "voiceink",
+      "name": "VoiceInk",
+      "repo": "Beingpax/VoiceInk",
+      "kind": "app",
+      "pitch": "Dictate into any app without a subscription or sending your voice to the cloud.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Voice",
+        "Productivity",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Local"
+      ],
+      "get_url": "https://tryvoiceink.com",
+      "featured": true,
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "Beingpax/VoiceInk",
+        "url": "https://github.com/Beingpax/VoiceInk",
+        "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
+        "language": "Swift",
+        "topics": [
+          "macos",
+          "macos-app",
+          "swift"
+        ],
+        "stars": 6013,
+        "forks": 866,
+        "open_issues": 117,
+        "age_days": 669,
+        "pushed_days_ago": 0,
+        "stars_per_day": 8.99,
+        "commits": 1636,
+        "contributors": 38,
+        "top_author_share": 0.95,
+        "releases": 128,
+        "latest_release_days": 8,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "38 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "128 releases"
+          },
+          {
+            "kind": "good",
+            "text": "8.99 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "top author wrote 95% of commits"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.623
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 38,
+        "commits": 1636,
+        "releases": 128,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 6013,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "jiggler",
+      "name": "Jiggler",
+      "repo": "bhaller/Jiggler",
+      "kind": "app",
+      "pitch": "Keep your Mac awake during long tasks without changing your sleep settings.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Menu bar",
+        "System",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Tiny",
+        "GPL-3.0"
+      ],
+      "install": "brew install --cask jiggler",
+      "get_url": "https://www.sticksoftware.com/software/Jiggler.html",
+      "featured": true,
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "bhaller/Jiggler",
+        "url": "https://github.com/bhaller/Jiggler",
+        "description": "Jiggler is a little freeware app with one purpose: to keep your Mac awake.",
+        "language": "Objective-C",
+        "topics": [],
+        "stars": 322,
+        "forks": 47,
+        "open_issues": 28,
+        "age_days": 3743,
+        "pushed_days_ago": 253,
+        "stars_per_day": 0.09,
+        "commits": 14,
+        "contributors": 3,
+        "top_author_share": 0.5,
+        "releases": 1,
+        "latest_release_days": 253,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": false,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "1 releases"
+          },
+          {
+            "kind": "warn",
+            "text": "no commits for 253 days"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.015
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 253,
+        "contributors": 3,
+        "commits": 14,
+        "releases": 1,
+        "has_tests": false,
+        "has_ci": false,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 322,
+        "language": "Objective-C"
+      }
+    },
+    {
+      "slug": "aerospace",
+      "name": "AeroSpace",
+      "repo": "nikitabobko/AeroSpace",
+      "kind": "app",
+      "pitch": "An i3-like tiling window manager designed around the keyboard.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Window management",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Keyboard-first"
+      ],
+      "install": "brew install --cask nikitabobko/tap/aerospace",
+      "get_url": "https://nikitabobko.github.io/AeroSpace/guide",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "nikitabobko/AeroSpace",
+        "url": "https://github.com/nikitabobko/AeroSpace",
+        "description": "AeroSpace is an i3-like tiling window manager for macOS",
+        "language": "Swift",
+        "topics": [
+          "apple",
+          "i3",
+          "i3wm",
+          "mac",
+          "macos",
+          "swift",
+          "tiling",
+          "tiling-window-manager",
+          "window-manager"
+        ],
+        "stars": 22510,
+        "forks": 637,
+        "open_issues": 197,
+        "age_days": 1186,
+        "pushed_days_ago": 10,
+        "stars_per_day": 18.98,
+        "commits": 1734,
+        "contributors": 52,
+        "top_author_share": 0.94,
+        "releases": 63,
+        "latest_release_days": null,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "52 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "63 releases"
+          },
+          {
+            "kind": "good",
+            "text": "18.98 stars/day"
+          }
+        ],
+        "momentum": 1.33
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 10,
+        "contributors": 52,
+        "commits": 1734,
+        "releases": 63,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 22510,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "alt-tab",
+      "name": "AltTab",
+      "repo": "lwouis/alt-tab-macos",
+      "kind": "app",
+      "pitch": "Switch between individual windows on macOS with visual previews.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Window management",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask alt-tab",
+      "get_url": "https://alt-tab-macos.netlify.app",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "lwouis/alt-tab-macos",
+        "url": "https://github.com/lwouis/alt-tab-macos",
+        "description": "Windows alt-tab on macOS",
+        "language": "Swift",
+        "topics": [
+          "alt-tab",
+          "alttab",
+          "expose",
+          "macos",
+          "mission-control",
+          "task-switcher",
+          "utility",
+          "window-manager"
+        ],
+        "stars": 16192,
+        "forks": 839,
+        "open_issues": 67,
+        "age_days": 2563,
+        "pushed_days_ago": 1,
+        "stars_per_day": 6.32,
+        "commits": 1935,
+        "contributors": 40,
+        "top_author_share": 0.67,
+        "releases": 12,
+        "latest_release_days": 1,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "40 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "12 releases"
+          },
+          {
+            "kind": "good",
+            "text": "6.32 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.687
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 40,
+        "commits": 1935,
+        "releases": 12,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 16192,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "stats",
+      "name": "Stats",
+      "repo": "exelban/stats",
+      "kind": "app",
+      "pitch": "See CPU, memory, network, and temperature in your Mac menu bar.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Menu bar",
+        "System"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask stats",
+      "get_url": "https://github.com/exelban/stats",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "exelban/stats",
+        "url": "https://github.com/exelban/stats",
+        "description": "macOS system monitor in your menu bar",
+        "language": "Swift",
+        "topics": [
+          "battery",
+          "bluetooth",
+          "clock",
+          "cpu",
+          "disk",
+          "fans",
+          "gpu",
+          "macos",
+          "menubar",
+          "monitor",
+          "network",
+          "sensors",
+          "stats",
+          "temperature"
+        ],
+        "stars": 41323,
+        "forks": 1488,
+        "open_issues": 27,
+        "age_days": 2639,
+        "pushed_days_ago": 1,
+        "stars_per_day": 15.66,
+        "commits": 2424,
+        "contributors": 185,
+        "top_author_share": 0.82,
+        "releases": 348,
+        "latest_release_days": 11,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "185 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "348 releases"
+          },
+          {
+            "kind": "good",
+            "text": "15.66 stars/day"
+          }
+        ],
+        "momentum": 2.051
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 185,
+        "commits": 2424,
+        "releases": 348,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 41323,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "monitorcontrol",
+      "name": "MonitorControl",
+      "repo": "MonitorControl/MonitorControl",
+      "kind": "app",
+      "pitch": "Control external-display brightness and volume with your Mac keys.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "System",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask monitorcontrol",
+      "get_url": "https://displaybuddy.app/monitorcontrol",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "MonitorControl/MonitorControl",
+        "url": "https://github.com/MonitorControl/MonitorControl",
+        "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+        "language": "Swift",
+        "topics": [
+          "apple",
+          "brightness",
+          "control",
+          "ddc",
+          "display",
+          "external-monitor",
+          "gamma",
+          "keyboard",
+          "m1",
+          "macos",
+          "macos-app",
+          "menubar",
+          "osx",
+          "shade",
+          "silicon",
+          "swift",
+          "volume",
+          "xcode"
+        ],
+        "stars": 34004,
+        "forks": 989,
+        "open_issues": 23,
+        "age_days": 3259,
+        "pushed_days_ago": 9,
+        "stars_per_day": 10.43,
+        "commits": 291,
+        "contributors": 79,
+        "top_author_share": 0.24,
+        "releases": 26,
+        "latest_release_days": 685,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "79 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "26 releases"
+          },
+          {
+            "kind": "good",
+            "text": "10.43 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.231
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 9,
+        "contributors": 79,
+        "commits": 291,
+        "releases": 26,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 34004,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "pearcleaner",
+      "name": "Pearcleaner",
+      "repo": "alienator88/Pearcleaner",
+      "kind": "app",
+      "pitch": "Uninstall Mac apps completely, including the files they leave behind.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "System",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask pearcleaner",
+      "get_url": "https://itsalin.com/appInfo/?id=pearcleaner",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "alienator88/Pearcleaner",
+        "url": "https://github.com/alienator88/Pearcleaner",
+        "description": "A free, source-available and fair-code licensed mac app cleaner",
+        "language": "Swift",
+        "topics": [],
+        "stars": 14381,
+        "forks": 366,
+        "open_issues": 80,
+        "age_days": 1011,
+        "pushed_days_ago": 58,
+        "stars_per_day": 14.22,
+        "commits": 1007,
+        "contributors": 21,
+        "top_author_share": 0.93,
+        "releases": 119,
+        "latest_release_days": 266,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "21 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "119 releases"
+          },
+          {
+            "kind": "good",
+            "text": "14.22 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.419
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 58,
+        "contributors": 21,
+        "commits": 1007,
+        "releases": 119,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 14381,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "espanso",
+      "name": "Espanso",
+      "repo": "espanso/espanso",
+      "kind": "app",
+      "pitch": "Expand short text commands into reusable templates in any app.",
+      "platforms": [
+        "macOS",
+        "Windows",
+        "Linux"
+      ],
+      "categories": [
+        "Automation",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Local"
+      ],
+      "install": "brew install espanso",
+      "get_url": "https://espanso.org",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "espanso/espanso",
+        "url": "https://github.com/espanso/espanso",
+        "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+        "language": "Rust",
+        "topics": [
+          "espanso",
+          "linux",
+          "macos",
+          "productivity",
+          "productivity-tools",
+          "rust",
+          "text-expander",
+          "windows"
+        ],
+        "stars": 14320,
+        "forks": 457,
+        "open_issues": 535,
+        "age_days": 2547,
+        "pushed_days_ago": 4,
+        "stars_per_day": 5.62,
+        "commits": 1642,
+        "contributors": 58,
+        "top_author_share": 0.78,
+        "releases": 55,
+        "latest_release_days": 30,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "58 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "55 releases"
+          },
+          {
+            "kind": "good",
+            "text": "5.62 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.367
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 4,
+        "contributors": 58,
+        "commits": 1642,
+        "releases": 55,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 14320,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "appflowy",
+      "name": "AppFlowy",
+      "repo": "AppFlowy-IO/AppFlowy",
+      "kind": "app",
+      "pitch": "An open-source workspace for notes, tasks, and lightweight databases.",
+      "platforms": [
+        "macOS",
+        "Windows",
+        "Linux",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "Notes",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Local-first"
+      ],
+      "get_url": "https://appflowy.com",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "AppFlowy-IO/AppFlowy",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy",
+        "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+        "language": "Dart",
+        "topics": [
+          "blog",
+          "confluence-alternative",
+          "content-management",
+          "content-services",
+          "documentation",
+          "flutter",
+          "note-taking",
+          "notion-alternative",
+          "project-management",
+          "task-management",
+          "team-collaboration",
+          "wiki"
+        ],
+        "stars": 75783,
+        "forks": 5893,
+        "open_issues": 999,
+        "age_days": 1891,
+        "pushed_days_ago": 9,
+        "stars_per_day": 40.08,
+        "commits": 7210,
+        "contributors": 362,
+        "top_author_share": 0.44,
+        "releases": 142,
+        "latest_release_days": 9,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "362 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "142 releases"
+          },
+          {
+            "kind": "good",
+            "text": "40.08 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.585
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 9,
+        "contributors": 362,
+        "commits": 7210,
+        "releases": 142,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "AGPL-3.0",
+        "stars": 75783,
+        "language": "Dart"
+      }
+    },
+    {
+      "slug": "bat",
+      "name": "bat",
+      "repo": "sharkdp/bat",
+      "kind": "cli",
+      "pitch": "Read files in the terminal with syntax highlighting and git markers.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal"
+      ],
+      "traits": [
+        "Free",
+        "Drop-in"
+      ],
+      "install": "brew install bat",
+      "get_url": "https://github.com/sharkdp/bat",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "sharkdp/bat",
+        "url": "https://github.com/sharkdp/bat",
+        "description": "A cat(1) clone with wings.",
+        "language": "Rust",
+        "topics": [
+          "cli",
+          "command-line",
+          "git",
+          "hacktoberfest",
+          "rust",
+          "syntax-highlighting",
+          "terminal",
+          "tool"
+        ],
+        "stars": 60229,
+        "forks": 1630,
+        "open_issues": 423,
+        "age_days": 3043,
+        "pushed_days_ago": 9,
+        "stars_per_day": 19.79,
+        "commits": 4006,
+        "contributors": 410,
+        "top_author_share": 0.26,
+        "releases": 43,
+        "latest_release_days": 260,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "410 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "43 releases"
+          },
+          {
+            "kind": "good",
+            "text": "19.79 stars/day"
+          }
+        ],
+        "momentum": 1.399
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 9,
+        "contributors": 410,
+        "commits": 4006,
+        "releases": 43,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "Apache-2.0",
+        "stars": 60229,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "fd",
+      "name": "fd",
+      "repo": "sharkdp/fd",
+      "kind": "cli",
+      "pitch": "Find files without remembering find's syntax.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal"
+      ],
+      "traits": [
+        "Free",
+        "Fast"
+      ],
+      "install": "brew install fd",
+      "get_url": "https://github.com/sharkdp/fd",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "sharkdp/fd",
+        "url": "https://github.com/sharkdp/fd",
+        "description": "A simple, fast and user-friendly alternative to 'find'",
+        "language": "Rust",
+        "topics": [
+          "cli",
+          "command-line",
+          "filesystem",
+          "hacktoberfest",
+          "regex",
+          "rust",
+          "search",
+          "terminal",
+          "tool"
+        ],
+        "stars": 44152,
+        "forks": 1117,
+        "open_issues": 189,
+        "age_days": 3389,
+        "pushed_days_ago": 9,
+        "stars_per_day": 13.03,
+        "commits": 2005,
+        "contributors": 203,
+        "top_author_share": 0.3,
+        "releases": 44,
+        "latest_release_days": 163,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "203 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "44 releases"
+          },
+          {
+            "kind": "good",
+            "text": "13.03 stars/day"
+          }
+        ],
+        "momentum": 1.289
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 9,
+        "contributors": 203,
+        "commits": 2005,
+        "releases": 44,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "Apache-2.0",
+        "stars": 44152,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "zoxide",
+      "name": "zoxide",
+      "repo": "ajeetdsouza/zoxide",
+      "kind": "cli",
+      "pitch": "Jump to the directory you meant instead of typing the whole path.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Learns usage"
+      ],
+      "install": "brew install zoxide",
+      "get_url": "https://github.com/ajeetdsouza/zoxide",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "ajeetdsouza/zoxide",
+        "url": "https://github.com/ajeetdsouza/zoxide",
+        "description": "A smarter cd command. Supports all major shells.",
+        "language": "Rust",
+        "topics": [
+          "autojump",
+          "bash",
+          "cli",
+          "command-line",
+          "command-line-tool",
+          "elvish",
+          "fasd",
+          "fish",
+          "fish-shell",
+          "fzf",
+          "hacktoberfest",
+          "jump",
+          "nushell",
+          "powershell",
+          "rust",
+          "shell",
+          "xonsh",
+          "xontrib",
+          "z",
+          "zsh"
+        ],
+        "stars": 38744,
+        "forks": 869,
+        "open_issues": 138,
+        "age_days": 2359,
+        "pushed_days_ago": 1,
+        "stars_per_day": 16.42,
+        "commits": 628,
+        "contributors": 105,
+        "top_author_share": 0.71,
+        "releases": 38,
+        "latest_release_days": 47,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "105 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "38 releases"
+          },
+          {
+            "kind": "good",
+            "text": "16.42 stars/day"
+          }
+        ],
+        "momentum": 2.07
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 105,
+        "commits": 628,
+        "releases": 38,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 38744,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "btop",
+      "name": "btop",
+      "repo": "aristocratos/btop",
+      "kind": "cli",
+      "pitch": "Watch CPU, memory, disks, and processes in a readable live dashboard.",
+      "platforms": [
+        "macOS",
+        "Linux"
+      ],
+      "categories": [
+        "Terminal",
+        "System"
+      ],
+      "traits": [
+        "Free",
+        "Mouse support"
+      ],
+      "install": "brew install btop",
+      "get_url": "https://github.com/aristocratos/btop",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "aristocratos/btop",
+        "url": "https://github.com/aristocratos/btop",
+        "description": "A monitor of resources",
+        "language": "C++",
+        "topics": [],
+        "stars": 34122,
+        "forks": 1129,
+        "open_issues": 529,
+        "age_days": 1931,
+        "pushed_days_ago": 11,
+        "stars_per_day": 17.67,
+        "commits": 1643,
+        "contributors": 171,
+        "top_author_share": 0.49,
+        "releases": 55,
+        "latest_release_days": 111,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "guide",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "171 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "55 releases"
+          },
+          {
+            "kind": "good",
+            "text": "17.67 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "reading material, not a tool"
+          }
+        ],
+        "momentum": 1.26
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 11,
+        "contributors": 171,
+        "commits": 1643,
+        "releases": 55,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "Apache-2.0",
+        "stars": 34122,
+        "language": "C++"
+      }
+    },
+    {
+      "slug": "jq",
+      "name": "jq",
+      "repo": "jqlang/jq",
+      "kind": "cli",
+      "pitch": "Filter and reshape JSON directly in a shell pipeline.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "Scriptable"
+      ],
+      "install": "brew install jq",
+      "get_url": "https://jqlang.github.io/jq",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "jqlang/jq",
+        "url": "https://github.com/jqlang/jq",
+        "description": "Command-line JSON processor",
+        "language": "C",
+        "topics": [
+          "jq"
+        ],
+        "stars": 35477,
+        "forks": 1820,
+        "open_issues": 472,
+        "age_days": 5145,
+        "pushed_days_ago": 7,
+        "stars_per_day": 6.9,
+        "commits": 1934,
+        "contributors": 227,
+        "top_author_share": 0.28,
+        "releases": 16,
+        "latest_release_days": 61,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "227 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "16 releases"
+          },
+          {
+            "kind": "good",
+            "text": "6.9 stars/day"
+          }
+        ],
+        "momentum": 1.23
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 7,
+        "contributors": 227,
+        "commits": 1934,
+        "releases": 16,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 35477,
+        "language": "C"
+      }
+    },
+    {
+      "slug": "delta",
+      "name": "delta",
+      "repo": "dandavison/delta",
+      "kind": "cli",
+      "pitch": "Make git diffs readable with syntax highlighting and side-by-side view.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "Drop-in"
+      ],
+      "install": "brew install git-delta",
+      "get_url": "https://dandavison.github.io/delta",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "dandavison/delta",
+        "url": "https://github.com/dandavison/delta",
+        "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
+        "language": "Rust",
+        "topics": [
+          "color-themes",
+          "delta",
+          "diff",
+          "git",
+          "git-delta",
+          "pager",
+          "rust",
+          "syntax-highlighter"
+        ],
+        "stars": 31813,
+        "forks": 562,
+        "open_issues": 427,
+        "age_days": 2614,
+        "pushed_days_ago": 18,
+        "stars_per_day": 12.17,
+        "commits": 2179,
+        "contributors": 149,
+        "top_author_share": 0.77,
+        "releases": 62,
+        "latest_release_days": 144,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "149 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "62 releases"
+          },
+          {
+            "kind": "good",
+            "text": "12.17 stars/day"
+          }
+        ],
+        "momentum": 0.914
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 18,
+        "contributors": 149,
+        "commits": 2179,
+        "releases": 62,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 31813,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "eza",
+      "name": "eza",
+      "repo": "eza-community/eza",
+      "kind": "cli",
+      "pitch": "List directories with git status, sizes, and a tree view.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal"
+      ],
+      "traits": [
+        "Free",
+        "Drop-in"
+      ],
+      "install": "brew install eza",
+      "get_url": "https://eza.rocks",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "eza-community/eza",
+        "url": "https://github.com/eza-community/eza",
+        "description": "A modern alternative to ls",
+        "language": "Rust",
+        "topics": [
+          "color",
+          "command-line",
+          "files",
+          "hacktoberfest",
+          "icons",
+          "ls",
+          "nerd-fonts",
+          "rust",
+          "terminal",
+          "tools"
+        ],
+        "stars": 22982,
+        "forks": 505,
+        "open_issues": 432,
+        "age_days": 1119,
+        "pushed_days_ago": 13,
+        "stars_per_day": 20.54,
+        "commits": 3372,
+        "contributors": 289,
+        "top_author_share": 0.34,
+        "releases": 96,
+        "latest_release_days": 42,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "289 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "96 releases"
+          },
+          {
+            "kind": "good",
+            "text": "20.54 stars/day"
+          }
+        ],
+        "momentum": 1.2
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 13,
+        "contributors": 289,
+        "commits": 3372,
+        "releases": 96,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "EUPL-1.2",
+        "stars": 22982,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "starship",
+      "name": "Starship",
+      "repo": "starship/starship",
+      "kind": "cli",
+      "pitch": "A fast prompt showing git, language, and environment context in any shell.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Any shell"
+      ],
+      "install": "brew install starship",
+      "get_url": "https://starship.rs",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "starship/starship",
+        "url": "https://github.com/starship/starship",
+        "description": "☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+        "language": "Rust",
+        "topics": [
+          "bash",
+          "fish",
+          "fish-prompt",
+          "fish-theme",
+          "oh-my-zsh",
+          "powershell",
+          "rust",
+          "shell-prompt",
+          "starship",
+          "zsh",
+          "zsh-prompt",
+          "zsh-theme"
+        ],
+        "stars": 59498,
+        "forks": 2634,
+        "open_issues": 1034,
+        "age_days": 2697,
+        "pushed_days_ago": 3,
+        "stars_per_day": 22.06,
+        "commits": 4374,
+        "contributors": 452,
+        "top_author_share": 0.32,
+        "releases": 141,
+        "latest_release_days": 53,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "452 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "141 releases"
+          },
+          {
+            "kind": "good",
+            "text": "22.06 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.932
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 3,
+        "contributors": 452,
+        "commits": 4374,
+        "releases": 141,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "ISC",
+        "stars": 59498,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "helix",
+      "name": "Helix",
+      "repo": "helix-editor/helix",
+      "kind": "cli",
+      "pitch": "A modal editor with language servers and tree-sitter working out of the box.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "No plugins needed"
+      ],
+      "install": "brew install helix",
+      "get_url": "https://helix-editor.com",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "helix-editor/helix",
+        "url": "https://github.com/helix-editor/helix",
+        "description": "A post-modern modal text editor.",
+        "language": "Rust",
+        "topics": [
+          "kakoune",
+          "rust",
+          "text-editor",
+          "vim"
+        ],
+        "stars": 45893,
+        "forks": 3684,
+        "open_issues": 1617,
+        "age_days": 2271,
+        "pushed_days_ago": 1,
+        "stars_per_day": 20.21,
+        "commits": 7689,
+        "contributors": 415,
+        "top_author_share": 0.19,
+        "releases": 30,
+        "latest_release_days": 398,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "415 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "30 releases"
+          },
+          {
+            "kind": "good",
+            "text": "20.21 stars/day"
+          }
+        ],
+        "momentum": 2.154
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 415,
+        "commits": 7689,
+        "releases": 30,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MPL-2.0",
+        "stars": 45893,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "restic",
+      "name": "restic",
+      "repo": "restic/restic",
+      "kind": "cli",
+      "pitch": "Encrypted, deduplicated backups you can actually verify and restore.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Backup",
+        "Privacy",
+        "Terminal"
+      ],
+      "traits": [
+        "Free",
+        "Encrypted"
+      ],
+      "install": "brew install restic",
+      "get_url": "https://restic.net",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "restic/restic",
+        "url": "https://github.com/restic/restic",
+        "description": "Fast, secure, efficient backup program",
+        "language": "Go",
+        "topics": [
+          "backup",
+          "dedupe",
+          "deduplication",
+          "go",
+          "restic",
+          "secure-by-default"
+        ],
+        "stars": 35624,
+        "forks": 1835,
+        "open_issues": 569,
+        "age_days": 4498,
+        "pushed_days_ago": 18,
+        "stars_per_day": 7.92,
+        "commits": 9886,
+        "contributors": 397,
+        "top_author_share": 0.4,
+        "releases": 51,
+        "latest_release_days": 46,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "397 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "51 releases"
+          },
+          {
+            "kind": "good",
+            "text": "7.92 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.833
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 18,
+        "contributors": 397,
+        "commits": 9886,
+        "releases": 51,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "BSD-2-Clause",
+        "stars": 35624,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "audiobookshelf",
+      "name": "Audiobookshelf",
+      "repo": "advplyr/audiobookshelf",
+      "kind": "service",
+      "pitch": "Host your audiobooks and podcasts with progress synced across devices.",
+      "platforms": [
+        "Self-hosted",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "Media",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "Mobile apps"
+      ],
+      "get_url": "https://www.audiobookshelf.org",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "advplyr/audiobookshelf",
+        "url": "https://github.com/advplyr/audiobookshelf",
+        "description": "Self-hosted audiobook and podcast server",
+        "language": "JavaScript",
+        "topics": [
+          "audiobook-manager",
+          "audiobooks",
+          "audiobookshelf",
+          "podcasts",
+          "self-hosted"
+        ],
+        "stars": 14045,
+        "forks": 1123,
+        "open_issues": 1142,
+        "age_days": 1828,
+        "pushed_days_ago": 3,
+        "stars_per_day": 7.68,
+        "commits": 6547,
+        "contributors": 359,
+        "top_author_share": 0.6,
+        "releases": 158,
+        "latest_release_days": 23,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "359 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "158 releases"
+          },
+          {
+            "kind": "good",
+            "text": "7.68 stars/day"
+          }
+        ],
+        "momentum": 1.557
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 3,
+        "contributors": 359,
+        "commits": 6547,
+        "releases": 158,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 14045,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "slug": "sponsorblock",
+      "name": "SponsorBlock",
+      "repo": "ajayyy/SponsorBlock",
+      "kind": "extension",
+      "pitch": "Skip sponsor segments in videos using crowdsourced timestamps.",
+      "platforms": [
+        "Firefox",
+        "Chrome"
+      ],
+      "categories": [
+        "Browser",
+        "Media"
+      ],
+      "traits": [
+        "Free",
+        "Community data"
+      ],
+      "get_url": "https://sponsor.ajay.app",
+      "kind_label": "Browser extension",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "ajayyy/SponsorBlock",
+        "url": "https://github.com/ajayyy/SponsorBlock",
+        "description": "Skip YouTube video sponsors (browser extension)",
+        "language": "TypeScript",
+        "topics": [
+          "adblock",
+          "adblocker",
+          "chrome",
+          "chrome-extension",
+          "chromium",
+          "firefox",
+          "firefox-extension",
+          "hacktoberfest",
+          "opera",
+          "sponsorblock",
+          "sponsored-segments",
+          "web-extension",
+          "youtube",
+          "youtube-videos"
+        ],
+        "stars": 13661,
+        "forks": 469,
+        "open_issues": 439,
+        "age_days": 2598,
+        "pushed_days_ago": 15,
+        "stars_per_day": 5.26,
+        "commits": 4053,
+        "contributors": 78,
+        "top_author_share": 0.8,
+        "releases": 307,
+        "latest_release_days": 38,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "78 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "307 releases"
+          },
+          {
+            "kind": "good",
+            "text": "5.26 stars/day"
+          }
+        ],
+        "momentum": 0.835
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 15,
+        "contributors": 78,
+        "commits": 4053,
+        "releases": 307,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 13661,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "slug": "cc-haha",
+      "name": "cc-haha",
+      "repo": "NanmiCoder/cc-haha",
+      "kind": "app",
+      "pitch": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with…",
+      "platforms": [
+        "Desktop"
+      ],
+      "categories": [
+        "AI",
+        "Developer tools",
+        "Privacy"
+      ],
+      "traits": [
+        "Open source",
+        "Actively maintained",
+        "Tests + CI"
+      ],
+      "get_url": "https://github.com/NanmiCoder/cc-haha",
+      "automated": true,
+      "selected_at": "2026-08-20T18:35:40+00:00",
+      "selection_reason": "proven · updated 6d ago · 27 contributors · 40 releases",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:34:29+00:00",
+        "active_until": "2026-09-19T18:34:29+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "NanmiCoder/cc-haha",
+        "url": "https://github.com/NanmiCoder/cc-haha",
+        "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "coding-agent",
+          "computer-use",
+          "desktop-app",
+          "electron",
+          "llm",
+          "mcp",
+          "react",
+          "typescript"
+        ],
+        "stars": 14170,
+        "forks": 8540,
+        "open_issues": 174,
+        "age_days": 142,
+        "pushed_days_ago": 6,
+        "stars_per_day": 99.79,
+        "commits": 1823,
+        "contributors": 27,
+        "top_author_share": 0.94,
+        "releases": 40,
+        "latest_release_days": 6,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "27 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "40 releases"
+          },
+          {
+            "kind": "good",
+            "text": "99.79 stars/day"
+          }
+        ],
+        "momentum": 2.1
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 6,
+        "contributors": 27,
+        "commits": 1823,
+        "releases": 40,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 14170,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "slug": "keepingyouawake",
+      "name": "KeepingYouAwake",
+      "repo": "newmarcel/KeepingYouAwake",
+      "kind": "app",
+      "pitch": "Keep your Mac awake for a chosen time from one menu bar button.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Menu bar",
+        "System"
+      ],
+      "traits": [
+        "Free",
+        "Tiny"
+      ],
+      "install": "brew install --cask keepingyouawake",
+      "get_url": "https://keepingyouawake.app",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "newmarcel/KeepingYouAwake",
+        "url": "https://github.com/newmarcel/KeepingYouAwake",
+        "description": "Prevents your Mac from going to sleep.",
+        "language": "Objective-C",
+        "topics": [
+          "caffeine",
+          "macos",
+          "menubar",
+          "objective-c",
+          "utility"
+        ],
+        "stars": 6852,
+        "forks": 264,
+        "open_issues": 29,
+        "age_days": 4323,
+        "pushed_days_ago": 5,
+        "stars_per_day": 1.59,
+        "commits": 711,
+        "contributors": 32,
+        "top_author_share": 0.89,
+        "releases": 45,
+        "latest_release_days": 342,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "32 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "45 releases"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.905
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 5,
+        "contributors": 32,
+        "commits": 711,
+        "releases": 45,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 6852,
+        "language": "Objective-C"
+      }
+    },
+    {
+      "slug": "linearmouse",
+      "name": "LinearMouse",
+      "repo": "linearmouse/linearmouse",
+      "kind": "app",
+      "pitch": "Tune scrolling, acceleration, and buttons for each mouse you use.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "System",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask linearmouse",
+      "get_url": "https://linearmouse.app",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "linearmouse/linearmouse",
+        "url": "https://github.com/linearmouse/linearmouse",
+        "description": "The mouse and trackpad utility for Mac.",
+        "language": "Swift",
+        "topics": [
+          "acceleration",
+          "cursor",
+          "mac",
+          "macos",
+          "mouse",
+          "productivity",
+          "scrolling",
+          "sensitivity",
+          "utility"
+        ],
+        "stars": 6706,
+        "forks": 156,
+        "open_issues": 133,
+        "age_days": 1897,
+        "pushed_days_ago": 9,
+        "stars_per_day": 3.54,
+        "commits": 734,
+        "contributors": 32,
+        "top_author_share": 0.78,
+        "releases": 157,
+        "latest_release_days": 18,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "32 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "157 releases"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.95
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 9,
+        "contributors": 32,
+        "commits": 734,
+        "releases": 157,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 6706,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "onlyswitch",
+      "name": "OnlySwitch",
+      "repo": "jacklandrin/OnlySwitch",
+      "kind": "app",
+      "pitch": "Put useful hidden macOS system switches in one menu bar panel.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Menu bar",
+        "System"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "get_url": "https://github.com/jacklandrin/OnlySwitch",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "jacklandrin/OnlySwitch",
+        "url": "https://github.com/jacklandrin/OnlySwitch",
+        "description": "⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts",
+        "language": "Swift",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "audioplayer",
+          "clamshell",
+          "composable-architecture",
+          "dark-mode",
+          "macos",
+          "menubar-app",
+          "notch",
+          "pomodoro-timer",
+          "shortcuts",
+          "stagemanager",
+          "statusbar",
+          "swiftui",
+          "wallpaper",
+          "widgetkit",
+          "widgets"
+        ],
+        "stars": 5894,
+        "forks": 239,
+        "open_issues": 56,
+        "age_days": 1723,
+        "pushed_days_ago": 8,
+        "stars_per_day": 3.42,
+        "commits": 1112,
+        "contributors": 25,
+        "top_author_share": 0.87,
+        "releases": 85,
+        "latest_release_days": 24,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "25 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "85 releases"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.984
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 8,
+        "contributors": 25,
+        "commits": 1112,
+        "releases": 85,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 5894,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "ice",
+      "name": "Ice",
+      "repo": "jordanbaird/Ice",
+      "kind": "app",
+      "pitch": "Hide menu bar clutter and keep it organised without a subscription.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Menu bar",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask jordanbaird-ice",
+      "get_url": "https://icemenubar.app",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "jordanbaird/Ice",
+        "url": "https://github.com/jordanbaird/Ice",
+        "description": "Powerful menu bar manager for macOS",
+        "language": "Swift",
+        "topics": [
+          "macos",
+          "macos-app",
+          "menu-bar",
+          "menubar",
+          "menubar-app",
+          "status-bar",
+          "statusbar",
+          "swift",
+          "swiftui",
+          "utility"
+        ],
+        "stars": 29326,
+        "forks": 846,
+        "open_issues": 414,
+        "age_days": 1111,
+        "pushed_days_ago": 333,
+        "stars_per_day": 26.4,
+        "commits": 1140,
+        "contributors": 10,
+        "top_author_share": 0.98,
+        "releases": 57,
+        "latest_release_days": 659,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "57 releases"
+          },
+          {
+            "kind": "good",
+            "text": "26.4 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no commits for 333 days"
+          },
+          {
+            "kind": "warn",
+            "text": "top author wrote 98% of commits"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.098
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 333,
+        "contributors": 10,
+        "commits": 1140,
+        "releases": 57,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 29326,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "rectangle",
+      "name": "Rectangle",
+      "repo": "rxhanson/Rectangle",
+      "kind": "app",
+      "pitch": "Snap windows into halves and corners using keyboard shortcuts.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Window management",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Keyboard-first"
+      ],
+      "install": "brew install --cask rectangle",
+      "get_url": "https://rectangleapp.com",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "rxhanson/Rectangle",
+        "url": "https://github.com/rxhanson/Rectangle",
+        "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+        "language": "Swift",
+        "topics": [],
+        "stars": 29717,
+        "forks": 975,
+        "open_issues": 107,
+        "age_days": 2616,
+        "pushed_days_ago": 0,
+        "stars_per_day": 11.36,
+        "commits": 1418,
+        "contributors": 160,
+        "top_author_share": 0.48,
+        "releases": 102,
+        "latest_release_days": 0,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "160 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "102 releases"
+          },
+          {
+            "kind": "good",
+            "text": "11.36 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.655
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 160,
+        "commits": 1418,
+        "releases": 102,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 29717,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "iina",
+      "name": "IINA",
+      "repo": "iina/iina",
+      "kind": "app",
+      "pitch": "A modern macOS video player built on top of mpv.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Media"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask iina",
+      "get_url": "https://iina.io",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "iina/iina",
+        "url": "https://github.com/iina/iina",
+        "description": "The modern video player for macOS.",
+        "language": "Swift",
+        "topics": [
+          "hacktoberfest",
+          "macos",
+          "mpv",
+          "swift",
+          "video",
+          "video-player"
+        ],
+        "stars": 46026,
+        "forks": 2898,
+        "open_issues": 1910,
+        "age_days": 3531,
+        "pushed_days_ago": 0,
+        "stars_per_day": 13.03,
+        "commits": 4209,
+        "contributors": 157,
+        "top_author_share": 0.44,
+        "releases": 51,
+        "latest_release_days": 56,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "157 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "51 releases"
+          },
+          {
+            "kind": "good",
+            "text": "13.03 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.674
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 157,
+        "commits": 4209,
+        "releases": 51,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 46026,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "notesnook",
+      "name": "Notesnook",
+      "repo": "streetwriters/notesnook",
+      "kind": "app",
+      "pitch": "Encrypted notes across all your devices without ads or tracking.",
+      "platforms": [
+        "macOS",
+        "Windows",
+        "Linux",
+        "iOS",
+        "Android",
+        "Web"
+      ],
+      "categories": [
+        "Notes",
+        "Privacy",
+        "Productivity"
+      ],
+      "traits": [
+        "Free tier",
+        "Encrypted"
+      ],
+      "get_url": "https://notesnook.com",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "streetwriters/notesnook",
+        "url": "https://github.com/streetwriters/notesnook",
+        "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+        "language": "TypeScript",
+        "topics": [
+          "asp-net-core",
+          "dotnet-core",
+          "electron",
+          "foss",
+          "hacktoberfest",
+          "note-managment",
+          "note-taking",
+          "note-taking-app",
+          "notebook",
+          "notes",
+          "notes-app",
+          "open-source",
+          "opensource",
+          "privacy",
+          "productivity",
+          "react",
+          "react-native",
+          "reactjs",
+          "self-hosted"
+        ],
+        "stars": 14441,
+        "forks": 985,
+        "open_issues": 973,
+        "age_days": 1967,
+        "pushed_days_ago": 0,
+        "stars_per_day": 7.34,
+        "commits": 15533,
+        "contributors": 52,
+        "top_author_share": 0.5,
+        "releases": 389,
+        "latest_release_days": 3,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "guide",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "52 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "389 releases"
+          },
+          {
+            "kind": "good",
+            "text": "7.34 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          },
+          {
+            "kind": "warn",
+            "text": "reading material, not a tool"
+          }
+        ],
+        "momentum": 0.596
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 52,
+        "commits": 15533,
+        "releases": 389,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 14441,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "slug": "bruno",
+      "name": "Bruno",
+      "repo": "usebruno/bruno",
+      "kind": "app",
+      "pitch": "A Git-friendly API client that keeps collections out of the cloud.",
+      "platforms": [
+        "macOS",
+        "Windows",
+        "Linux"
+      ],
+      "categories": [
+        "Developer tools",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Offline"
+      ],
+      "install": "brew install --cask bruno",
+      "get_url": "https://www.usebruno.com",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "usebruno/bruno",
+        "url": "https://github.com/usebruno/bruno",
+        "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+        "language": "JavaScript",
+        "topics": [
+          "api-client",
+          "api-testing",
+          "automation",
+          "developer-tools",
+          "git",
+          "graphql-client",
+          "http-client",
+          "javascript",
+          "openapi",
+          "openapi3",
+          "opensource",
+          "rest-api",
+          "testing",
+          "testing-tools"
+        ],
+        "stars": 46433,
+        "forks": 2798,
+        "open_issues": 1822,
+        "age_days": 1422,
+        "pushed_days_ago": 0,
+        "stars_per_day": 32.65,
+        "commits": 4825,
+        "contributors": 417,
+        "top_author_share": 0.29,
+        "releases": 172,
+        "latest_release_days": 0,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "417 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "172 releases"
+          },
+          {
+            "kind": "good",
+            "text": "32.65 stars/day"
+          }
+        ],
+        "momentum": 0.8
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 417,
+        "commits": 4825,
+        "releases": 172,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 46433,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "slug": "zed",
+      "name": "Zed",
+      "repo": "zed-industries/zed",
+      "kind": "app",
+      "pitch": "A fast code editor with collaboration and built-in AI tooling.",
+      "platforms": [
+        "macOS",
+        "Linux"
+      ],
+      "categories": [
+        "Developer tools",
+        "AI"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask zed",
+      "get_url": "https://zed.dev",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "zed-industries/zed",
+        "url": "https://github.com/zed-industries/zed",
+        "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "language": "Rust",
+        "topics": [
+          "gpui",
+          "rust-lang",
+          "text-editor",
+          "zed"
+        ],
+        "stars": 88952,
+        "forks": 10155,
+        "open_issues": 3220,
+        "age_days": 2007,
+        "pushed_days_ago": 0,
+        "stars_per_day": 44.32,
+        "commits": 39628,
+        "contributors": 482,
+        "top_author_share": 0.11,
+        "releases": 1285,
+        "latest_release_days": 1,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "482 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "1285 releases"
+          },
+          {
+            "kind": "good",
+            "text": "44.32 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.842
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 482,
+        "commits": 39628,
+        "releases": 1285,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 88952,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "ghostty",
+      "name": "Ghostty",
+      "repo": "ghostty-org/ghostty",
+      "kind": "app",
+      "pitch": "A fast native terminal with sensible defaults and deep customisation.",
+      "platforms": [
+        "macOS",
+        "Linux"
+      ],
+      "categories": [
+        "Developer tools",
+        "Terminal"
+      ],
+      "traits": [
+        "Free",
+        "Native"
+      ],
+      "install": "brew install --cask ghostty",
+      "get_url": "https://ghostty.org",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "ghostty-org/ghostty",
+        "url": "https://github.com/ghostty-org/ghostty",
+        "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "language": "Zig",
+        "topics": [],
+        "stars": 59954,
+        "forks": 3309,
+        "open_issues": 247,
+        "age_days": 1605,
+        "pushed_days_ago": 0,
+        "stars_per_day": 37.35,
+        "commits": 17370,
+        "contributors": 424,
+        "top_author_share": 0.67,
+        "releases": 1,
+        "latest_release_days": null,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "424 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "1 releases"
+          },
+          {
+            "kind": "good",
+            "text": "37.35 stars/day"
+          }
+        ],
+        "momentum": 0.819
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 424,
+        "commits": 17370,
+        "releases": 1,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 59954,
+        "language": "Zig"
+      }
+    },
+    {
+      "slug": "lazydocker",
+      "name": "lazydocker",
+      "repo": "jesseduffield/lazydocker",
+      "kind": "cli",
+      "pitch": "Inspect containers, logs, and volumes from a single terminal dashboard.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "Keyboard-first"
+      ],
+      "install": "brew install lazydocker",
+      "get_url": "https://github.com/jesseduffield/lazydocker",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "jesseduffield/lazydocker",
+        "url": "https://github.com/jesseduffield/lazydocker",
+        "description": "The lazier way to manage everything docker",
+        "language": "Go",
+        "topics": [],
+        "stars": 52559,
+        "forks": 1679,
+        "open_issues": 292,
+        "age_days": 2651,
+        "pushed_days_ago": 123,
+        "stars_per_day": 19.83,
+        "commits": 892,
+        "contributors": 79,
+        "top_author_share": 0.59,
+        "releases": 47,
+        "latest_release_days": 123,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "79 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "47 releases"
+          },
+          {
+            "kind": "good",
+            "text": "19.83 stars/day"
+          }
+        ],
+        "momentum": 0.235
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 123,
+        "contributors": 79,
+        "commits": 892,
+        "releases": 47,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 52559,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "atuin",
+      "name": "Atuin",
+      "repo": "atuinsh/atuin",
+      "kind": "cli",
+      "pitch": "Searchable shell history with context, optionally synced end-to-end encrypted.",
+      "platforms": [
+        "macOS",
+        "Linux"
+      ],
+      "categories": [
+        "Terminal",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Encrypted sync"
+      ],
+      "install": "brew install atuin",
+      "get_url": "https://atuin.sh",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "atuinsh/atuin",
+        "url": "https://github.com/atuinsh/atuin",
+        "description": "✨ Making your shell magical",
+        "language": "Rust",
+        "topics": [
+          "bash",
+          "fish",
+          "history",
+          "rust",
+          "shell",
+          "zsh"
+        ],
+        "stars": 31347,
+        "forks": 938,
+        "open_issues": 404,
+        "age_days": 2145,
+        "pushed_days_ago": 0,
+        "stars_per_day": 14.61,
+        "commits": 2088,
+        "contributors": 312,
+        "top_author_share": 0.36,
+        "releases": 88,
+        "latest_release_days": 16,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "312 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "88 releases"
+          },
+          {
+            "kind": "good",
+            "text": "14.61 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.69
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 312,
+        "commits": 2088,
+        "releases": 88,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 31347,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "yazi",
+      "name": "Yazi",
+      "repo": "sxyazi/yazi",
+      "kind": "cli",
+      "pitch": "A terminal file manager with instant previews, including images.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Fast"
+      ],
+      "install": "brew install yazi",
+      "get_url": "https://yazi-rs.github.io",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "sxyazi/yazi",
+        "url": "https://github.com/sxyazi/yazi",
+        "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+        "language": "Rust",
+        "topics": [
+          "android",
+          "asyncio",
+          "cli",
+          "command-line",
+          "concurrency",
+          "cross-platform",
+          "developer-tools",
+          "file-explorer",
+          "file-manager",
+          "filesystem",
+          "linux",
+          "macos",
+          "neovim",
+          "productivity",
+          "rust",
+          "terminal",
+          "tui",
+          "vim",
+          "windows"
+        ],
+        "stars": 41527,
+        "forks": 984,
+        "open_issues": 65,
+        "age_days": 1139,
+        "pushed_days_ago": 0,
+        "stars_per_day": 36.46,
+        "commits": 1504,
+        "contributors": 181,
+        "top_author_share": 0.77,
+        "releases": 32,
+        "latest_release_days": 5,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "181 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "32 releases"
+          },
+          {
+            "kind": "good",
+            "text": "36.46 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.816
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 181,
+        "commits": 1504,
+        "releases": 32,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 41527,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "zellij",
+      "name": "Zellij",
+      "repo": "zellij-org/zellij",
+      "kind": "cli",
+      "pitch": "Keep terminal panes and layouts alive across disconnects, with discoverable keys.",
+      "platforms": [
+        "macOS",
+        "Linux"
+      ],
+      "categories": [
+        "Terminal",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "Layouts"
+      ],
+      "install": "brew install zellij",
+      "get_url": "https://zellij.dev",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "zellij-org/zellij",
+        "url": "https://github.com/zellij-org/zellij",
+        "description": "A terminal workspace with batteries included",
+        "language": "Rust",
+        "topics": [
+          "multiplexer",
+          "terminal",
+          "workspace"
+        ],
+        "stars": 35013,
+        "forks": 1391,
+        "open_issues": 1858,
+        "age_days": 2179,
+        "pushed_days_ago": 0,
+        "stars_per_day": 16.07,
+        "commits": 3336,
+        "contributors": 202,
+        "top_author_share": 0.45,
+        "releases": 70,
+        "latest_release_days": 0,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "202 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "70 releases"
+          },
+          {
+            "kind": "good",
+            "text": "16.07 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.703
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 202,
+        "commits": 3336,
+        "releases": 70,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 35013,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "yt-dlp",
+      "name": "yt-dlp",
+      "repo": "yt-dlp/yt-dlp",
+      "kind": "cli",
+      "pitch": "Download video and audio from thousands of sites, with format control.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Media",
+        "Terminal"
+      ],
+      "traits": [
+        "Free",
+        "Scriptable"
+      ],
+      "install": "brew install yt-dlp",
+      "get_url": "https://github.com/yt-dlp/yt-dlp",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "yt-dlp/yt-dlp",
+        "url": "https://github.com/yt-dlp/yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "language": "Python",
+        "topics": [
+          "cli",
+          "downloader",
+          "python",
+          "sponsorblock",
+          "youtube-dl",
+          "youtube-downloader",
+          "yt-dlp"
+        ],
+        "stars": 185847,
+        "forks": 16018,
+        "open_issues": 2595,
+        "age_days": 2124,
+        "pushed_days_ago": 0,
+        "stars_per_day": 87.5,
+        "commits": 23977,
+        "contributors": 377,
+        "top_author_share": 0.27,
+        "releases": 136,
+        "latest_release_days": 0,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "377 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "136 releases"
+          },
+          {
+            "kind": "good",
+            "text": "87.5 stars/day"
+          }
+        ],
+        "momentum": 0.936
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 377,
+        "commits": 23977,
+        "releases": 136,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "Unlicense",
+        "stars": 185847,
+        "language": "Python"
+      }
+    },
+    {
+      "slug": "rclone",
+      "name": "rclone",
+      "repo": "rclone/rclone",
+      "kind": "cli",
+      "pitch": "Sync and mount files across dozens of cloud providers from one command.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "File transfer",
+        "Backup",
+        "Terminal"
+      ],
+      "traits": [
+        "Free",
+        "Encrypted remotes"
+      ],
+      "install": "brew install rclone",
+      "get_url": "https://rclone.org",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "rclone/rclone",
+        "url": "https://github.com/rclone/rclone",
+        "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+        "language": "Go",
+        "topics": [
+          "azure-blob",
+          "azure-blob-storage",
+          "azure-files",
+          "backblaze-b2",
+          "cloud-storage",
+          "dropbox",
+          "encryption",
+          "ftp",
+          "fuse-filesystem",
+          "go",
+          "golang",
+          "google-cloud-storage",
+          "google-drive",
+          "onedrive",
+          "openstack-swift",
+          "rclone",
+          "s3",
+          "sftp",
+          "sync",
+          "webdav"
+        ],
+        "stars": 59278,
+        "forks": 5325,
+        "open_issues": 1238,
+        "age_days": 4540,
+        "pushed_days_ago": 0,
+        "stars_per_day": 13.06,
+        "commits": 10161,
+        "contributors": 414,
+        "top_author_share": 0.64,
+        "releases": 131,
+        "latest_release_days": 20,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "414 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "131 releases"
+          },
+          {
+            "kind": "good",
+            "text": "13.06 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.674
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 414,
+        "commits": 10161,
+        "releases": 131,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 59278,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "ollama",
+      "name": "Ollama",
+      "repo": "ollama/ollama",
+      "kind": "cli",
+      "pitch": "Run local language models with one command and no API keys.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "AI",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Local"
+      ],
+      "install": "brew install ollama",
+      "get_url": "https://ollama.com",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "ollama/ollama",
+        "url": "https://github.com/ollama/ollama",
+        "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+        "language": "Go",
+        "topics": [
+          "deepseek",
+          "gemma",
+          "gemma3",
+          "glm",
+          "go",
+          "golang",
+          "gpt-oss",
+          "llama",
+          "llama3",
+          "llm",
+          "llms",
+          "minimax",
+          "mistral",
+          "ollama",
+          "qwen"
+        ],
+        "stars": 179045,
+        "forks": 17482,
+        "open_issues": 3762,
+        "age_days": 1150,
+        "pushed_days_ago": 0,
+        "stars_per_day": 155.69,
+        "commits": 5654,
+        "contributors": 452,
+        "top_author_share": 0.23,
+        "releases": 246,
+        "latest_release_days": 4,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "452 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "246 releases"
+          },
+          {
+            "kind": "good",
+            "text": "155.69 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.016
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 452,
+        "commits": 5654,
+        "releases": 246,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 179045,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "syncthing",
+      "name": "Syncthing",
+      "repo": "syncthing/syncthing",
+      "kind": "service",
+      "pitch": "Continuously sync folders between your own devices with no cloud account.",
+      "platforms": [
+        "macOS",
+        "Windows",
+        "Linux",
+        "Android"
+      ],
+      "categories": [
+        "File transfer",
+        "Privacy",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "No cloud"
+      ],
+      "install": "brew install syncthing",
+      "get_url": "https://syncthing.net",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "syncthing/syncthing",
+        "url": "https://github.com/syncthing/syncthing",
+        "description": "Open Source Continuous File Synchronization",
+        "language": "Go",
+        "topics": [
+          "go",
+          "p2p",
+          "peer-to-peer",
+          "synchronization"
+        ],
+        "stars": 87819,
+        "forks": 5418,
+        "open_issues": 374,
+        "age_days": 4650,
+        "pushed_days_ago": 0,
+        "stars_per_day": 18.89,
+        "commits": 8184,
+        "contributors": 351,
+        "top_author_share": 0.57,
+        "releases": 479,
+        "latest_release_days": 15,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "351 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "479 releases"
+          },
+          {
+            "kind": "good",
+            "text": "18.89 stars/day"
+          }
+        ],
+        "momentum": 0.725
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 351,
+        "commits": 8184,
+        "releases": 479,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MPL-2.0",
+        "stars": 87819,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "vaultwarden",
+      "name": "Vaultwarden",
+      "repo": "dani-garcia/vaultwarden",
+      "kind": "service",
+      "pitch": "Run a lightweight Bitwarden-compatible password server on your own hardware.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Self-hosted",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Encrypted"
+      ],
+      "get_url": "https://github.com/dani-garcia/vaultwarden",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "dani-garcia/vaultwarden",
+        "url": "https://github.com/dani-garcia/vaultwarden",
+        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "language": "Rust",
+        "topics": [
+          "bitwarden",
+          "bitwarden-rs",
+          "docker",
+          "rocket",
+          "rust",
+          "vaultwarden"
+        ],
+        "stars": 65698,
+        "forks": 3117,
+        "open_issues": 82,
+        "age_days": 3105,
+        "pushed_days_ago": 0,
+        "stars_per_day": 21.16,
+        "commits": 3064,
+        "contributors": 180,
+        "top_author_share": 0.43,
+        "releases": 85,
+        "latest_release_days": 22,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "180 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "85 releases"
+          },
+          {
+            "kind": "good",
+            "text": "21.16 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.741
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 180,
+        "commits": 3064,
+        "releases": 85,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "AGPL-3.0",
+        "stars": 65698,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "paperless-ngx",
+      "name": "Paperless-ngx",
+      "repo": "paperless-ngx/paperless-ngx",
+      "kind": "service",
+      "pitch": "Scan, OCR, and search every document you own from your own server.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Documents",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "Full-text search"
+      ],
+      "get_url": "https://docs.paperless-ngx.com",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "paperless-ngx/paperless-ngx",
+        "url": "https://github.com/paperless-ngx/paperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "language": "Python",
+        "topics": [
+          "angular",
+          "archiving",
+          "django",
+          "dms",
+          "document-management",
+          "document-management-system",
+          "hacktoberfest",
+          "machine-learning",
+          "ocr",
+          "optical-character-recognition",
+          "pdf"
+        ],
+        "stars": 44439,
+        "forks": 3045,
+        "open_issues": 11,
+        "age_days": 1649,
+        "pushed_days_ago": 0,
+        "stars_per_day": 26.95,
+        "commits": 11883,
+        "contributors": 397,
+        "top_author_share": 0.32,
+        "releases": 156,
+        "latest_release_days": 18,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "397 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "156 releases"
+          },
+          {
+            "kind": "good",
+            "text": "26.95 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.774
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 397,
+        "commits": 11883,
+        "releases": 156,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 44439,
+        "language": "Python"
+      }
+    },
+    {
+      "slug": "immich",
+      "name": "Immich",
+      "repo": "immich-app/immich",
+      "kind": "service",
+      "pitch": "Back up phone photos and videos to your own server with search and albums.",
+      "platforms": [
+        "Self-hosted",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "Media",
+        "Self-hosted",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Mobile apps"
+      ],
+      "get_url": "https://immich.app",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "immich-app/immich",
+        "url": "https://github.com/immich-app/immich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "language": "TypeScript",
+        "topics": [
+          "backup-tool",
+          "flutter",
+          "google-photos",
+          "google-photos-alternative",
+          "javascript",
+          "mobile-app",
+          "nestjs",
+          "nodejs",
+          "photo-gallery",
+          "photos",
+          "photos-management",
+          "self-hosted",
+          "svelte",
+          "sveltekit",
+          "typescript",
+          "videos"
+        ],
+        "stars": 112157,
+        "forks": 6650,
+        "open_issues": 712,
+        "age_days": 1659,
+        "pushed_days_ago": 0,
+        "stars_per_day": 67.61,
+        "commits": 10820,
+        "contributors": 463,
+        "top_author_share": 0.18,
+        "releases": 305,
+        "latest_release_days": 22,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "463 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "305 releases"
+          },
+          {
+            "kind": "good",
+            "text": "67.61 stars/day"
+          }
+        ],
+        "momentum": 0.901
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 463,
+        "commits": 10820,
+        "releases": 305,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "AGPL-3.0",
+        "stars": 112157,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "slug": "jellyfin",
+      "name": "Jellyfin",
+      "repo": "jellyfin/jellyfin",
+      "kind": "service",
+      "pitch": "Stream your own films and shows to any device without a subscription.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Media",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "No tracking"
+      ],
+      "get_url": "https://jellyfin.org",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "jellyfin/jellyfin",
+        "url": "https://github.com/jellyfin/jellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "language": "C#",
+        "topics": [
+          "csharp",
+          "dotnet",
+          "hacktoberfest",
+          "jellyfin"
+        ],
+        "stars": 55990,
+        "forks": 5332,
+        "open_issues": 595,
+        "age_days": 2811,
+        "pushed_days_ago": 0,
+        "stars_per_day": 19.92,
+        "commits": 29767,
+        "contributors": 370,
+        "top_author_share": 0.35,
+        "releases": 112,
+        "latest_release_days": 75,
+        "has_manifest": false,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "370 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "112 releases"
+          },
+          {
+            "kind": "good",
+            "text": "19.92 stars/day"
+          }
+        ],
+        "momentum": 0.732
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 370,
+        "commits": 29767,
+        "releases": 112,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-2.0",
+        "stars": 55990,
+        "language": "C#"
+      }
+    },
+    {
+      "slug": "adguardhome",
+      "name": "AdGuard Home",
+      "repo": "AdguardTeam/AdGuardHome",
+      "kind": "service",
+      "pitch": "Block ads and trackers for every device on your network via DNS.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Networking",
+        "Privacy",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "Network-wide"
+      ],
+      "get_url": "https://adguard.com/adguard-home/overview.html",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "AdguardTeam/AdGuardHome",
+        "url": "https://github.com/AdguardTeam/AdGuardHome",
+        "description": "Network-wide ads & trackers blocking DNS server",
+        "language": "TypeScript",
+        "topics": [
+          "adblock",
+          "adguard",
+          "dns",
+          "dns-over-https",
+          "dns-over-quic",
+          "dns-over-tls",
+          "dnscrypt",
+          "golang",
+          "open-source",
+          "privacy"
+        ],
+        "stars": 36254,
+        "forks": 2471,
+        "open_issues": 1275,
+        "age_days": 3697,
+        "pushed_days_ago": 0,
+        "stars_per_day": 9.81,
+        "commits": 4553,
+        "contributors": 93,
+        "top_author_share": 0.2,
+        "releases": 244,
+        "latest_release_days": 2,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "93 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "244 releases"
+          },
+          {
+            "kind": "good",
+            "text": "9.81 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.635
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 93,
+        "commits": 4553,
+        "releases": 244,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 36254,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "slug": "uptime-kuma",
+      "name": "Uptime Kuma",
+      "repo": "louislam/uptime-kuma",
+      "kind": "service",
+      "pitch": "Monitor your own sites and services, with alerts you configure yourself.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Networking",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "Alerts"
+      ],
+      "get_url": "https://github.com/louislam/uptime-kuma",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "louislam/uptime-kuma",
+        "url": "https://github.com/louislam/uptime-kuma",
+        "description": "A fancy self-hosted monitoring tool",
+        "language": "JavaScript",
+        "topics": [
+          "docker",
+          "monitor",
+          "monitoring",
+          "responsive",
+          "self-hosted",
+          "selfhosted",
+          "single-page-app",
+          "socket-io",
+          "uptime",
+          "uptime-monitoring",
+          "webapp",
+          "websocket"
+        ],
+        "stars": 90404,
+        "forks": 8275,
+        "open_issues": 795,
+        "age_days": 1874,
+        "pushed_days_ago": 0,
+        "stars_per_day": 48.24,
+        "commits": 7226,
+        "contributors": 399,
+        "top_author_share": 0.39,
+        "releases": 131,
+        "latest_release_days": 19,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "399 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "131 releases"
+          },
+          {
+            "kind": "good",
+            "text": "48.24 stars/day"
+          }
+        ],
+        "momentum": 0.854
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 399,
+        "commits": 7226,
+        "releases": 131,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 90404,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "slug": "navidrome",
+      "name": "Navidrome",
+      "repo": "navidrome/navidrome",
+      "kind": "service",
+      "pitch": "Stream your own music library from anywhere with Subsonic clients.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Media",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "Lightweight"
+      ],
+      "get_url": "https://www.navidrome.org",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "navidrome/navidrome",
+        "url": "https://github.com/navidrome/navidrome",
+        "description": "🎧 Your Personal Streaming Service",
+        "language": "Go",
+        "topics": [
+          "airsonic",
+          "madsonic",
+          "media-server",
+          "music",
+          "music-server",
+          "navidrome",
+          "opensubsonic",
+          "raspberry-pi",
+          "self-hosted",
+          "streamer",
+          "streaming-api",
+          "streaming-audio",
+          "subsonic",
+          "subsonic-server"
+        ],
+        "stars": 22992,
+        "forks": 1649,
+        "open_issues": 260,
+        "age_days": 3829,
+        "pushed_days_ago": 0,
+        "stars_per_day": 6.0,
+        "commits": 5033,
+        "contributors": 234,
+        "top_author_share": 0.8,
+        "releases": 118,
+        "latest_release_days": 40,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "234 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "118 releases"
+          },
+          {
+            "kind": "good",
+            "text": "6.0 stars/day"
+          }
+        ],
+        "momentum": 0.568
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 234,
+        "commits": 5033,
+        "releases": 118,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 22992,
+        "language": "Go"
+      }
+    },
+    {
+      "slug": "searxng",
+      "name": "SearXNG",
+      "repo": "searxng/searxng",
+      "kind": "service",
+      "pitch": "A metasearch engine you host yourself, with no profiling or ads.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Privacy",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "No tracking"
+      ],
+      "get_url": "https://docs.searxng.org",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "searxng/searxng",
+        "url": "https://github.com/searxng/searxng",
+        "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+        "language": "Python",
+        "topics": [
+          "bing",
+          "brave",
+          "degoogle",
+          "duckduckgo",
+          "google",
+          "metasearch",
+          "privacy",
+          "python",
+          "qwant",
+          "search",
+          "search-engine",
+          "searx",
+          "searxng",
+          "startpage",
+          "yahoo"
+        ],
+        "stars": 35809,
+        "forks": 3264,
+        "open_issues": 215,
+        "age_days": 1956,
+        "pushed_days_ago": 0,
+        "stars_per_day": 18.31,
+        "commits": 9672,
+        "contributors": 274,
+        "top_author_share": 0.27,
+        "releases": 0,
+        "latest_release_days": null,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "274 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "18.31 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no releases"
+          }
+        ],
+        "momentum": 0.721
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 274,
+        "commits": 9672,
+        "releases": 0,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "AGPL-3.0",
+        "stars": 35809,
+        "language": "Python"
+      }
+    },
+    {
+      "slug": "stirling-pdf",
+      "name": "Stirling PDF",
+      "repo": "Stirling-Tools/Stirling-PDF",
+      "kind": "service",
+      "pitch": "Edit, merge, and convert PDFs locally instead of uploading them to random sites.",
+      "platforms": [
+        "Self-hosted",
+        "Docker"
+      ],
+      "categories": [
+        "Documents",
+        "Privacy",
+        "Self-hosted"
+      ],
+      "traits": [
+        "Free",
+        "Runs offline"
+      ],
+      "get_url": "https://www.stirlingpdf.com",
+      "kind_label": "Self-hosted",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "Stirling-Tools/Stirling-PDF",
+        "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+        "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+        "language": "Java",
+        "topics": [
+          "docker",
+          "hacktoberfest",
+          "java",
+          "pdf",
+          "pdf-converter",
+          "pdf-editor",
+          "pdf-manipulation",
+          "pdf-merger",
+          "pdf-ocr",
+          "pdf-tools",
+          "pdf-web-apps",
+          "pdfmerger",
+          "self-hosted"
+        ],
+        "stars": 89931,
+        "forks": 8129,
+        "open_issues": 570,
+        "age_days": 1301,
+        "pushed_days_ago": 0,
+        "stars_per_day": 69.12,
+        "commits": 5849,
+        "contributors": 284,
+        "top_author_share": 0.35,
+        "releases": 186,
+        "latest_release_days": 13,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "284 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "186 releases"
+          },
+          {
+            "kind": "good",
+            "text": "69.12 stars/day"
+          }
+        ],
+        "momentum": 0.904
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 284,
+        "commits": 5849,
+        "releases": 186,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 89931,
+        "language": "Java"
+      }
+    },
+    {
+      "slug": "ublock-origin",
+      "name": "uBlock Origin",
+      "repo": "gorhill/uBlock",
+      "kind": "extension",
+      "pitch": "Block ads and trackers with far less memory than the alternatives.",
+      "platforms": [
+        "Firefox",
+        "Chrome"
+      ],
+      "categories": [
+        "Browser",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Efficient"
+      ],
+      "get_url": "https://github.com/gorhill/uBlock#installation",
+      "kind_label": "Browser extension",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "gorhill/uBlock",
+        "url": "https://github.com/gorhill/uBlock",
+        "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+        "language": "JavaScript",
+        "topics": [
+          "blocker",
+          "browser-extension",
+          "chromium",
+          "firefox",
+          "javascript",
+          "ublock",
+          "ublock-origin"
+        ],
+        "stars": 67157,
+        "forks": 4292,
+        "open_issues": 15,
+        "age_days": 4159,
+        "pushed_days_ago": 0,
+        "stars_per_day": 16.15,
+        "commits": 14187,
+        "contributors": 109,
+        "top_author_share": 0.95,
+        "releases": 288,
+        "latest_release_days": 15,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "109 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "288 releases"
+          },
+          {
+            "kind": "good",
+            "text": "16.15 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "top author wrote 95% of commits"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.703
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 109,
+        "commits": 14187,
+        "releases": 288,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 67157,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "slug": "darkreader",
+      "name": "Dark Reader",
+      "repo": "darkreader/darkreader",
+      "kind": "extension",
+      "pitch": "Generate a readable dark theme for any website on the fly.",
+      "platforms": [
+        "Firefox",
+        "Chrome",
+        "Safari"
+      ],
+      "categories": [
+        "Browser",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Per-site control"
+      ],
+      "get_url": "https://darkreader.org",
+      "kind_label": "Browser extension",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "darkreader/darkreader",
+        "url": "https://github.com/darkreader/darkreader",
+        "description": "Dark Reader Chrome and Firefox extension",
+        "language": "TypeScript",
+        "topics": [
+          "accessibility",
+          "chrome-extension",
+          "dark-mode",
+          "dark-theme",
+          "darkmode",
+          "eye-care",
+          "firefox-addon",
+          "night-mode",
+          "nightmode"
+        ],
+        "stars": 22275,
+        "forks": 2741,
+        "open_issues": 1447,
+        "age_days": 4296,
+        "pushed_days_ago": 0,
+        "stars_per_day": 5.19,
+        "commits": 10277,
+        "contributors": 423,
+        "top_author_share": 0.19,
+        "releases": 96,
+        "latest_release_days": 37,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "423 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "96 releases"
+          },
+          {
+            "kind": "good",
+            "text": "5.19 stars/day"
+          }
+        ],
+        "momentum": 0.548
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 423,
+        "commits": 10277,
+        "releases": 96,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 22275,
+        "language": "TypeScript"
+      }
+    },
+    {
+      "slug": "stylus",
+      "name": "Stylus",
+      "repo": "openstyles/stylus",
+      "kind": "extension",
+      "pitch": "Write and manage your own CSS for any site you visit often.",
+      "platforms": [
+        "Firefox",
+        "Chrome"
+      ],
+      "categories": [
+        "Browser",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "No telemetry"
+      ],
+      "get_url": "https://add0n.com/stylus.html",
+      "kind_label": "Browser extension",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "openstyles/stylus",
+        "url": "https://github.com/openstyles/stylus",
+        "description": "Stylus - Userstyles Manager",
+        "language": "JavaScript",
+        "topics": [
+          "chrome-extension",
+          "firefox-extension",
+          "opera-addon",
+          "privacy",
+          "stylish",
+          "usercss",
+          "userstyles"
+        ],
+        "stars": 6835,
+        "forks": 379,
+        "open_issues": 94,
+        "age_days": 3511,
+        "pushed_days_ago": 0,
+        "stars_per_day": 1.95,
+        "commits": 5125,
+        "contributors": 34,
+        "top_author_share": 0.76,
+        "releases": 101,
+        "latest_release_days": 0,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "risky",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "34 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "101 releases"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 0.417
+      },
+      "trust": {
+        "maturity": "risky",
+        "last_push_days": 0,
+        "contributors": 34,
+        "commits": 5125,
+        "releases": 101,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 6835,
+        "language": "JavaScript"
+      }
+    }
+  ]
+}

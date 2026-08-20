@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "cc-haha",
+    "name": "cc-haha",
+    "repo": "NanmiCoder/cc-haha",
+    "kind": "app",
+    "pitch": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with…",
+    "platforms": [
+      "Desktop"
+    ],
+    "categories": [
+      "AI",
+      "Developer tools",
+      "Privacy"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/NanmiCoder/cc-haha",
+    "automated": true,
+    "selected_at": "2026-08-20T18:35:40+00:00",
+    "selection_reason": "proven · updated 6d ago · 27 contributors · 40 releases"
+  }
+]
