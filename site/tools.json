@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:39:19+00:00",
+  "generated_at": "2026-08-20T18:53:12+00:00",
   "count": 59,
   "active_count": 59,
   "archive_count": 0,
@@ -302,7 +302,7 @@
           "flutter",
           "flutter-apps"
         ],
-        "stars": 88811,
+        "stars": 88813,
         "forks": 4939,
         "open_issues": 1087,
         "age_days": 1343,
@@ -360,7 +360,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "Apache-2.0",
-        "stars": 88811,
+        "stars": 88813,
         "language": "Dart"
       }
     },
@@ -706,8 +706,8 @@
           "git",
           "terminal"
         ],
-        "stars": 81495,
-        "forks": 2999,
+        "stars": 81496,
+        "forks": 3000,
         "open_issues": 1024,
         "age_days": 3015,
         "pushed_days_ago": 0,
@@ -764,7 +764,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 81495,
+        "stars": 81496,
         "language": "Go"
       }
     },
@@ -1211,7 +1211,7 @@
           "stats",
           "temperature"
         ],
-        "stars": 41323,
+        "stars": 41324,
         "forks": 1488,
         "open_issues": 27,
         "age_days": 2639,
@@ -1269,7 +1269,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 41323,
+        "stars": 41324,
         "language": "Swift"
       }
     },
@@ -1420,7 +1420,7 @@
         "forks": 366,
         "open_issues": 80,
         "age_days": 1011,
-        "pushed_days_ago": 58,
+        "pushed_days_ago": 59,
         "stars_per_day": 14.22,
         "commits": 1007,
         "contributors": 21,
@@ -1458,11 +1458,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 0.419
+        "momentum": 0.413
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 58,
+        "last_push_days": 59,
         "contributors": 21,
         "commits": 1007,
         "releases": 119,
@@ -1629,7 +1629,7 @@
           "team-collaboration",
           "wiki"
         ],
-        "stars": 75783,
+        "stars": 75784,
         "forks": 5893,
         "open_issues": 999,
         "age_days": 1891,
@@ -1683,7 +1683,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "AGPL-3.0",
-        "stars": 75783,
+        "stars": 75784,
         "language": "Dart"
       }
     },
@@ -1946,7 +1946,7 @@
           "z",
           "zsh"
         ],
-        "stars": 38744,
+        "stars": 38745,
         "forks": 869,
         "open_issues": 138,
         "age_days": 2359,
@@ -2004,7 +2004,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 38744,
+        "stars": 38745,
         "language": "Rust"
       }
     },
@@ -2045,9 +2045,9 @@
         "stars": 34122,
         "forks": 1129,
         "open_issues": 529,
-        "age_days": 1931,
+        "age_days": 1932,
         "pushed_days_ago": 11,
-        "stars_per_day": 17.67,
+        "stars_per_day": 17.66,
         "commits": 1643,
         "contributors": 171,
         "top_author_share": 0.49,
@@ -2081,7 +2081,7 @@
           },
           {
             "kind": "good",
-            "text": "17.67 stars/day"
+            "text": "17.66 stars/day"
           },
           {
             "kind": "warn",
@@ -2558,7 +2558,7 @@
           "text-editor",
           "vim"
         ],
-        "stars": 45893,
+        "stars": 45894,
         "forks": 3684,
         "open_issues": 1617,
         "age_days": 2271,
@@ -2616,7 +2616,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MPL-2.0",
-        "stars": 45893,
+        "stars": 45894,
         "language": "Rust"
       }
     },
@@ -3183,7 +3183,7 @@
           "sensitivity",
           "utility"
         ],
-        "stars": 6706,
+        "stars": 6707,
         "forks": 156,
         "open_issues": 133,
         "age_days": 1897,
@@ -3233,7 +3233,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 6706,
+        "stars": 6707,
         "language": "Swift"
       }
     },
@@ -3385,7 +3385,7 @@
           "swiftui",
           "utility"
         ],
-        "stars": 29326,
+        "stars": 29327,
         "forks": 846,
         "open_issues": 414,
         "age_days": 1111,
@@ -3443,7 +3443,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 29326,
+        "stars": 29327,
         "language": "Swift"
       }
     },
@@ -3581,13 +3581,13 @@
           "video",
           "video-player"
         ],
-        "stars": 46026,
+        "stars": 46027,
         "forks": 2898,
-        "open_issues": 1910,
+        "open_issues": 1908,
         "age_days": 3531,
         "pushed_days_ago": 0,
-        "stars_per_day": 13.03,
-        "commits": 4209,
+        "stars_per_day": 13.04,
+        "commits": 4211,
         "contributors": 157,
         "top_author_share": 0.44,
         "releases": 51,
@@ -3620,7 +3620,7 @@
           },
           {
             "kind": "good",
-            "text": "13.03 stars/day"
+            "text": "13.04 stars/day"
           },
           {
             "kind": "warn",
@@ -3633,13 +3633,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 157,
-        "commits": 4209,
+        "commits": 4211,
         "releases": 51,
         "has_tests": false,
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 46026,
+        "stars": 46027,
         "language": "Swift"
       }
     },
@@ -3817,9 +3817,9 @@
           "testing",
           "testing-tools"
         ],
-        "stars": 46433,
+        "stars": 46434,
         "forks": 2798,
-        "open_issues": 1822,
+        "open_issues": 1823,
         "age_days": 1422,
         "pushed_days_ago": 0,
         "stars_per_day": 32.65,
@@ -3875,7 +3875,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 46433,
+        "stars": 46434,
         "language": "JavaScript"
       }
     },
@@ -3918,9 +3918,9 @@
           "text-editor",
           "zed"
         ],
-        "stars": 88952,
-        "forks": 10155,
-        "open_issues": 3220,
+        "stars": 88953,
+        "forks": 10156,
+        "open_issues": 3221,
         "age_days": 2007,
         "pushed_days_ago": 0,
         "stars_per_day": 44.32,
@@ -3976,7 +3976,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "NOASSERTION",
-        "stars": 88952,
+        "stars": 88953,
         "language": "Rust"
       }
     },
@@ -4014,12 +4014,12 @@
         "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
         "language": "Zig",
         "topics": [],
-        "stars": 59954,
-        "forks": 3309,
+        "stars": 59958,
+        "forks": 3310,
         "open_issues": 247,
         "age_days": 1605,
         "pushed_days_ago": 0,
-        "stars_per_day": 37.35,
+        "stars_per_day": 37.36,
         "commits": 17370,
         "contributors": 424,
         "top_author_share": 0.67,
@@ -4057,7 +4057,7 @@
           },
           {
             "kind": "good",
-            "text": "37.35 stars/day"
+            "text": "37.36 stars/day"
           }
         ],
         "momentum": 0.819
@@ -4072,7 +4072,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 59954,
+        "stars": 59958,
         "language": "Zig"
       }
     },
@@ -4210,9 +4210,9 @@
           "shell",
           "zsh"
         ],
-        "stars": 31347,
+        "stars": 31348,
         "forks": 938,
-        "open_issues": 404,
+        "open_issues": 406,
         "age_days": 2145,
         "pushed_days_ago": 0,
         "stars_per_day": 14.61,
@@ -4268,7 +4268,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 31347,
+        "stars": 31348,
         "language": "Rust"
       }
     },
@@ -4327,7 +4327,7 @@
           "vim",
           "windows"
         ],
-        "stars": 41527,
+        "stars": 41528,
         "forks": 984,
         "open_issues": 65,
         "age_days": 1139,
@@ -4385,7 +4385,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 41527,
+        "stars": 41528,
         "language": "Rust"
       }
     },
@@ -4427,7 +4427,7 @@
           "terminal",
           "workspace"
         ],
-        "stars": 35013,
+        "stars": 35012,
         "forks": 1391,
         "open_issues": 1858,
         "age_days": 2179,
@@ -4485,7 +4485,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 35013,
+        "stars": 35012,
         "language": "Rust"
       }
     },
@@ -4532,9 +4532,9 @@
           "youtube-downloader",
           "yt-dlp"
         ],
-        "stars": 185847,
+        "stars": 185845,
         "forks": 16018,
-        "open_issues": 2595,
+        "open_issues": 2594,
         "age_days": 2124,
         "pushed_days_ago": 0,
         "stars_per_day": 87.5,
@@ -4590,7 +4590,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "Unlicense",
-        "stars": 185847,
+        "stars": 185845,
         "language": "Python"
       }
     },
@@ -4651,7 +4651,7 @@
           "sync",
           "webdav"
         ],
-        "stars": 59278,
+        "stars": 59279,
         "forks": 5325,
         "open_issues": 1238,
         "age_days": 4540,
@@ -4709,7 +4709,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 59278,
+        "stars": 59279,
         "language": "Go"
       }
     },
@@ -4774,7 +4774,7 @@
         "contributors": 452,
         "top_author_share": 0.23,
         "releases": 246,
-        "latest_release_days": 4,
+        "latest_release_days": 1,
         "has_manifest": true,
         "has_tests": false,
         "has_ci": true,
@@ -4868,7 +4868,7 @@
           "peer-to-peer",
           "synchronization"
         ],
-        "stars": 87819,
+        "stars": 87820,
         "forks": 5418,
         "open_issues": 374,
         "age_days": 4650,
@@ -4926,7 +4926,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MPL-2.0",
-        "stars": 87819,
+        "stars": 87820,
         "language": "Go"
       }
     },
@@ -4970,9 +4970,9 @@
           "rust",
           "vaultwarden"
         ],
-        "stars": 65698,
+        "stars": 65700,
         "forks": 3117,
-        "open_issues": 82,
+        "open_issues": 83,
         "age_days": 3105,
         "pushed_days_ago": 0,
         "stars_per_day": 21.16,
@@ -5028,7 +5028,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "AGPL-3.0",
-        "stars": 65698,
+        "stars": 65700,
         "language": "Rust"
       }
     },
@@ -5077,7 +5077,7 @@
           "optical-character-recognition",
           "pdf"
         ],
-        "stars": 44439,
+        "stars": 44440,
         "forks": 3045,
         "open_issues": 11,
         "age_days": 1649,
@@ -5135,7 +5135,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 44439,
+        "stars": 44440,
         "language": "Python"
       }
     },
@@ -5398,7 +5398,7 @@
           "open-source",
           "privacy"
         ],
-        "stars": 36254,
+        "stars": 36255,
         "forks": 2471,
         "open_issues": 1275,
         "age_days": 3697,
@@ -5456,7 +5456,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 36254,
+        "stars": 36255,
         "language": "TypeScript"
       }
     },
@@ -5616,9 +5616,9 @@
           "subsonic",
           "subsonic-server"
         ],
-        "stars": 22992,
+        "stars": 22993,
         "forks": 1649,
-        "open_issues": 260,
+        "open_issues": 261,
         "age_days": 3829,
         "pushed_days_ago": 0,
         "stars_per_day": 6.0,
@@ -5674,7 +5674,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 22992,
+        "stars": 22993,
         "language": "Go"
       }
     },
@@ -5727,7 +5727,7 @@
           "startpage",
           "yahoo"
         ],
-        "stars": 35809,
+        "stars": 35810,
         "forks": 3264,
         "open_issues": 215,
         "age_days": 1956,
@@ -5785,7 +5785,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "AGPL-3.0",
-        "stars": 35809,
+        "stars": 35810,
         "language": "Python"
       }
     },
@@ -5837,17 +5837,17 @@
           "pdfmerger",
           "self-hosted"
         ],
-        "stars": 89931,
+        "stars": 89933,
         "forks": 8129,
-        "open_issues": 570,
+        "open_issues": 577,
         "age_days": 1301,
         "pushed_days_ago": 0,
-        "stars_per_day": 69.12,
-        "commits": 5849,
+        "stars_per_day": 69.13,
+        "commits": 5852,
         "contributors": 284,
         "top_author_share": 0.35,
         "releases": 186,
-        "latest_release_days": 13,
+        "latest_release_days": 14,
         "has_manifest": true,
         "has_tests": true,
         "has_ci": true,
@@ -5880,7 +5880,7 @@
           },
           {
             "kind": "good",
-            "text": "69.12 stars/day"
+            "text": "69.13 stars/day"
           }
         ],
         "momentum": 0.904
@@ -5889,13 +5889,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 284,
-        "commits": 5849,
+        "commits": 5852,
         "releases": 186,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "NOASSERTION",
-        "stars": 89931,
+        "stars": 89933,
         "language": "Java"
       }
     },
@@ -5940,7 +5940,7 @@
           "ublock",
           "ublock-origin"
         ],
-        "stars": 67157,
+        "stars": 67158,
         "forks": 4292,
         "open_issues": 15,
         "age_days": 4159,
@@ -6002,7 +6002,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 67157,
+        "stars": 67158,
         "language": "JavaScript"
       }
     },

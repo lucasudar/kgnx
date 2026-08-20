@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:38:21+00:00",
+  "generated_at": "2026-08-20T18:52:52+00:00",
   "screened": 151,
   "published_already": 59,
   "proposals": [
@@ -858,7 +858,7 @@
       ],
       "stars": 251,
       "stars_per_day": 0.09,
-      "age_days": 2942,
+      "age_days": 2943,
       "last_push_days": 16,
       "contributors": 7,
       "releases": 19,
