@@ -1,6 +1,10 @@
 name: Discover and publish one tool
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/refresh-catalogue.yml"
   schedule:
     - cron: "17 4 * * *"
   workflow_dispatch:
