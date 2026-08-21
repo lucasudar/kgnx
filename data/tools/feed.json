@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T19:17:57+00:00",
-  "count": 59,
-  "active_count": 59,
+  "generated_at": "2026-08-21T04:58:05+00:00",
+  "count": 60,
+  "active_count": 60,
   "archive_count": 0,
-  "automatic_count": 1,
+  "automatic_count": 2,
   "kinds": [
     {
       "id": "app",
@@ -13,7 +13,7 @@
     {
       "id": "cli",
       "label": "Command line",
-      "count": 20
+      "count": 21
     },
     {
       "id": "service",
@@ -57,6 +57,7 @@
     "Linux",
     "Safari",
     "Self-hosted",
+    "Terminal",
     "Web",
     "Windows",
     "iOS",
@@ -101,11 +102,11 @@
           "maccy",
           "macos"
         ],
-        "stars": 21262,
-        "forks": 1112,
+        "stars": 21270,
+        "forks": 1111,
         "open_issues": 157,
         "age_days": 3123,
-        "pushed_days_ago": 7,
+        "pushed_days_ago": 8,
         "stars_per_day": 6.81,
         "commits": 1088,
         "contributors": 82,
@@ -122,10 +123,6 @@
         "content_kind": "project",
         "maturity": "proven",
         "badges": [
-          {
-            "kind": "good",
-            "text": "active this week"
-          },
           {
             "kind": "good",
             "text": "82 contributors"
@@ -147,11 +144,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 1.226
+        "momentum": 1.171
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 7,
+        "last_push_days": 8,
         "contributors": 82,
         "commits": 1088,
         "releases": 91,
@@ -159,7 +156,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 21262,
+        "stars": 21270,
         "language": "Swift"
       }
     },
@@ -206,11 +203,11 @@
           "objective-c",
           "osx"
         ],
-        "stars": 15958,
+        "stars": 15959,
         "forks": 711,
         "open_issues": 686,
-        "age_days": 4333,
-        "pushed_days_ago": 42,
+        "age_days": 4334,
+        "pushed_days_ago": 43,
         "stars_per_day": 3.68,
         "commits": 6938,
         "contributors": 144,
@@ -244,11 +241,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 0.394
+        "momentum": 0.387
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 42,
+        "last_push_days": 43,
         "contributors": 144,
         "commits": 6938,
         "releases": 103,
@@ -256,7 +253,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 15958,
+        "stars": 15959,
         "language": "Objective-C"
       }
     },
@@ -302,12 +299,12 @@
           "flutter",
           "flutter-apps"
         ],
-        "stars": 88813,
-        "forks": 4939,
-        "open_issues": 1087,
-        "age_days": 1343,
-        "pushed_days_ago": 1,
-        "stars_per_day": 66.13,
+        "stars": 88833,
+        "forks": 4942,
+        "open_issues": 1088,
+        "age_days": 1344,
+        "pushed_days_ago": 2,
+        "stars_per_day": 66.1,
         "commits": 2092,
         "contributors": 227,
         "top_author_share": 0.67,
@@ -341,18 +338,18 @@
           },
           {
             "kind": "good",
-            "text": "66.13 stars/day"
+            "text": "66.1 stars/day"
           },
           {
             "kind": "warn",
             "text": "no tests"
           }
         ],
-        "momentum": 2.633
+        "momentum": 2.468
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 1,
+        "last_push_days": 2,
         "contributors": 227,
         "commits": 2092,
         "releases": 26,
@@ -360,7 +357,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "Apache-2.0",
-        "stars": 88813,
+        "stars": 88833,
         "language": "Dart"
       }
     },
@@ -411,10 +408,10 @@
           "rust",
           "search"
         ],
-        "stars": 67447,
-        "forks": 2729,
+        "stars": 67453,
+        "forks": 2730,
         "open_issues": 179,
-        "age_days": 3814,
+        "age_days": 3815,
         "pushed_days_ago": 16,
         "stars_per_day": 17.68,
         "commits": 2287,
@@ -465,8 +462,112 @@
         "has_ci": true,
         "has_license": true,
         "license": "Unlicense",
-        "stars": 67447,
+        "stars": 67453,
         "language": "Rust"
+      }
+    },
+    {
+      "slug": "voiceink",
+      "name": "VoiceInk",
+      "repo": "Beingpax/VoiceInk",
+      "kind": "app",
+      "pitch": "Dictate into any app without a subscription or sending your voice to the cloud.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Voice",
+        "Productivity",
+        "Privacy"
+      ],
+      "traits": [
+        "Free",
+        "Local"
+      ],
+      "get_url": "https://tryvoiceink.com",
+      "featured": true,
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "Beingpax/VoiceInk",
+        "url": "https://github.com/Beingpax/VoiceInk",
+        "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
+        "language": "Swift",
+        "topics": [
+          "macos",
+          "macos-app",
+          "swift"
+        ],
+        "stars": 6020,
+        "forks": 865,
+        "open_issues": 117,
+        "age_days": 669,
+        "pushed_days_ago": 1,
+        "stars_per_day": 9.0,
+        "commits": 1636,
+        "contributors": 38,
+        "top_author_share": 0.95,
+        "releases": 128,
+        "latest_release_days": 8,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "38 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "128 releases"
+          },
+          {
+            "kind": "good",
+            "text": "9.0 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "top author wrote 95% of commits"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.828
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 38,
+        "commits": 1636,
+        "releases": 128,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 6020,
+        "language": "Swift"
       }
     },
     {
@@ -506,7 +607,7 @@
         "stars": 3,
         "forks": 0,
         "open_issues": 0,
-        "age_days": 36,
+        "age_days": 37,
         "pushed_days_ago": 1,
         "stars_per_day": 0.08,
         "commits": 129,
@@ -604,17 +705,17 @@
           "vim",
           "zsh"
         ],
-        "stars": 82597,
+        "stars": 82604,
         "forks": 2855,
         "open_issues": 328,
         "age_days": 4684,
         "pushed_days_ago": 0,
-        "stars_per_day": 17.63,
-        "commits": 3725,
+        "stars_per_day": 17.64,
+        "commits": 3726,
         "contributors": 313,
         "top_author_share": 0.81,
         "releases": 84,
-        "latest_release_days": 3,
+        "latest_release_days": 4,
         "has_manifest": true,
         "has_tests": true,
         "has_ci": true,
@@ -647,22 +748,22 @@
           },
           {
             "kind": "good",
-            "text": "17.63 stars/day"
+            "text": "17.64 stars/day"
           }
         ],
-        "momentum": 0.715
+        "momentum": 0.716
       },
       "trust": {
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 313,
-        "commits": 3725,
+        "commits": 3726,
         "releases": 84,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 82597,
+        "stars": 82604,
         "language": "Go"
       }
     },
@@ -706,10 +807,10 @@
           "git",
           "terminal"
         ],
-        "stars": 81496,
+        "stars": 81510,
         "forks": 3000,
-        "open_issues": 1024,
-        "age_days": 3015,
+        "open_issues": 1025,
+        "age_days": 3016,
         "pushed_days_ago": 0,
         "stars_per_day": 27.03,
         "commits": 8156,
@@ -764,112 +865,8 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 81496,
+        "stars": 81510,
         "language": "Go"
-      }
-    },
-    {
-      "slug": "voiceink",
-      "name": "VoiceInk",
-      "repo": "Beingpax/VoiceInk",
-      "kind": "app",
-      "pitch": "Dictate into any app without a subscription or sending your voice to the cloud.",
-      "platforms": [
-        "macOS"
-      ],
-      "categories": [
-        "Voice",
-        "Productivity",
-        "Privacy"
-      ],
-      "traits": [
-        "Free",
-        "Local"
-      ],
-      "get_url": "https://tryvoiceink.com",
-      "featured": true,
-      "kind_label": "App",
-      "lifecycle": {
-        "status": "active",
-        "published_at": "2026-08-20T18:18:47+00:00",
-        "active_until": "2026-09-19T18:18:47+00:00",
-        "archived_at": null,
-        "generation": 1
-      },
-      "github": {
-        "name": "Beingpax/VoiceInk",
-        "url": "https://github.com/Beingpax/VoiceInk",
-        "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
-        "language": "Swift",
-        "topics": [
-          "macos",
-          "macos-app",
-          "swift"
-        ],
-        "stars": 6013,
-        "forks": 866,
-        "open_issues": 117,
-        "age_days": 669,
-        "pushed_days_ago": 0,
-        "stars_per_day": 8.99,
-        "commits": 1636,
-        "contributors": 38,
-        "top_author_share": 0.95,
-        "releases": 128,
-        "latest_release_days": 8,
-        "has_manifest": true,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "archived": false,
-        "is_fork": false,
-        "docs_only": false,
-        "content_kind": "project",
-        "maturity": "risky",
-        "badges": [
-          {
-            "kind": "good",
-            "text": "active this week"
-          },
-          {
-            "kind": "good",
-            "text": "38 contributors"
-          },
-          {
-            "kind": "good",
-            "text": "CI configured"
-          },
-          {
-            "kind": "good",
-            "text": "128 releases"
-          },
-          {
-            "kind": "good",
-            "text": "8.99 stars/day"
-          },
-          {
-            "kind": "warn",
-            "text": "top author wrote 95% of commits"
-          },
-          {
-            "kind": "warn",
-            "text": "no tests"
-          }
-        ],
-        "momentum": 0.623
-      },
-      "trust": {
-        "maturity": "risky",
-        "last_push_days": 0,
-        "contributors": 38,
-        "commits": 1636,
-        "releases": 128,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "license": "NOASSERTION",
-        "stars": 6013,
-        "language": "Swift"
       }
     },
     {
@@ -908,17 +905,17 @@
         "description": "Jiggler is a little freeware app with one purpose: to keep your Mac awake.",
         "language": "Objective-C",
         "topics": [],
-        "stars": 322,
+        "stars": 323,
         "forks": 47,
         "open_issues": 28,
-        "age_days": 3743,
-        "pushed_days_ago": 253,
+        "age_days": 3744,
+        "pushed_days_ago": 254,
         "stars_per_day": 0.09,
         "commits": 14,
         "contributors": 3,
         "top_author_share": 0.5,
         "releases": 1,
-        "latest_release_days": 253,
+        "latest_release_days": 254,
         "has_manifest": false,
         "has_tests": false,
         "has_ci": false,
@@ -935,7 +932,7 @@
           },
           {
             "kind": "warn",
-            "text": "no commits for 253 days"
+            "text": "no commits for 254 days"
           },
           {
             "kind": "warn",
@@ -946,7 +943,7 @@
       },
       "trust": {
         "maturity": "risky",
-        "last_push_days": 253,
+        "last_push_days": 254,
         "contributors": 3,
         "commits": 14,
         "releases": 1,
@@ -954,7 +951,7 @@
         "has_ci": false,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 322,
+        "stars": 323,
         "language": "Objective-C"
       }
     },
@@ -1001,12 +998,12 @@
           "tiling-window-manager",
           "window-manager"
         ],
-        "stars": 22510,
+        "stars": 22523,
         "forks": 637,
         "open_issues": 197,
-        "age_days": 1186,
+        "age_days": 1187,
         "pushed_days_ago": 10,
-        "stars_per_day": 18.98,
+        "stars_per_day": 18.97,
         "commits": 1734,
         "contributors": 52,
         "top_author_share": 0.94,
@@ -1040,7 +1037,7 @@
           },
           {
             "kind": "good",
-            "text": "18.98 stars/day"
+            "text": "18.97 stars/day"
           }
         ],
         "momentum": 1.33
@@ -1055,7 +1052,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 22510,
+        "stars": 22523,
         "language": "Swift"
       }
     },
@@ -1101,9 +1098,9 @@
           "utility",
           "window-manager"
         ],
-        "stars": 16192,
+        "stars": 16194,
         "forks": 839,
-        "open_issues": 67,
+        "open_issues": 66,
         "age_days": 2563,
         "pushed_days_ago": 1,
         "stars_per_day": 6.32,
@@ -1159,7 +1156,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 16192,
+        "stars": 16194,
         "language": "Swift"
       }
     },
@@ -1211,10 +1208,10 @@
           "stats",
           "temperature"
         ],
-        "stars": 41324,
+        "stars": 41332,
         "forks": 1488,
         "open_issues": 27,
-        "age_days": 2639,
+        "age_days": 2640,
         "pushed_days_ago": 1,
         "stars_per_day": 15.66,
         "commits": 2424,
@@ -1269,7 +1266,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 41324,
+        "stars": 41332,
         "language": "Swift"
       }
     },
@@ -1328,7 +1325,7 @@
         "stars": 34004,
         "forks": 989,
         "open_issues": 23,
-        "age_days": 3259,
+        "age_days": 3260,
         "pushed_days_ago": 9,
         "stars_per_day": 10.43,
         "commits": 291,
@@ -1416,17 +1413,17 @@
         "description": "A free, source-available and fair-code licensed mac app cleaner",
         "language": "Swift",
         "topics": [],
-        "stars": 14381,
+        "stars": 14386,
         "forks": 366,
         "open_issues": 80,
-        "age_days": 1011,
+        "age_days": 1012,
         "pushed_days_ago": 59,
         "stars_per_day": 14.22,
         "commits": 1007,
         "contributors": 21,
         "top_author_share": 0.93,
         "releases": 119,
-        "latest_release_days": 266,
+        "latest_release_days": 267,
         "has_manifest": false,
         "has_tests": false,
         "has_ci": true,
@@ -1470,7 +1467,102 @@
         "has_ci": true,
         "has_license": true,
         "license": "NOASSERTION",
-        "stars": 14381,
+        "stars": 14386,
+        "language": "Swift"
+      }
+    },
+    {
+      "slug": "rectangle",
+      "name": "Rectangle",
+      "repo": "rxhanson/Rectangle",
+      "kind": "app",
+      "pitch": "Snap windows into halves and corners using keyboard shortcuts.",
+      "platforms": [
+        "macOS"
+      ],
+      "categories": [
+        "Window management",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Keyboard-first"
+      ],
+      "install": "brew install --cask rectangle",
+      "get_url": "https://rectangleapp.com",
+      "kind_label": "App",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "rxhanson/Rectangle",
+        "url": "https://github.com/rxhanson/Rectangle",
+        "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+        "language": "Swift",
+        "topics": [],
+        "stars": 29719,
+        "forks": 976,
+        "open_issues": 108,
+        "age_days": 2617,
+        "pushed_days_ago": 1,
+        "stars_per_day": 11.36,
+        "commits": 1418,
+        "contributors": 160,
+        "top_author_share": 0.48,
+        "releases": 102,
+        "latest_release_days": 1,
+        "has_manifest": false,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "160 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "102 releases"
+          },
+          {
+            "kind": "good",
+            "text": "11.36 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.922
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 160,
+        "commits": 1418,
+        "releases": 102,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 29719,
         "language": "Swift"
       }
     },
@@ -1522,7 +1614,7 @@
         "forks": 457,
         "open_issues": 535,
         "age_days": 2547,
-        "pushed_days_ago": 4,
+        "pushed_days_ago": 5,
         "stars_per_day": 5.62,
         "commits": 1642,
         "contributors": 58,
@@ -1564,11 +1656,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 1.367
+        "momentum": 1.295
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 4,
+        "last_push_days": 5,
         "contributors": 58,
         "commits": 1642,
         "releases": 55,
@@ -1629,8 +1721,8 @@
           "team-collaboration",
           "wiki"
         ],
-        "stars": 75784,
-        "forks": 5893,
+        "stars": 75792,
+        "forks": 5894,
         "open_issues": 999,
         "age_days": 1891,
         "pushed_days_ago": 9,
@@ -1683,7 +1775,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "AGPL-3.0",
-        "stars": 75784,
+        "stars": 75792,
         "language": "Dart"
       }
     },
@@ -1730,7 +1822,7 @@
           "terminal",
           "tool"
         ],
-        "stars": 60229,
+        "stars": 60232,
         "forks": 1630,
         "open_issues": 423,
         "age_days": 3043,
@@ -1740,7 +1832,7 @@
         "contributors": 410,
         "top_author_share": 0.26,
         "releases": 43,
-        "latest_release_days": 260,
+        "latest_release_days": 261,
         "has_manifest": true,
         "has_tests": true,
         "has_ci": true,
@@ -1784,7 +1876,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "Apache-2.0",
-        "stars": 60229,
+        "stars": 60232,
         "language": "Rust"
       }
     },
@@ -1832,12 +1924,12 @@
           "terminal",
           "tool"
         ],
-        "stars": 44152,
+        "stars": 44154,
         "forks": 1117,
         "open_issues": 189,
-        "age_days": 3389,
+        "age_days": 3390,
         "pushed_days_ago": 9,
-        "stars_per_day": 13.03,
+        "stars_per_day": 13.02,
         "commits": 2005,
         "contributors": 203,
         "top_author_share": 0.3,
@@ -1871,7 +1963,7 @@
           },
           {
             "kind": "good",
-            "text": "13.03 stars/day"
+            "text": "13.02 stars/day"
           }
         ],
         "momentum": 1.289
@@ -1886,7 +1978,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "Apache-2.0",
-        "stars": 44152,
+        "stars": 44154,
         "language": "Rust"
       }
     },
@@ -1946,12 +2038,12 @@
           "z",
           "zsh"
         ],
-        "stars": 38745,
+        "stars": 38751,
         "forks": 869,
         "open_issues": 138,
         "age_days": 2359,
         "pushed_days_ago": 1,
-        "stars_per_day": 16.42,
+        "stars_per_day": 16.43,
         "commits": 628,
         "contributors": 105,
         "top_author_share": 0.71,
@@ -1989,7 +2081,7 @@
           },
           {
             "kind": "good",
-            "text": "16.42 stars/day"
+            "text": "16.43 stars/day"
           }
         ],
         "momentum": 2.07
@@ -2004,7 +2096,124 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 38745,
+        "stars": 38751,
+        "language": "Rust"
+      }
+    },
+    {
+      "slug": "yazi",
+      "name": "Yazi",
+      "repo": "sxyazi/yazi",
+      "kind": "cli",
+      "pitch": "A terminal file manager with instant previews, including images.",
+      "platforms": [
+        "macOS",
+        "Linux",
+        "Windows"
+      ],
+      "categories": [
+        "Terminal",
+        "Productivity"
+      ],
+      "traits": [
+        "Free",
+        "Fast"
+      ],
+      "install": "brew install yazi",
+      "get_url": "https://yazi-rs.github.io",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "sxyazi/yazi",
+        "url": "https://github.com/sxyazi/yazi",
+        "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+        "language": "Rust",
+        "topics": [
+          "android",
+          "asyncio",
+          "cli",
+          "command-line",
+          "concurrency",
+          "cross-platform",
+          "developer-tools",
+          "file-explorer",
+          "file-manager",
+          "filesystem",
+          "linux",
+          "macos",
+          "neovim",
+          "productivity",
+          "rust",
+          "terminal",
+          "tui",
+          "vim",
+          "windows"
+        ],
+        "stars": 41540,
+        "forks": 985,
+        "open_issues": 66,
+        "age_days": 1139,
+        "pushed_days_ago": 1,
+        "stars_per_day": 36.47,
+        "commits": 1504,
+        "contributors": 181,
+        "top_author_share": 0.77,
+        "releases": 32,
+        "latest_release_days": 5,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "181 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "32 releases"
+          },
+          {
+            "kind": "good",
+            "text": "36.47 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 2.392
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 181,
+        "commits": 1504,
+        "releases": 32,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "MIT",
+        "stars": 41540,
         "language": "Rust"
       }
     },
@@ -2042,11 +2251,11 @@
         "description": "A monitor of resources",
         "language": "C++",
         "topics": [],
-        "stars": 34122,
-        "forks": 1129,
+        "stars": 34127,
+        "forks": 1128,
         "open_issues": 529,
         "age_days": 1932,
-        "pushed_days_ago": 11,
+        "pushed_days_ago": 12,
         "stars_per_day": 17.66,
         "commits": 1643,
         "contributors": 171,
@@ -2088,11 +2297,11 @@
             "text": "reading material, not a tool"
           }
         ],
-        "momentum": 1.26
+        "momentum": 1.211
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 11,
+        "last_push_days": 12,
         "contributors": 171,
         "commits": 1643,
         "releases": 55,
@@ -2100,7 +2309,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "Apache-2.0",
-        "stars": 34122,
+        "stars": 34127,
         "language": "C++"
       }
     },
@@ -2144,9 +2353,9 @@
         "stars": 35477,
         "forks": 1820,
         "open_issues": 472,
-        "age_days": 5145,
+        "age_days": 5146,
         "pushed_days_ago": 8,
-        "stars_per_day": 6.9,
+        "stars_per_day": 6.89,
         "commits": 1934,
         "contributors": 227,
         "top_author_share": 0.28,
@@ -2180,7 +2389,7 @@
           },
           {
             "kind": "good",
-            "text": "6.9 stars/day"
+            "text": "6.89 stars/day"
           }
         ],
         "momentum": 1.174
@@ -2243,17 +2452,17 @@
           "rust",
           "syntax-highlighter"
         ],
-        "stars": 31813,
-        "forks": 562,
-        "open_issues": 427,
+        "stars": 31814,
+        "forks": 563,
+        "open_issues": 429,
         "age_days": 2614,
-        "pushed_days_ago": 18,
+        "pushed_days_ago": 19,
         "stars_per_day": 12.17,
         "commits": 2179,
         "contributors": 149,
         "top_author_share": 0.77,
         "releases": 62,
-        "latest_release_days": 144,
+        "latest_release_days": 145,
         "has_manifest": true,
         "has_tests": true,
         "has_ci": true,
@@ -2285,11 +2494,11 @@
             "text": "12.17 stars/day"
           }
         ],
-        "momentum": 0.914
+        "momentum": 0.886
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 18,
+        "last_push_days": 19,
         "contributors": 149,
         "commits": 2179,
         "releases": 62,
@@ -2297,7 +2506,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 31813,
+        "stars": 31814,
         "language": "Rust"
       }
     },
@@ -2346,11 +2555,11 @@
           "terminal",
           "tools"
         ],
-        "stars": 22982,
+        "stars": 22983,
         "forks": 505,
-        "open_issues": 432,
+        "open_issues": 433,
         "age_days": 1119,
-        "pushed_days_ago": 13,
+        "pushed_days_ago": 14,
         "stars_per_day": 20.54,
         "commits": 3372,
         "contributors": 289,
@@ -2388,11 +2597,11 @@
             "text": "20.54 stars/day"
           }
         ],
-        "momentum": 1.2
+        "momentum": 1.157
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 13,
+        "last_push_days": 14,
         "contributors": 289,
         "commits": 3372,
         "releases": 96,
@@ -2400,7 +2609,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "EUPL-1.2",
-        "stars": 22982,
+        "stars": 22983,
         "language": "Rust"
       }
     },
@@ -2452,12 +2661,12 @@
           "zsh-prompt",
           "zsh-theme"
         ],
-        "stars": 59498,
-        "forks": 2634,
-        "open_issues": 1034,
-        "age_days": 2697,
+        "stars": 59500,
+        "forks": 2636,
+        "open_issues": 1037,
+        "age_days": 2698,
         "pushed_days_ago": 3,
-        "stars_per_day": 22.06,
+        "stars_per_day": 22.05,
         "commits": 4374,
         "contributors": 452,
         "top_author_share": 0.32,
@@ -2491,14 +2700,14 @@
           },
           {
             "kind": "good",
-            "text": "22.06 stars/day"
+            "text": "22.05 stars/day"
           },
           {
             "kind": "warn",
             "text": "no tests"
           }
         ],
-        "momentum": 1.932
+        "momentum": 1.931
       },
       "trust": {
         "maturity": "proven",
@@ -2510,7 +2719,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "ISC",
-        "stars": 59498,
+        "stars": 59500,
         "language": "Rust"
       }
     },
@@ -2554,12 +2763,12 @@
           "text-editor",
           "vim"
         ],
-        "stars": 45894,
+        "stars": 45895,
         "forks": 3684,
-        "open_issues": 1617,
-        "age_days": 2271,
-        "pushed_days_ago": 1,
-        "stars_per_day": 20.21,
+        "open_issues": 1619,
+        "age_days": 2272,
+        "pushed_days_ago": 2,
+        "stars_per_day": 20.2,
         "commits": 7689,
         "contributors": 415,
         "top_author_share": 0.19,
@@ -2597,14 +2806,14 @@
           },
           {
             "kind": "good",
-            "text": "20.21 stars/day"
+            "text": "20.2 stars/day"
           }
         ],
-        "momentum": 2.154
+        "momentum": 2.019
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 1,
+        "last_push_days": 2,
         "contributors": 415,
         "commits": 7689,
         "releases": 30,
@@ -2612,7 +2821,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MPL-2.0",
-        "stars": 45894,
+        "stars": 45895,
         "language": "Rust"
       }
     },
@@ -2659,11 +2868,11 @@
           "restic",
           "secure-by-default"
         ],
-        "stars": 35624,
+        "stars": 35629,
         "forks": 1835,
         "open_issues": 569,
         "age_days": 4498,
-        "pushed_days_ago": 18,
+        "pushed_days_ago": 19,
         "stars_per_day": 7.92,
         "commits": 9886,
         "contributors": 397,
@@ -2701,11 +2910,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 0.833
+        "momentum": 0.808
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 18,
+        "last_push_days": 19,
         "contributors": 397,
         "commits": 9886,
         "releases": 51,
@@ -2713,7 +2922,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "BSD-2-Clause",
-        "stars": 35624,
+        "stars": 35629,
         "language": "Go"
       }
     },
@@ -2757,17 +2966,17 @@
           "podcasts",
           "self-hosted"
         ],
-        "stars": 14045,
-        "forks": 1123,
+        "stars": 14048,
+        "forks": 1124,
         "open_issues": 1142,
-        "age_days": 1828,
-        "pushed_days_ago": 3,
+        "age_days": 1829,
+        "pushed_days_ago": 4,
         "stars_per_day": 7.68,
         "commits": 6547,
         "contributors": 359,
         "top_author_share": 0.6,
         "releases": 158,
-        "latest_release_days": 23,
+        "latest_release_days": 24,
         "has_manifest": true,
         "has_tests": true,
         "has_ci": true,
@@ -2803,11 +3012,11 @@
             "text": "7.68 stars/day"
           }
         ],
-        "momentum": 1.557
+        "momentum": 1.471
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 3,
+        "last_push_days": 4,
         "contributors": 359,
         "commits": 6547,
         "releases": 158,
@@ -2815,7 +3024,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 14045,
+        "stars": 14048,
         "language": "JavaScript"
       }
     },
@@ -2867,11 +3076,11 @@
           "youtube",
           "youtube-videos"
         ],
-        "stars": 13661,
+        "stars": 13662,
         "forks": 469,
         "open_issues": 439,
-        "age_days": 2598,
-        "pushed_days_ago": 15,
+        "age_days": 2599,
+        "pushed_days_ago": 16,
         "stars_per_day": 5.26,
         "commits": 4053,
         "contributors": 78,
@@ -2909,11 +3118,11 @@
             "text": "5.26 stars/day"
           }
         ],
-        "momentum": 0.835
+        "momentum": 0.807
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 15,
+        "last_push_days": 16,
         "contributors": 78,
         "commits": 4053,
         "releases": 307,
@@ -2921,7 +3130,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 13661,
+        "stars": 13662,
         "language": "TypeScript"
       }
     },
@@ -2977,12 +3186,12 @@
           "react",
           "typescript"
         ],
-        "stars": 14170,
-        "forks": 8540,
+        "stars": 14175,
+        "forks": 8539,
         "open_issues": 174,
         "age_days": 142,
         "pushed_days_ago": 6,
-        "stars_per_day": 99.79,
+        "stars_per_day": 99.82,
         "commits": 1823,
         "contributors": 27,
         "top_author_share": 0.94,
@@ -3020,7 +3229,7 @@
           },
           {
             "kind": "good",
-            "text": "99.79 stars/day"
+            "text": "99.82 stars/day"
           }
         ],
         "momentum": 2.1
@@ -3035,7 +3244,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 14170,
+        "stars": 14175,
         "language": "TypeScript"
       }
     },
@@ -3078,7 +3287,7 @@
           "objective-c",
           "utility"
         ],
-        "stars": 6852,
+        "stars": 6854,
         "forks": 264,
         "open_issues": 29,
         "age_days": 4323,
@@ -3132,8 +3341,107 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 6852,
+        "stars": 6854,
         "language": "Objective-C"
+      }
+    },
+    {
+      "slug": "stylus",
+      "name": "Stylus",
+      "repo": "openstyles/stylus",
+      "kind": "extension",
+      "pitch": "Write and manage your own CSS for any site you visit often.",
+      "platforms": [
+        "Firefox",
+        "Chrome"
+      ],
+      "categories": [
+        "Browser",
+        "Developer tools"
+      ],
+      "traits": [
+        "Free",
+        "No telemetry"
+      ],
+      "get_url": "https://add0n.com/stylus.html",
+      "kind_label": "Browser extension",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-20T18:18:47+00:00",
+        "active_until": "2026-09-19T18:18:47+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "openstyles/stylus",
+        "url": "https://github.com/openstyles/stylus",
+        "description": "Stylus - Userstyles Manager",
+        "language": "JavaScript",
+        "topics": [
+          "chrome-extension",
+          "firefox-extension",
+          "opera-addon",
+          "privacy",
+          "stylish",
+          "usercss",
+          "userstyles"
+        ],
+        "stars": 6834,
+        "forks": 379,
+        "open_issues": 94,
+        "age_days": 3511,
+        "pushed_days_ago": 1,
+        "stars_per_day": 1.95,
+        "commits": 5125,
+        "contributors": 34,
+        "top_author_share": 0.76,
+        "releases": 101,
+        "latest_release_days": 1,
+        "has_manifest": true,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "active this week"
+          },
+          {
+            "kind": "good",
+            "text": "34 contributors"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "101 releases"
+          },
+          {
+            "kind": "warn",
+            "text": "no tests"
+          }
+        ],
+        "momentum": 1.224
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 1,
+        "contributors": 34,
+        "commits": 5125,
+        "releases": 101,
+        "has_tests": false,
+        "has_ci": true,
+        "has_license": true,
+        "license": "GPL-3.0",
+        "stars": 6834,
+        "language": "JavaScript"
       }
     },
     {
@@ -3180,10 +3488,10 @@
           "utility"
         ],
         "stars": 6707,
-        "forks": 156,
+        "forks": 157,
         "open_issues": 133,
         "age_days": 1897,
-        "pushed_days_ago": 9,
+        "pushed_days_ago": 10,
         "stars_per_day": 3.54,
         "commits": 734,
         "contributors": 32,
@@ -3217,11 +3525,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 0.95
+        "momentum": 0.911
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 9,
+        "last_push_days": 10,
         "contributors": 32,
         "commits": 734,
         "releases": 157,
@@ -3283,17 +3591,17 @@
           "widgetkit",
           "widgets"
         ],
-        "stars": 5894,
+        "stars": 5893,
         "forks": 239,
         "open_issues": 56,
-        "age_days": 1723,
-        "pushed_days_ago": 8,
+        "age_days": 1724,
+        "pushed_days_ago": 9,
         "stars_per_day": 3.42,
         "commits": 1112,
         "contributors": 25,
         "top_author_share": 0.87,
         "releases": 85,
-        "latest_release_days": 24,
+        "latest_release_days": 25,
         "has_manifest": false,
         "has_tests": false,
         "has_ci": true,
@@ -3321,11 +3629,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 0.984
+        "momentum": 0.941
       },
       "trust": {
         "maturity": "proven",
-        "last_push_days": 8,
+        "last_push_days": 9,
         "contributors": 25,
         "commits": 1112,
         "releases": 85,
@@ -3333,8 +3641,117 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 5894,
+        "stars": 5893,
         "language": "Swift"
+      }
+    },
+    {
+      "slug": "rmux",
+      "name": "rmux",
+      "repo": "Helvesec/rmux",
+      "kind": "cli",
+      "pitch": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
+      "platforms": [
+        "Terminal"
+      ],
+      "categories": [
+        "AI",
+        "Productivity",
+        "Terminal"
+      ],
+      "traits": [
+        "Open source",
+        "Actively maintained",
+        "Tests + CI"
+      ],
+      "get_url": "https://github.com/Helvesec/rmux",
+      "automated": true,
+      "selected_at": "2026-08-21T04:57:53+00:00",
+      "selection_reason": "proven · updated 11d ago · 16 contributors · 16 releases",
+      "kind_label": "Command line",
+      "lifecycle": {
+        "status": "active",
+        "published_at": "2026-08-21T04:57:53+00:00",
+        "active_until": "2026-09-20T04:57:53+00:00",
+        "archived_at": null,
+        "generation": 1
+      },
+      "github": {
+        "name": "Helvesec/rmux",
+        "url": "https://github.com/Helvesec/rmux",
+        "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
+        "language": "Rust",
+        "topics": [
+          "agent",
+          "ai",
+          "cli",
+          "linux",
+          "macos",
+          "multiplexer",
+          "multiplexers",
+          "powershell",
+          "ratatui",
+          "rust",
+          "terminal",
+          "tokio",
+          "windows"
+        ],
+        "stars": 2586,
+        "forks": 149,
+        "open_issues": 9,
+        "age_days": 97,
+        "pushed_days_ago": 11,
+        "stars_per_day": 26.66,
+        "commits": 1358,
+        "contributors": 16,
+        "top_author_share": 0.98,
+        "releases": 16,
+        "latest_release_days": 16,
+        "has_manifest": true,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "archived": false,
+        "is_fork": false,
+        "docs_only": false,
+        "content_kind": "project",
+        "maturity": "proven",
+        "badges": [
+          {
+            "kind": "good",
+            "text": "has tests"
+          },
+          {
+            "kind": "good",
+            "text": "CI configured"
+          },
+          {
+            "kind": "good",
+            "text": "16 releases"
+          },
+          {
+            "kind": "good",
+            "text": "26.66 stars/day"
+          },
+          {
+            "kind": "warn",
+            "text": "top author wrote 98% of commits"
+          }
+        ],
+        "momentum": 1.359
+      },
+      "trust": {
+        "maturity": "proven",
+        "last_push_days": 11,
+        "contributors": 16,
+        "commits": 1358,
+        "releases": 16,
+        "has_tests": true,
+        "has_ci": true,
+        "has_license": true,
+        "license": "NOASSERTION",
+        "stars": 2586,
+        "language": "Rust"
       }
     },
     {
@@ -3381,17 +3798,17 @@
           "swiftui",
           "utility"
         ],
-        "stars": 29327,
-        "forks": 846,
+        "stars": 29332,
+        "forks": 847,
         "open_issues": 414,
-        "age_days": 1111,
-        "pushed_days_ago": 333,
-        "stars_per_day": 26.4,
+        "age_days": 1112,
+        "pushed_days_ago": 334,
+        "stars_per_day": 26.38,
         "commits": 1140,
         "contributors": 10,
         "top_author_share": 0.98,
         "releases": 57,
-        "latest_release_days": 659,
+        "latest_release_days": 660,
         "has_manifest": false,
         "has_tests": false,
         "has_ci": true,
@@ -3412,11 +3829,11 @@
           },
           {
             "kind": "good",
-            "text": "26.4 stars/day"
+            "text": "26.38 stars/day"
           },
           {
             "kind": "warn",
-            "text": "no commits for 333 days"
+            "text": "no commits for 334 days"
           },
           {
             "kind": "warn",
@@ -3427,11 +3844,11 @@
             "text": "no tests"
           }
         ],
-        "momentum": 0.098
+        "momentum": 0.097
       },
       "trust": {
         "maturity": "risky",
-        "last_push_days": 333,
+        "last_push_days": 334,
         "contributors": 10,
         "commits": 1140,
         "releases": 57,
@@ -3439,102 +3856,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 29327,
-        "language": "Swift"
-      }
-    },
-    {
-      "slug": "rectangle",
-      "name": "Rectangle",
-      "repo": "rxhanson/Rectangle",
-      "kind": "app",
-      "pitch": "Snap windows into halves and corners using keyboard shortcuts.",
-      "platforms": [
-        "macOS"
-      ],
-      "categories": [
-        "Window management",
-        "Productivity"
-      ],
-      "traits": [
-        "Free",
-        "Keyboard-first"
-      ],
-      "install": "brew install --cask rectangle",
-      "get_url": "https://rectangleapp.com",
-      "kind_label": "App",
-      "lifecycle": {
-        "status": "active",
-        "published_at": "2026-08-20T18:18:47+00:00",
-        "active_until": "2026-09-19T18:18:47+00:00",
-        "archived_at": null,
-        "generation": 1
-      },
-      "github": {
-        "name": "rxhanson/Rectangle",
-        "url": "https://github.com/rxhanson/Rectangle",
-        "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
-        "language": "Swift",
-        "topics": [],
-        "stars": 29717,
-        "forks": 975,
-        "open_issues": 107,
-        "age_days": 2616,
-        "pushed_days_ago": 0,
-        "stars_per_day": 11.36,
-        "commits": 1418,
-        "contributors": 160,
-        "top_author_share": 0.48,
-        "releases": 102,
-        "latest_release_days": 0,
-        "has_manifest": false,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "archived": false,
-        "is_fork": false,
-        "docs_only": false,
-        "content_kind": "project",
-        "maturity": "risky",
-        "badges": [
-          {
-            "kind": "good",
-            "text": "active this week"
-          },
-          {
-            "kind": "good",
-            "text": "160 contributors"
-          },
-          {
-            "kind": "good",
-            "text": "CI configured"
-          },
-          {
-            "kind": "good",
-            "text": "102 releases"
-          },
-          {
-            "kind": "good",
-            "text": "11.36 stars/day"
-          },
-          {
-            "kind": "warn",
-            "text": "no tests"
-          }
-        ],
-        "momentum": 0.655
-      },
-      "trust": {
-        "maturity": "risky",
-        "last_push_days": 0,
-        "contributors": 160,
-        "commits": 1418,
-        "releases": 102,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "license": "NOASSERTION",
-        "stars": 29717,
+        "stars": 29332,
         "language": "Swift"
       }
     },
@@ -3577,17 +3899,17 @@
           "video",
           "video-player"
         ],
-        "stars": 46027,
-        "forks": 2898,
+        "stars": 46036,
+        "forks": 2899,
         "open_issues": 1908,
         "age_days": 3531,
         "pushed_days_ago": 0,
         "stars_per_day": 13.04,
-        "commits": 4211,
+        "commits": 4213,
         "contributors": 157,
         "top_author_share": 0.44,
         "releases": 51,
-        "latest_release_days": 56,
+        "latest_release_days": 57,
         "has_manifest": false,
         "has_tests": false,
         "has_ci": true,
@@ -3629,13 +3951,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 157,
-        "commits": 4211,
+        "commits": 4213,
         "releases": 51,
         "has_tests": false,
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 46027,
+        "stars": 46036,
         "language": "Swift"
       }
     },
@@ -3697,9 +4019,9 @@
           "reactjs",
           "self-hosted"
         ],
-        "stars": 14441,
+        "stars": 14444,
         "forks": 985,
-        "open_issues": 973,
+        "open_issues": 974,
         "age_days": 1967,
         "pushed_days_ago": 0,
         "stars_per_day": 7.34,
@@ -3759,7 +4081,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 14441,
+        "stars": 14444,
         "language": "TypeScript"
       }
     },
@@ -3813,12 +4135,12 @@
           "testing",
           "testing-tools"
         ],
-        "stars": 46434,
-        "forks": 2798,
-        "open_issues": 1823,
-        "age_days": 1422,
+        "stars": 46441,
+        "forks": 2799,
+        "open_issues": 1825,
+        "age_days": 1423,
         "pushed_days_ago": 0,
-        "stars_per_day": 32.65,
+        "stars_per_day": 32.64,
         "commits": 4825,
         "contributors": 417,
         "top_author_share": 0.29,
@@ -3856,7 +4178,7 @@
           },
           {
             "kind": "good",
-            "text": "32.65 stars/day"
+            "text": "32.64 stars/day"
           }
         ],
         "momentum": 0.8
@@ -3871,7 +4193,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 46434,
+        "stars": 46441,
         "language": "JavaScript"
       }
     },
@@ -3914,13 +4236,13 @@
           "text-editor",
           "zed"
         ],
-        "stars": 88953,
-        "forks": 10156,
-        "open_issues": 3221,
-        "age_days": 2007,
+        "stars": 88975,
+        "forks": 10170,
+        "open_issues": 3199,
+        "age_days": 2008,
         "pushed_days_ago": 0,
-        "stars_per_day": 44.32,
-        "commits": 39628,
+        "stars_per_day": 44.31,
+        "commits": 39630,
         "contributors": 482,
         "top_author_share": 0.11,
         "releases": 1285,
@@ -3953,7 +4275,7 @@
           },
           {
             "kind": "good",
-            "text": "44.32 stars/day"
+            "text": "44.31 stars/day"
           },
           {
             "kind": "warn",
@@ -3966,13 +4288,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 482,
-        "commits": 39628,
+        "commits": 39630,
         "releases": 1285,
         "has_tests": false,
         "has_ci": true,
         "has_license": true,
         "license": "NOASSERTION",
-        "stars": 88953,
+        "stars": 88975,
         "language": "Rust"
       }
     },
@@ -4010,13 +4332,13 @@
         "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
         "language": "Zig",
         "topics": [],
-        "stars": 59958,
-        "forks": 3310,
-        "open_issues": 247,
+        "stars": 59986,
+        "forks": 3308,
+        "open_issues": 245,
         "age_days": 1605,
         "pushed_days_ago": 0,
-        "stars_per_day": 37.36,
-        "commits": 17370,
+        "stars_per_day": 37.37,
+        "commits": 17385,
         "contributors": 424,
         "top_author_share": 0.67,
         "releases": 1,
@@ -4053,7 +4375,7 @@
           },
           {
             "kind": "good",
-            "text": "37.36 stars/day"
+            "text": "37.37 stars/day"
           }
         ],
         "momentum": 0.819
@@ -4062,13 +4384,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 424,
-        "commits": 17370,
+        "commits": 17385,
         "releases": 1,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 59958,
+        "stars": 59986,
         "language": "Zig"
       }
     },
@@ -4107,17 +4429,17 @@
         "description": "The lazier way to manage everything docker",
         "language": "Go",
         "topics": [],
-        "stars": 52559,
+        "stars": 52560,
         "forks": 1679,
         "open_issues": 292,
         "age_days": 2651,
-        "pushed_days_ago": 123,
+        "pushed_days_ago": 124,
         "stars_per_day": 19.83,
         "commits": 892,
         "contributors": 79,
         "top_author_share": 0.59,
         "releases": 47,
-        "latest_release_days": 123,
+        "latest_release_days": 124,
         "has_manifest": true,
         "has_tests": true,
         "has_ci": true,
@@ -4149,11 +4471,11 @@
             "text": "19.83 stars/day"
           }
         ],
-        "momentum": 0.235
+        "momentum": 0.233
       },
       "trust": {
         "maturity": "risky",
-        "last_push_days": 123,
+        "last_push_days": 124,
         "contributors": 79,
         "commits": 892,
         "releases": 47,
@@ -4161,7 +4483,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 52559,
+        "stars": 52560,
         "language": "Go"
       }
     },
@@ -4206,17 +4528,17 @@
           "shell",
           "zsh"
         ],
-        "stars": 31348,
-        "forks": 938,
-        "open_issues": 406,
-        "age_days": 2145,
+        "stars": 31354,
+        "forks": 940,
+        "open_issues": 405,
+        "age_days": 2146,
         "pushed_days_ago": 0,
         "stars_per_day": 14.61,
-        "commits": 2088,
+        "commits": 2095,
         "contributors": 312,
         "top_author_share": 0.36,
         "releases": 88,
-        "latest_release_days": 16,
+        "latest_release_days": 17,
         "has_manifest": true,
         "has_tests": false,
         "has_ci": true,
@@ -4258,130 +4580,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 312,
-        "commits": 2088,
+        "commits": 2095,
         "releases": 88,
         "has_tests": false,
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 31348,
-        "language": "Rust"
-      }
-    },
-    {
-      "slug": "yazi",
-      "name": "Yazi",
-      "repo": "sxyazi/yazi",
-      "kind": "cli",
-      "pitch": "A terminal file manager with instant previews, including images.",
-      "platforms": [
-        "macOS",
-        "Linux",
-        "Windows"
-      ],
-      "categories": [
-        "Terminal",
-        "Productivity"
-      ],
-      "traits": [
-        "Free",
-        "Fast"
-      ],
-      "install": "brew install yazi",
-      "get_url": "https://yazi-rs.github.io",
-      "kind_label": "Command line",
-      "lifecycle": {
-        "status": "active",
-        "published_at": "2026-08-20T18:18:47+00:00",
-        "active_until": "2026-09-19T18:18:47+00:00",
-        "archived_at": null,
-        "generation": 1
-      },
-      "github": {
-        "name": "sxyazi/yazi",
-        "url": "https://github.com/sxyazi/yazi",
-        "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
-        "language": "Rust",
-        "topics": [
-          "android",
-          "asyncio",
-          "cli",
-          "command-line",
-          "concurrency",
-          "cross-platform",
-          "developer-tools",
-          "file-explorer",
-          "file-manager",
-          "filesystem",
-          "linux",
-          "macos",
-          "neovim",
-          "productivity",
-          "rust",
-          "terminal",
-          "tui",
-          "vim",
-          "windows"
-        ],
-        "stars": 41528,
-        "forks": 984,
-        "open_issues": 65,
-        "age_days": 1139,
-        "pushed_days_ago": 0,
-        "stars_per_day": 36.46,
-        "commits": 1504,
-        "contributors": 181,
-        "top_author_share": 0.77,
-        "releases": 32,
-        "latest_release_days": 5,
-        "has_manifest": true,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "archived": false,
-        "is_fork": false,
-        "docs_only": false,
-        "content_kind": "project",
-        "maturity": "risky",
-        "badges": [
-          {
-            "kind": "good",
-            "text": "active this week"
-          },
-          {
-            "kind": "good",
-            "text": "181 contributors"
-          },
-          {
-            "kind": "good",
-            "text": "CI configured"
-          },
-          {
-            "kind": "good",
-            "text": "32 releases"
-          },
-          {
-            "kind": "good",
-            "text": "36.46 stars/day"
-          },
-          {
-            "kind": "warn",
-            "text": "no tests"
-          }
-        ],
-        "momentum": 0.816
-      },
-      "trust": {
-        "maturity": "risky",
-        "last_push_days": 0,
-        "contributors": 181,
-        "commits": 1504,
-        "releases": 32,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "license": "MIT",
-        "stars": 41528,
+        "stars": 31354,
         "language": "Rust"
       }
     },
@@ -4423,9 +4628,9 @@
           "terminal",
           "workspace"
         ],
-        "stars": 35012,
-        "forks": 1391,
-        "open_issues": 1858,
+        "stars": 35019,
+        "forks": 1393,
+        "open_issues": 1859,
         "age_days": 2179,
         "pushed_days_ago": 0,
         "stars_per_day": 16.07,
@@ -4481,7 +4686,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 35012,
+        "stars": 35019,
         "language": "Rust"
       }
     },
@@ -4528,17 +4733,17 @@
           "youtube-downloader",
           "yt-dlp"
         ],
-        "stars": 185845,
-        "forks": 16018,
+        "stars": 185925,
+        "forks": 16025,
         "open_issues": 2594,
-        "age_days": 2124,
+        "age_days": 2125,
         "pushed_days_ago": 0,
-        "stars_per_day": 87.5,
-        "commits": 23977,
+        "stars_per_day": 87.49,
+        "commits": 23980,
         "contributors": 377,
         "top_author_share": 0.27,
         "releases": 136,
-        "latest_release_days": 0,
+        "latest_release_days": 1,
         "has_manifest": true,
         "has_tests": true,
         "has_ci": true,
@@ -4571,7 +4776,7 @@
           },
           {
             "kind": "good",
-            "text": "87.5 stars/day"
+            "text": "87.49 stars/day"
           }
         ],
         "momentum": 0.936
@@ -4580,13 +4785,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 377,
-        "commits": 23977,
+        "commits": 23980,
         "releases": 136,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "Unlicense",
-        "stars": 185845,
+        "stars": 185925,
         "language": "Python"
       }
     },
@@ -4647,9 +4852,9 @@
           "sync",
           "webdav"
         ],
-        "stars": 59279,
-        "forks": 5325,
-        "open_issues": 1238,
+        "stars": 59287,
+        "forks": 5326,
+        "open_issues": 1239,
         "age_days": 4540,
         "pushed_days_ago": 0,
         "stars_per_day": 13.06,
@@ -4705,7 +4910,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 59279,
+        "stars": 59287,
         "language": "Go"
       }
     },
@@ -4760,13 +4965,13 @@
           "ollama",
           "qwen"
         ],
-        "stars": 179045,
-        "forks": 17482,
-        "open_issues": 3762,
-        "age_days": 1150,
+        "stars": 179075,
+        "forks": 17488,
+        "open_issues": 3759,
+        "age_days": 1151,
         "pushed_days_ago": 0,
-        "stars_per_day": 155.69,
-        "commits": 5654,
+        "stars_per_day": 155.58,
+        "commits": 5657,
         "contributors": 452,
         "top_author_share": 0.23,
         "releases": 246,
@@ -4799,7 +5004,7 @@
           },
           {
             "kind": "good",
-            "text": "155.69 stars/day"
+            "text": "155.58 stars/day"
           },
           {
             "kind": "warn",
@@ -4812,13 +5017,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 452,
-        "commits": 5654,
+        "commits": 5657,
         "releases": 246,
         "has_tests": false,
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 179045,
+        "stars": 179075,
         "language": "Go"
       }
     },
@@ -4864,9 +5069,9 @@
           "peer-to-peer",
           "synchronization"
         ],
-        "stars": 87820,
+        "stars": 87831,
         "forks": 5418,
-        "open_issues": 374,
+        "open_issues": 375,
         "age_days": 4650,
         "pushed_days_ago": 0,
         "stars_per_day": 18.89,
@@ -4922,7 +5127,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MPL-2.0",
-        "stars": 87820,
+        "stars": 87831,
         "language": "Go"
       }
     },
@@ -4966,13 +5171,13 @@
           "rust",
           "vaultwarden"
         ],
-        "stars": 65700,
-        "forks": 3117,
+        "stars": 65729,
+        "forks": 3119,
         "open_issues": 83,
-        "age_days": 3105,
+        "age_days": 3106,
         "pushed_days_ago": 0,
         "stars_per_day": 21.16,
-        "commits": 3064,
+        "commits": 3065,
         "contributors": 180,
         "top_author_share": 0.43,
         "releases": 85,
@@ -5018,13 +5223,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 180,
-        "commits": 3064,
+        "commits": 3065,
         "releases": 85,
         "has_tests": false,
         "has_ci": true,
         "has_license": true,
         "license": "AGPL-3.0",
-        "stars": 65700,
+        "stars": 65729,
         "language": "Rust"
       }
     },
@@ -5073,17 +5278,17 @@
           "optical-character-recognition",
           "pdf"
         ],
-        "stars": 44440,
-        "forks": 3045,
+        "stars": 44449,
+        "forks": 3046,
         "open_issues": 11,
-        "age_days": 1649,
+        "age_days": 1650,
         "pushed_days_ago": 0,
-        "stars_per_day": 26.95,
+        "stars_per_day": 26.94,
         "commits": 11883,
         "contributors": 397,
         "top_author_share": 0.32,
         "releases": 156,
-        "latest_release_days": 18,
+        "latest_release_days": 19,
         "has_manifest": true,
         "has_tests": false,
         "has_ci": true,
@@ -5112,7 +5317,7 @@
           },
           {
             "kind": "good",
-            "text": "26.95 stars/day"
+            "text": "26.94 stars/day"
           },
           {
             "kind": "warn",
@@ -5131,7 +5336,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 44440,
+        "stars": 44449,
         "language": "Python"
       }
     },
@@ -5187,13 +5392,13 @@
           "typescript",
           "videos"
         ],
-        "stars": 112157,
-        "forks": 6650,
-        "open_issues": 712,
+        "stars": 112186,
+        "forks": 6654,
+        "open_issues": 713,
         "age_days": 1659,
         "pushed_days_ago": 0,
-        "stars_per_day": 67.61,
-        "commits": 10820,
+        "stars_per_day": 67.62,
+        "commits": 10824,
         "contributors": 463,
         "top_author_share": 0.18,
         "releases": 305,
@@ -5230,7 +5435,7 @@
           },
           {
             "kind": "good",
-            "text": "67.61 stars/day"
+            "text": "67.62 stars/day"
           }
         ],
         "momentum": 0.901
@@ -5239,13 +5444,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 463,
-        "commits": 10820,
+        "commits": 10824,
         "releases": 305,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "AGPL-3.0",
-        "stars": 112157,
+        "stars": 112186,
         "language": "TypeScript"
       }
     },
@@ -5287,13 +5492,13 @@
           "hacktoberfest",
           "jellyfin"
         ],
-        "stars": 55990,
-        "forks": 5332,
-        "open_issues": 595,
+        "stars": 56001,
+        "forks": 5333,
+        "open_issues": 596,
         "age_days": 2811,
         "pushed_days_ago": 0,
         "stars_per_day": 19.92,
-        "commits": 29767,
+        "commits": 29768,
         "contributors": 370,
         "top_author_share": 0.35,
         "releases": 112,
@@ -5339,13 +5544,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 370,
-        "commits": 29767,
+        "commits": 29768,
         "releases": 112,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "GPL-2.0",
-        "stars": 55990,
+        "stars": 56001,
         "language": "C#"
       }
     },
@@ -5394,9 +5599,9 @@
           "open-source",
           "privacy"
         ],
-        "stars": 36255,
+        "stars": 36266,
         "forks": 2471,
-        "open_issues": 1275,
+        "open_issues": 1276,
         "age_days": 3697,
         "pushed_days_ago": 0,
         "stars_per_day": 9.81,
@@ -5452,7 +5657,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 36255,
+        "stars": 36266,
         "language": "TypeScript"
       }
     },
@@ -5502,12 +5707,12 @@
           "webapp",
           "websocket"
         ],
-        "stars": 90404,
+        "stars": 90418,
         "forks": 8275,
         "open_issues": 795,
-        "age_days": 1874,
+        "age_days": 1875,
         "pushed_days_ago": 0,
-        "stars_per_day": 48.24,
+        "stars_per_day": 48.22,
         "commits": 7226,
         "contributors": 399,
         "top_author_share": 0.39,
@@ -5545,7 +5750,7 @@
           },
           {
             "kind": "good",
-            "text": "48.24 stars/day"
+            "text": "48.22 stars/day"
           }
         ],
         "momentum": 0.854
@@ -5560,7 +5765,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 90404,
+        "stars": 90418,
         "language": "JavaScript"
       }
     },
@@ -5612,13 +5817,13 @@
           "subsonic",
           "subsonic-server"
         ],
-        "stars": 22993,
-        "forks": 1649,
-        "open_issues": 261,
-        "age_days": 3829,
+        "stars": 23000,
+        "forks": 1650,
+        "open_issues": 262,
+        "age_days": 3830,
         "pushed_days_ago": 0,
-        "stars_per_day": 6.0,
-        "commits": 5033,
+        "stars_per_day": 6.01,
+        "commits": 5034,
         "contributors": 234,
         "top_author_share": 0.8,
         "releases": 118,
@@ -5655,7 +5860,7 @@
           },
           {
             "kind": "good",
-            "text": "6.0 stars/day"
+            "text": "6.01 stars/day"
           }
         ],
         "momentum": 0.568
@@ -5664,13 +5869,13 @@
         "maturity": "risky",
         "last_push_days": 0,
         "contributors": 234,
-        "commits": 5033,
+        "commits": 5034,
         "releases": 118,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 22993,
+        "stars": 23000,
         "language": "Go"
       }
     },
@@ -5723,12 +5928,12 @@
           "startpage",
           "yahoo"
         ],
-        "stars": 35810,
-        "forks": 3264,
+        "stars": 35835,
+        "forks": 3266,
         "open_issues": 215,
         "age_days": 1956,
         "pushed_days_ago": 0,
-        "stars_per_day": 18.31,
+        "stars_per_day": 18.32,
         "commits": 9672,
         "contributors": 274,
         "top_author_share": 0.27,
@@ -5762,7 +5967,7 @@
           },
           {
             "kind": "good",
-            "text": "18.31 stars/day"
+            "text": "18.32 stars/day"
           },
           {
             "kind": "warn",
@@ -5781,7 +5986,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "AGPL-3.0",
-        "stars": 35810,
+        "stars": 35835,
         "language": "Python"
       }
     },
@@ -5833,14 +6038,14 @@
           "pdfmerger",
           "self-hosted"
         ],
-        "stars": 89933,
-        "forks": 8129,
-        "open_issues": 577,
+        "stars": 89953,
+        "forks": 8132,
+        "open_issues": 558,
         "age_days": 1301,
         "pushed_days_ago": 0,
-        "stars_per_day": 69.13,
-        "commits": 5852,
-        "contributors": 284,
+        "stars_per_day": 69.14,
+        "commits": 5867,
+        "contributors": 285,
         "top_author_share": 0.35,
         "releases": 186,
         "latest_release_days": 14,
@@ -5860,7 +6065,7 @@
           },
           {
             "kind": "good",
-            "text": "284 contributors"
+            "text": "285 contributors"
           },
           {
             "kind": "good",
@@ -5876,7 +6081,7 @@
           },
           {
             "kind": "good",
-            "text": "69.13 stars/day"
+            "text": "69.14 stars/day"
           }
         ],
         "momentum": 0.904
@@ -5884,14 +6089,14 @@
       "trust": {
         "maturity": "risky",
         "last_push_days": 0,
-        "contributors": 284,
-        "commits": 5852,
+        "contributors": 285,
+        "commits": 5867,
         "releases": 186,
         "has_tests": true,
         "has_ci": true,
         "has_license": true,
         "license": "NOASSERTION",
-        "stars": 89933,
+        "stars": 89953,
         "language": "Java"
       }
     },
@@ -5936,8 +6141,8 @@
           "ublock",
           "ublock-origin"
         ],
-        "stars": 67158,
-        "forks": 4292,
+        "stars": 67172,
+        "forks": 4294,
         "open_issues": 15,
         "age_days": 4159,
         "pushed_days_ago": 0,
@@ -5998,7 +6203,7 @@
         "has_ci": true,
         "has_license": true,
         "license": "GPL-3.0",
-        "stars": 67158,
+        "stars": 67172,
         "language": "JavaScript"
       }
     },
@@ -6046,9 +6251,9 @@
           "night-mode",
           "nightmode"
         ],
-        "stars": 22275,
+        "stars": 22278,
         "forks": 2741,
-        "open_issues": 1447,
+        "open_issues": 1449,
         "age_days": 4296,
         "pushed_days_ago": 0,
         "stars_per_day": 5.19,
@@ -6104,107 +6309,8 @@
         "has_ci": true,
         "has_license": true,
         "license": "MIT",
-        "stars": 22275,
+        "stars": 22278,
         "language": "TypeScript"
-      }
-    },
-    {
-      "slug": "stylus",
-      "name": "Stylus",
-      "repo": "openstyles/stylus",
-      "kind": "extension",
-      "pitch": "Write and manage your own CSS for any site you visit often.",
-      "platforms": [
-        "Firefox",
-        "Chrome"
-      ],
-      "categories": [
-        "Browser",
-        "Developer tools"
-      ],
-      "traits": [
-        "Free",
-        "No telemetry"
-      ],
-      "get_url": "https://add0n.com/stylus.html",
-      "kind_label": "Browser extension",
-      "lifecycle": {
-        "status": "active",
-        "published_at": "2026-08-20T18:18:47+00:00",
-        "active_until": "2026-09-19T18:18:47+00:00",
-        "archived_at": null,
-        "generation": 1
-      },
-      "github": {
-        "name": "openstyles/stylus",
-        "url": "https://github.com/openstyles/stylus",
-        "description": "Stylus - Userstyles Manager",
-        "language": "JavaScript",
-        "topics": [
-          "chrome-extension",
-          "firefox-extension",
-          "opera-addon",
-          "privacy",
-          "stylish",
-          "usercss",
-          "userstyles"
-        ],
-        "stars": 6835,
-        "forks": 379,
-        "open_issues": 94,
-        "age_days": 3511,
-        "pushed_days_ago": 0,
-        "stars_per_day": 1.95,
-        "commits": 5125,
-        "contributors": 34,
-        "top_author_share": 0.76,
-        "releases": 101,
-        "latest_release_days": 0,
-        "has_manifest": true,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "archived": false,
-        "is_fork": false,
-        "docs_only": false,
-        "content_kind": "project",
-        "maturity": "risky",
-        "badges": [
-          {
-            "kind": "good",
-            "text": "active this week"
-          },
-          {
-            "kind": "good",
-            "text": "34 contributors"
-          },
-          {
-            "kind": "good",
-            "text": "CI configured"
-          },
-          {
-            "kind": "good",
-            "text": "101 releases"
-          },
-          {
-            "kind": "warn",
-            "text": "no tests"
-          }
-        ],
-        "momentum": 0.417
-      },
-      "trust": {
-        "maturity": "risky",
-        "last_push_days": 0,
-        "contributors": 34,
-        "commits": 5125,
-        "releases": 101,
-        "has_tests": false,
-        "has_ci": true,
-        "has_license": true,
-        "license": "GPL-3.0",
-        "stars": 6835,
-        "language": "JavaScript"
       }
     }
   ]

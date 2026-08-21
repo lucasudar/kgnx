@@ -22,5 +22,29 @@
     "automated": true,
     "selected_at": "2026-08-20T18:35:40+00:00",
     "selection_reason": "proven · updated 6d ago · 27 contributors · 40 releases"
+  },
+  {
+    "slug": "rmux",
+    "name": "rmux",
+    "repo": "Helvesec/rmux",
+    "kind": "cli",
+    "pitch": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "AI",
+      "Productivity",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/Helvesec/rmux",
+    "automated": true,
+    "selected_at": "2026-08-21T04:57:53+00:00",
+    "selection_reason": "proven · updated 11d ago · 16 contributors · 16 releases"
   }
 ]
