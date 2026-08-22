@@ -69,6 +69,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "convertx": {
+    "status": "active",
+    "published_at": "2026-08-22T04:53:50+00:00",
+    "active_until": "2026-09-21T04:53:50+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "darkreader": {
     "status": "active",
     "published_at": "2026-08-20T18:18:47+00:00",

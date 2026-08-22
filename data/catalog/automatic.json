@@ -46,5 +46,28 @@
     "automated": true,
     "selected_at": "2026-08-21T04:57:53+00:00",
     "selection_reason": "proven · updated 11d ago · 16 contributors · 16 releases"
+  },
+  {
+    "slug": "convertx",
+    "name": "ConvertX",
+    "repo": "C4illin/ConvertX",
+    "kind": "service",
+    "pitch": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+    "platforms": [
+      "Self-hosted"
+    ],
+    "categories": [
+      "Documents",
+      "Self-hosted"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/C4illin/ConvertX",
+    "automated": true,
+    "selected_at": "2026-08-22T04:53:50+00:00",
+    "selection_reason": "proven · updated 2d ago · 42 contributors · 31 releases"
   }
 ]

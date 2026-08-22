@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-08-21T04:57:53+00:00",
+  "generated_at": "2026-08-22T04:53:50+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "rmux",
-      "name": "rmux",
-      "repo": "Helvesec/rmux",
-      "kind": "cli",
-      "pitch": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
+      "slug": "convertx",
+      "name": "ConvertX",
+      "repo": "C4illin/ConvertX",
+      "kind": "service",
+      "pitch": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
       "platforms": [
-        "Terminal"
+        "Self-hosted"
       ],
       "categories": [
-        "AI",
-        "Productivity",
-        "Terminal"
+        "Documents",
+        "Self-hosted"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/Helvesec/rmux",
+      "get_url": "https://github.com/C4illin/ConvertX",
       "automated": true,
-      "selected_at": "2026-08-21T04:57:53+00:00",
-      "selection_reason": "proven · updated 11d ago · 16 contributors · 16 releases"
+      "selected_at": "2026-08-22T04:53:50+00:00",
+      "selection_reason": "proven · updated 2d ago · 42 contributors · 31 releases"
     }
   ],
-  "automatic_total": 2
+  "automatic_total": 3
 }
