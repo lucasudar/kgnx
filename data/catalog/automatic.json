@@ -69,5 +69,29 @@
     "automated": true,
     "selected_at": "2026-08-22T04:53:50+00:00",
     "selection_reason": "proven · updated 2d ago · 42 contributors · 31 releases"
+  },
+  {
+    "slug": "design-extract",
+    "name": "design-extract",
+    "repo": "Manavarya09/design-extract",
+    "kind": "extension",
+    "pitch": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI…",
+    "platforms": [
+      "Chrome"
+    ],
+    "categories": [
+      "AI",
+      "Browser",
+      "Developer tools"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/Manavarya09/design-extract",
+    "automated": true,
+    "selected_at": "2026-08-23T04:55:40+00:00",
+    "selection_reason": "proven · updated 1d ago · 8 contributors · 32 releases"
   }
 ]

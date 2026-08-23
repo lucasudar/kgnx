@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-08-22T04:53:50+00:00",
+  "generated_at": "2026-08-23T04:55:40+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "convertx",
-      "name": "ConvertX",
-      "repo": "C4illin/ConvertX",
-      "kind": "service",
-      "pitch": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "slug": "design-extract",
+      "name": "design-extract",
+      "repo": "Manavarya09/design-extract",
+      "kind": "extension",
+      "pitch": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI…",
       "platforms": [
-        "Self-hosted"
+        "Chrome"
       ],
       "categories": [
-        "Documents",
-        "Self-hosted"
+        "AI",
+        "Browser",
+        "Developer tools"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/C4illin/ConvertX",
+      "get_url": "https://github.com/Manavarya09/design-extract",
       "automated": true,
-      "selected_at": "2026-08-22T04:53:50+00:00",
-      "selection_reason": "proven · updated 2d ago · 42 contributors · 31 releases"
+      "selected_at": "2026-08-23T04:55:40+00:00",
+      "selection_reason": "proven · updated 1d ago · 8 contributors · 32 releases"
     }
   ],
-  "automatic_total": 3
+  "automatic_total": 4
 }
