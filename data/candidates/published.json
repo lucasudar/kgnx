@@ -1,19 +1,17 @@
 {
-  "generated_at": "2026-08-23T04:55:40+00:00",
+  "generated_at": "2026-08-24T05:05:18+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "design-extract",
-      "name": "design-extract",
-      "repo": "Manavarya09/design-extract",
-      "kind": "extension",
-      "pitch": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI…",
+      "slug": "claude-code-history-viewer",
+      "name": "claude-code-history-viewer",
+      "repo": "jhlee0409/claude-code-history-viewer",
+      "kind": "app",
+      "pitch": "desktop app to browse and analyze your Claude Code conversation history",
       "platforms": [
-        "Chrome"
+        "Desktop"
       ],
       "categories": [
-        "AI",
-        "Browser",
         "Developer tools"
       ],
       "traits": [
@@ -21,11 +19,11 @@
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/Manavarya09/design-extract",
+      "get_url": "https://github.com/jhlee0409/claude-code-history-viewer",
       "automated": true,
-      "selected_at": "2026-08-23T04:55:40+00:00",
-      "selection_reason": "proven · updated 1d ago · 8 contributors · 32 releases"
+      "selected_at": "2026-08-24T05:05:18+00:00",
+      "selection_reason": "proven · updated 4d ago · 53 contributors · 41 releases"
     }
   ],
-  "automatic_total": 4
+  "automatic_total": 5
 }
