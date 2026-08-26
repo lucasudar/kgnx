@@ -137,5 +137,29 @@
     "automated": true,
     "selected_at": "2026-08-25T04:58:00+00:00",
     "selection_reason": "proven · updated 8d ago · 96 contributors · 86 releases"
+  },
+  {
+    "slug": "openwa",
+    "name": "OpenWA",
+    "repo": "rmyndharis/OpenWA",
+    "kind": "service",
+    "pitch": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "platforms": [
+      "Self-hosted"
+    ],
+    "categories": [
+      "Automation",
+      "Developer tools",
+      "Self-hosted"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/rmyndharis/OpenWA",
+    "automated": true,
+    "selected_at": "2026-08-26T04:59:50+00:00",
+    "selection_reason": "proven · updated 1d ago · 56 contributors · 113 releases"
   }
 ]

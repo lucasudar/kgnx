@@ -1,29 +1,31 @@
 {
-  "generated_at": "2026-08-25T04:58:00+00:00",
+  "generated_at": "2026-08-26T04:59:50+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "television",
-      "name": "television",
-      "repo": "alexpasmantier/television",
-      "kind": "cli",
-      "pitch": "A very fast, portable and hackable fuzzy finder.",
+      "slug": "openwa",
+      "name": "OpenWA",
+      "repo": "rmyndharis/OpenWA",
+      "kind": "service",
+      "pitch": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "platforms": [
-        "Terminal"
+        "Self-hosted"
       ],
       "categories": [
-        "Terminal"
+        "Automation",
+        "Developer tools",
+        "Self-hosted"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/alexpasmantier/television",
+      "get_url": "https://github.com/rmyndharis/OpenWA",
       "automated": true,
-      "selected_at": "2026-08-25T04:58:00+00:00",
-      "selection_reason": "proven · updated 8d ago · 96 contributors · 86 releases"
+      "selected_at": "2026-08-26T04:59:50+00:00",
+      "selection_reason": "proven · updated 1d ago · 56 contributors · 113 releases"
     }
   ],
-  "automatic_total": 6
+  "automatic_total": 7
 }
