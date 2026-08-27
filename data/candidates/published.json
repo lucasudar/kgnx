@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-08-26T04:59:50+00:00",
+  "generated_at": "2026-08-27T15:19:19+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "openwa",
-      "name": "OpenWA",
-      "repo": "rmyndharis/OpenWA",
-      "kind": "service",
-      "pitch": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "slug": "bilibilisponsorblock",
+      "name": "BilibiliSponsorBlock",
+      "repo": "hanydd/BilibiliSponsorBlock",
+      "kind": "extension",
+      "pitch": "一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock",
       "platforms": [
-        "Self-hosted"
+        "Chrome"
       ],
       "categories": [
-        "Automation",
-        "Developer tools",
-        "Self-hosted"
+        "Browser",
+        "Media"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/rmyndharis/OpenWA",
+      "get_url": "https://github.com/hanydd/BilibiliSponsorBlock",
       "automated": true,
-      "selected_at": "2026-08-26T04:59:50+00:00",
-      "selection_reason": "proven · updated 1d ago · 56 contributors · 113 releases"
+      "selected_at": "2026-08-27T15:19:19+00:00",
+      "selection_reason": "proven · updated 1d ago · 81 contributors · 77 releases"
     }
   ],
-  "automatic_total": 7
+  "automatic_total": 8
 }
