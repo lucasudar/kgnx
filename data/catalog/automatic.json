@@ -184,5 +184,28 @@
     "automated": true,
     "selected_at": "2026-08-27T15:19:19+00:00",
     "selection_reason": "proven · updated 1d ago · 81 contributors · 77 releases"
+  },
+  {
+    "slug": "ipfs-desktop",
+    "name": "ipfs-desktop",
+    "repo": "ipfs/ipfs-desktop",
+    "kind": "app",
+    "pitch": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.",
+    "platforms": [
+      "Windows",
+      "Linux"
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/ipfs/ipfs-desktop",
+    "automated": true,
+    "selected_at": "2026-08-28T16:42:48+00:00",
+    "selection_reason": "proven · updated 1d ago · 64 contributors · 110 releases"
   }
 ]

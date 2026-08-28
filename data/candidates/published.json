@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-27T15:19:19+00:00",
+  "generated_at": "2026-08-28T16:42:48+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "bilibilisponsorblock",
-      "name": "BilibiliSponsorBlock",
-      "repo": "hanydd/BilibiliSponsorBlock",
-      "kind": "extension",
-      "pitch": "一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock",
+      "slug": "ipfs-desktop",
+      "name": "ipfs-desktop",
+      "repo": "ipfs/ipfs-desktop",
+      "kind": "app",
+      "pitch": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.",
       "platforms": [
-        "Chrome"
+        "Windows",
+        "Linux"
       ],
       "categories": [
-        "Browser",
-        "Media"
+        "Productivity"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/hanydd/BilibiliSponsorBlock",
+      "get_url": "https://github.com/ipfs/ipfs-desktop",
       "automated": true,
-      "selected_at": "2026-08-27T15:19:19+00:00",
-      "selection_reason": "proven · updated 1d ago · 81 contributors · 77 releases"
+      "selected_at": "2026-08-28T16:42:48+00:00",
+      "selection_reason": "proven · updated 1d ago · 64 contributors · 110 releases"
     }
   ],
-  "automatic_total": 8
+  "automatic_total": 9
 }
