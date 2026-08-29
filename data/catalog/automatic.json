@@ -207,5 +207,29 @@
     "automated": true,
     "selected_at": "2026-08-28T16:42:48+00:00",
     "selection_reason": "proven · updated 1d ago · 64 contributors · 110 releases"
+  },
+  {
+    "slug": "oc",
+    "name": "oc",
+    "repo": "only-cli/oc",
+    "kind": "cli",
+    "pitch": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "AI",
+      "Automation",
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/only-cli/oc",
+    "automated": true,
+    "selected_at": "2026-08-29T11:10:05+00:00",
+    "selection_reason": "proven · updated 2d ago · 4 contributors · 7 releases"
   }
 ]

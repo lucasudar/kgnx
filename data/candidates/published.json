@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-08-28T16:42:48+00:00",
+  "generated_at": "2026-08-29T11:10:05+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "ipfs-desktop",
-      "name": "ipfs-desktop",
-      "repo": "ipfs/ipfs-desktop",
-      "kind": "app",
-      "pitch": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.",
+      "slug": "oc",
+      "name": "oc",
+      "repo": "only-cli/oc",
+      "kind": "cli",
+      "pitch": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
       "platforms": [
-        "Windows",
-        "Linux"
+        "Terminal"
       ],
       "categories": [
-        "Productivity"
+        "AI",
+        "Automation",
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/ipfs/ipfs-desktop",
+      "get_url": "https://github.com/only-cli/oc",
       "automated": true,
-      "selected_at": "2026-08-28T16:42:48+00:00",
-      "selection_reason": "proven · updated 1d ago · 64 contributors · 110 releases"
+      "selected_at": "2026-08-29T11:10:05+00:00",
+      "selection_reason": "proven · updated 2d ago · 4 contributors · 7 releases"
     }
   ],
-  "automatic_total": 9
+  "automatic_total": 10
 }
