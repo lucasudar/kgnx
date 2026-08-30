@@ -231,5 +231,29 @@
     "automated": true,
     "selected_at": "2026-08-29T11:10:05+00:00",
     "selection_reason": "proven · updated 2d ago · 4 contributors · 7 releases"
+  },
+  {
+    "slug": "analytics",
+    "name": "analytics",
+    "repo": "plausible/analytics",
+    "kind": "service",
+    "pitch": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+    "platforms": [
+      "Self-hosted"
+    ],
+    "categories": [
+      "Privacy",
+      "Self-hosted",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/plausible/analytics",
+    "automated": true,
+    "selected_at": "2026-08-30T09:59:49+00:00",
+    "selection_reason": "proven · updated 3d ago · 108 contributors · 44 releases"
   }
 ]

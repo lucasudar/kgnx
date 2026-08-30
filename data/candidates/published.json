@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-29T11:10:05+00:00",
+  "generated_at": "2026-08-30T09:59:49+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "oc",
-      "name": "oc",
-      "repo": "only-cli/oc",
-      "kind": "cli",
-      "pitch": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "slug": "analytics",
+      "name": "analytics",
+      "repo": "plausible/analytics",
+      "kind": "service",
+      "pitch": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "platforms": [
-        "Terminal"
+        "Self-hosted"
       ],
       "categories": [
-        "AI",
-        "Automation",
-        "Browser"
+        "Privacy",
+        "Self-hosted",
+        "Terminal"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/only-cli/oc",
+      "get_url": "https://github.com/plausible/analytics",
       "automated": true,
-      "selected_at": "2026-08-29T11:10:05+00:00",
-      "selection_reason": "proven · updated 2d ago · 4 contributors · 7 releases"
+      "selected_at": "2026-08-30T09:59:49+00:00",
+      "selection_reason": "proven · updated 3d ago · 108 contributors · 44 releases"
     }
   ],
-  "automatic_total": 10
+  "automatic_total": 11
 }
