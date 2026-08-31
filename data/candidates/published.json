@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-30T09:59:49+00:00",
+  "generated_at": "2026-08-31T10:56:13+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "analytics",
-      "name": "analytics",
-      "repo": "plausible/analytics",
-      "kind": "service",
-      "pitch": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "slug": "deepseek-pp",
+      "name": "deepseek-pp",
+      "repo": "zhu1090093659/deepseek-pp",
+      "kind": "extension",
+      "pitch": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
       "platforms": [
-        "Self-hosted"
+        "Chrome"
       ],
       "categories": [
-        "Privacy",
-        "Self-hosted",
-        "Terminal"
+        "AI",
+        "Automation",
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/plausible/analytics",
+      "get_url": "https://github.com/zhu1090093659/deepseek-pp",
       "automated": true,
-      "selected_at": "2026-08-30T09:59:49+00:00",
-      "selection_reason": "proven · updated 3d ago · 108 contributors · 44 releases"
+      "selected_at": "2026-08-31T10:56:13+00:00",
+      "selection_reason": "proven · updated 17d ago · 7 contributors · 54 releases"
     }
   ],
-  "automatic_total": 11
+  "automatic_total": 12
 }

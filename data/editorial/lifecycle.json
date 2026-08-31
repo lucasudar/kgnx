@@ -104,6 +104,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "deepseek-pp": {
+    "status": "active",
+    "published_at": "2026-08-31T10:56:13+00:00",
+    "active_until": "2026-09-30T10:56:13+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "delta": {
     "status": "active",
     "published_at": "2026-08-20T18:18:47+00:00",
