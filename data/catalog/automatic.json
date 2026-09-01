@@ -279,5 +279,28 @@
     "automated": true,
     "selected_at": "2026-08-31T10:56:13+00:00",
     "selection_reason": "proven · updated 17d ago · 7 contributors · 54 releases"
+  },
+  {
+    "slug": "hermes-cn-desktop",
+    "name": "Hermes-CN-Desktop",
+    "repo": "Eynzof/Hermes-CN-Desktop",
+    "kind": "app",
+    "pitch": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides.",
+    "platforms": [
+      "Windows"
+    ],
+    "categories": [
+      "AI",
+      "Productivity"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+    "automated": true,
+    "selected_at": "2026-09-01T09:27:46+00:00",
+    "selection_reason": "proven · updated 3d ago · 3 contributors · 55 releases"
   }
 ]
