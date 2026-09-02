@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-01T09:27:46+00:00",
+  "generated_at": "2026-09-02T08:50:14+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "hermes-cn-desktop",
-      "name": "Hermes-CN-Desktop",
-      "repo": "Eynzof/Hermes-CN-Desktop",
-      "kind": "app",
-      "pitch": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides.",
+      "slug": "gitlogue",
+      "name": "gitlogue",
+      "repo": "unhappychoice/gitlogue",
+      "kind": "cli",
+      "pitch": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
       "platforms": [
-        "Windows"
+        "Terminal"
       ],
       "categories": [
-        "AI",
-        "Productivity"
+        "Developer tools",
+        "Terminal"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "get_url": "https://github.com/unhappychoice/gitlogue",
       "automated": true,
-      "selected_at": "2026-09-01T09:27:46+00:00",
-      "selection_reason": "proven · updated 3d ago · 3 contributors · 55 releases"
+      "selected_at": "2026-09-02T08:50:14+00:00",
+      "selection_reason": "proven · updated 2d ago · 20 contributors · 15 releases"
     }
   ],
-  "automatic_total": 13
+  "automatic_total": 14
 }

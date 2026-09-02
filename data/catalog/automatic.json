@@ -302,5 +302,28 @@
     "automated": true,
     "selected_at": "2026-09-01T09:27:46+00:00",
     "selection_reason": "proven · updated 3d ago · 3 contributors · 55 releases"
+  },
+  {
+    "slug": "gitlogue",
+    "name": "gitlogue",
+    "repo": "unhappychoice/gitlogue",
+    "kind": "cli",
+    "pitch": "A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "Developer tools",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/unhappychoice/gitlogue",
+    "automated": true,
+    "selected_at": "2026-09-02T08:50:14+00:00",
+    "selection_reason": "proven · updated 2d ago · 20 contributors · 15 releases"
   }
 ]

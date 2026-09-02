@@ -160,6 +160,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "gitlogue": {
+    "status": "active",
+    "published_at": "2026-09-02T08:50:15+00:00",
+    "active_until": "2026-10-02T08:50:15+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "hammerspoon": {
     "status": "active",
     "published_at": "2026-08-20T18:18:47+00:00",
