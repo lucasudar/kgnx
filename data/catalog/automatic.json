@@ -325,5 +325,28 @@
     "automated": true,
     "selected_at": "2026-09-02T08:50:14+00:00",
     "selection_reason": "proven · updated 2d ago · 20 contributors · 15 releases"
+  },
+  {
+    "slug": "cachet",
+    "name": "cachet",
+    "repo": "cachethq/cachet",
+    "kind": "service",
+    "pitch": "🚦 Cachet, the open source, self-hosted status page system.",
+    "platforms": [
+      "Self-hosted"
+    ],
+    "categories": [
+      "Self-hosted",
+      "System"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/cachethq/cachet",
+    "automated": true,
+    "selected_at": "2026-09-03T08:59:05+00:00",
+    "selection_reason": "proven · updated 3d ago · 170 contributors · 56 releases"
   }
 ]
