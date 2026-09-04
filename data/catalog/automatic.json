@@ -348,5 +348,27 @@
     "automated": true,
     "selected_at": "2026-09-03T08:59:05+00:00",
     "selection_reason": "proven · updated 3d ago · 170 contributors · 56 releases"
+  },
+  {
+    "slug": "keepassxc-browser",
+    "name": "keepassxc-browser",
+    "repo": "keepassxreboot/keepassxc-browser",
+    "kind": "extension",
+    "pitch": "KeePassXC Browser Extension",
+    "platforms": [
+      "Browser"
+    ],
+    "categories": [
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/keepassxreboot/keepassxc-browser",
+    "automated": true,
+    "selected_at": "2026-09-04T08:54:13+00:00",
+    "selection_reason": "proven · updated 1d ago · 69 contributors · 98 releases"
   }
 ]

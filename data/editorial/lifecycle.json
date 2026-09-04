@@ -244,6 +244,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "keepassxc-browser": {
+    "status": "active",
+    "published_at": "2026-09-04T08:54:13+00:00",
+    "active_until": "2026-10-04T08:54:13+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "keepingyouawake": {
     "status": "active",
     "published_at": "2026-08-20T18:18:47+00:00",
