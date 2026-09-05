@@ -370,5 +370,27 @@
     "automated": true,
     "selected_at": "2026-09-04T08:54:13+00:00",
     "selection_reason": "proven · updated 1d ago · 69 contributors · 98 releases"
+  },
+  {
+    "slug": "better-shot",
+    "name": "better-shot",
+    "repo": "KartikLabhshetwar/better-shot",
+    "kind": "app",
+    "pitch": "One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "Media"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/KartikLabhshetwar/better-shot",
+    "automated": true,
+    "selected_at": "2026-09-05T08:24:13+00:00",
+    "selection_reason": "proven · updated 5d ago · 8 contributors · 27 releases"
   }
 ]
