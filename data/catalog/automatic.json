@@ -392,5 +392,28 @@
     "automated": true,
     "selected_at": "2026-09-05T08:24:13+00:00",
     "selection_reason": "proven · updated 5d ago · 8 contributors · 27 releases"
+  },
+  {
+    "slug": "vhs",
+    "name": "vhs",
+    "repo": "charmbracelet/vhs",
+    "kind": "cli",
+    "pitch": "Your CLI home video recorder 📼",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "Media",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/charmbracelet/vhs",
+    "automated": true,
+    "selected_at": "2026-09-06T08:42:55+00:00",
+    "selection_reason": "proven · updated 4d ago · 61 contributors · 15 releases"
   }
 ]

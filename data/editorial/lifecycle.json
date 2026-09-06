@@ -482,6 +482,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "vhs": {
+    "status": "active",
+    "published_at": "2026-09-06T08:42:55+00:00",
+    "active_until": "2026-10-06T08:42:55+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "voiceink": {
     "status": "active",
     "published_at": "2026-08-20T18:18:47+00:00",

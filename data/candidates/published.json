@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-09-05T08:24:13+00:00",
+  "generated_at": "2026-09-06T08:42:55+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "better-shot",
-      "name": "better-shot",
-      "repo": "KartikLabhshetwar/better-shot",
-      "kind": "app",
-      "pitch": "One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.",
+      "slug": "vhs",
+      "name": "vhs",
+      "repo": "charmbracelet/vhs",
+      "kind": "cli",
+      "pitch": "Your CLI home video recorder 📼",
       "platforms": [
-        "macOS"
+        "Terminal"
       ],
       "categories": [
-        "Media"
+        "Media",
+        "Terminal"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/KartikLabhshetwar/better-shot",
+      "get_url": "https://github.com/charmbracelet/vhs",
       "automated": true,
-      "selected_at": "2026-09-05T08:24:13+00:00",
-      "selection_reason": "proven · updated 5d ago · 8 contributors · 27 releases"
+      "selected_at": "2026-09-06T08:42:55+00:00",
+      "selection_reason": "proven · updated 4d ago · 61 contributors · 15 releases"
     }
   ],
-  "automatic_total": 17
+  "automatic_total": 18
 }
