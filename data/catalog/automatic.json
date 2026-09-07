@@ -415,5 +415,30 @@
     "automated": true,
     "selected_at": "2026-09-06T08:42:55+00:00",
     "selection_reason": "proven · updated 4d ago · 61 contributors · 15 releases"
+  },
+  {
+    "slug": "yubal",
+    "name": "yubal",
+    "repo": "guillevc/yubal",
+    "kind": "service",
+    "pitch": "Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.",
+    "platforms": [
+      "Self-hosted",
+      "Docker"
+    ],
+    "categories": [
+      "Backup",
+      "Developer tools",
+      "Media"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/guillevc/yubal",
+    "automated": true,
+    "selected_at": "2026-09-07T09:26:20+00:00",
+    "selection_reason": "proven · updated 4d ago · 7 contributors · 28 releases"
   }
 ]
