@@ -223,6 +223,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "ipfs-companion": {
+    "status": "active",
+    "published_at": "2026-09-08T08:55:22+00:00",
+    "active_until": "2026-10-08T08:55:22+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "ipfs-desktop": {
     "status": "active",
     "published_at": "2026-08-28T16:42:48+00:00",

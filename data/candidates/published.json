@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-09-07T09:26:20+00:00",
+  "generated_at": "2026-09-08T08:55:22+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "yubal",
-      "name": "yubal",
-      "repo": "guillevc/yubal",
-      "kind": "service",
-      "pitch": "Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.",
+      "slug": "ipfs-companion",
+      "name": "ipfs-companion",
+      "repo": "ipfs/ipfs-companion",
+      "kind": "extension",
+      "pitch": "Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node",
       "platforms": [
-        "Self-hosted",
-        "Docker"
+        "Firefox",
+        "Chrome"
       ],
       "categories": [
-        "Backup",
-        "Developer tools",
-        "Media"
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/guillevc/yubal",
+      "get_url": "https://github.com/ipfs/ipfs-companion",
       "automated": true,
-      "selected_at": "2026-09-07T09:26:20+00:00",
-      "selection_reason": "proven · updated 4d ago · 7 contributors · 28 releases"
+      "selected_at": "2026-09-08T08:55:22+00:00",
+      "selection_reason": "proven · updated 7d ago · 41 contributors · 181 releases"
     }
   ],
-  "automatic_total": 19
+  "automatic_total": 20
 }
