@@ -463,5 +463,27 @@
     "automated": true,
     "selected_at": "2026-09-08T08:55:22+00:00",
     "selection_reason": "proven · updated 7d ago · 41 contributors · 181 releases"
+  },
+  {
+    "slug": "kaset",
+    "name": "kaset",
+    "repo": "sozercan/kaset",
+    "kind": "app",
+    "pitch": "📼 The missing YouTube and YouTube Music macOS app",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "Media"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/sozercan/kaset",
+    "automated": true,
+    "selected_at": "2026-09-09T09:00:53+00:00",
+    "selection_reason": "proven · updated 2d ago · 44 contributors · 19 releases"
   }
 ]
