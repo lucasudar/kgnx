@@ -485,5 +485,28 @@
     "automated": true,
     "selected_at": "2026-09-09T09:00:53+00:00",
     "selection_reason": "proven · updated 2d ago · 44 contributors · 19 releases"
+  },
+  {
+    "slug": "mermaid-rs-renderer",
+    "name": "mermaid-rs-renderer",
+    "repo": "1jehuang/mermaid-rs-renderer",
+    "kind": "cli",
+    "pitch": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "Browser",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/1jehuang/mermaid-rs-renderer",
+    "automated": true,
+    "selected_at": "2026-09-10T09:00:01+00:00",
+    "selection_reason": "proven · updated 3d ago · 7 contributors · 9 releases"
   }
 ]
