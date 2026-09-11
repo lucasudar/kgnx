@@ -517,6 +517,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "wallabag": {
+    "status": "active",
+    "published_at": "2026-09-11T08:58:22+00:00",
+    "active_until": "2026-10-11T08:58:22+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "yazi": {
     "status": "active",
     "published_at": "2026-08-20T18:18:47+00:00",

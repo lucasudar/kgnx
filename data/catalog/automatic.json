@@ -508,5 +508,27 @@
     "automated": true,
     "selected_at": "2026-09-10T09:00:01+00:00",
     "selection_reason": "proven · updated 3d ago · 7 contributors · 9 releases"
+  },
+  {
+    "slug": "wallabag",
+    "name": "wallabag",
+    "repo": "wallabag/wallabag",
+    "kind": "service",
+    "pitch": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+    "platforms": [
+      "Self-hosted"
+    ],
+    "categories": [
+      "Self-hosted"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/wallabag/wallabag",
+    "automated": true,
+    "selected_at": "2026-09-11T08:58:22+00:00",
+    "selection_reason": "proven · updated 2d ago · 287 contributors · 86 releases"
   }
 ]
