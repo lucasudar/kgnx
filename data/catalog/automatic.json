@@ -530,5 +530,29 @@
     "automated": true,
     "selected_at": "2026-09-11T08:58:22+00:00",
     "selection_reason": "proven · updated 2d ago · 287 contributors · 86 releases"
+  },
+  {
+    "slug": "youtube",
+    "name": "youtube",
+    "repo": "code-charity/youtube",
+    "kind": "extension",
+    "pitch": "YouTube / Video Browser-Extension. [Top1 FOSS.] Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮ {playback|discovery|extra…",
+    "platforms": [
+      "Chrome"
+    ],
+    "categories": [
+      "Browser",
+      "Developer tools",
+      "Media"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/code-charity/youtube",
+    "automated": true,
+    "selected_at": "2026-09-12T08:41:24+00:00",
+    "selection_reason": "proven · updated 4d ago · 302 contributors · 80 releases"
   }
 ]

@@ -1,29 +1,31 @@
 {
-  "generated_at": "2026-09-11T08:58:22+00:00",
+  "generated_at": "2026-09-12T08:41:24+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "wallabag",
-      "name": "wallabag",
-      "repo": "wallabag/wallabag",
-      "kind": "service",
-      "pitch": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+      "slug": "youtube",
+      "name": "youtube",
+      "repo": "code-charity/youtube",
+      "kind": "extension",
+      "pitch": "YouTube / Video Browser-Extension. [Top1 FOSS.] Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧 ⋮ {playback|discovery|extra…",
       "platforms": [
-        "Self-hosted"
+        "Chrome"
       ],
       "categories": [
-        "Self-hosted"
+        "Browser",
+        "Developer tools",
+        "Media"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/wallabag/wallabag",
+      "get_url": "https://github.com/code-charity/youtube",
       "automated": true,
-      "selected_at": "2026-09-11T08:58:22+00:00",
-      "selection_reason": "proven · updated 2d ago · 287 contributors · 86 releases"
+      "selected_at": "2026-09-12T08:41:24+00:00",
+      "selection_reason": "proven · updated 4d ago · 302 contributors · 80 releases"
     }
   ],
-  "automatic_total": 23
+  "automatic_total": 24
 }
