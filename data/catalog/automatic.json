@@ -554,5 +554,29 @@
     "automated": true,
     "selected_at": "2026-09-12T08:41:24+00:00",
     "selection_reason": "proven · updated 4d ago · 302 contributors · 80 releases"
+  },
+  {
+    "slug": "clawwork",
+    "name": "ClawWork",
+    "repo": "clawwork-ai/ClawWork",
+    "kind": "app",
+    "pitch": "Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "AI",
+      "Developer tools",
+      "Productivity"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/clawwork-ai/ClawWork",
+    "automated": true,
+    "selected_at": "2026-09-13T09:36:15+00:00",
+    "selection_reason": "proven · updated 20d ago · 25 contributors · 27 releases"
   }
 ]

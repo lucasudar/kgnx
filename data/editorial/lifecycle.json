@@ -104,6 +104,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "clawwork": {
+    "status": "active",
+    "published_at": "2026-09-13T09:36:15+00:00",
+    "active_until": "2026-10-13T09:36:15+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "convertx": {
     "status": "active",
     "published_at": "2026-08-22T04:53:50+00:00",
