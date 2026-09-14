@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-09-13T09:36:15+00:00",
+  "generated_at": "2026-09-14T09:56:47+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "clawwork",
-      "name": "ClawWork",
-      "repo": "clawwork-ai/ClawWork",
-      "kind": "app",
-      "pitch": "Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.",
+      "slug": "mcp-local-rag",
+      "name": "mcp-local-rag",
+      "repo": "shinpr/mcp-local-rag",
+      "kind": "cli",
+      "pitch": "Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.",
       "platforms": [
-        "macOS"
+        "Terminal"
       ],
       "categories": [
         "AI",
         "Developer tools",
-        "Productivity"
+        "Privacy"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/clawwork-ai/ClawWork",
+      "get_url": "https://github.com/shinpr/mcp-local-rag",
       "automated": true,
-      "selected_at": "2026-09-13T09:36:15+00:00",
-      "selection_reason": "proven · updated 20d ago · 25 contributors · 27 releases"
+      "selected_at": "2026-09-14T09:56:47+00:00",
+      "selection_reason": "proven · updated 3d ago · 6 contributors · 54 releases"
     }
   ],
-  "automatic_total": 25
+  "automatic_total": 26
 }
