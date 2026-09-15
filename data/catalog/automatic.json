@@ -602,5 +602,28 @@
     "automated": true,
     "selected_at": "2026-09-14T09:56:47+00:00",
     "selection_reason": "proven · updated 3d ago · 6 contributors · 54 releases"
+  },
+  {
+    "slug": "tugtainer",
+    "name": "tugtainer",
+    "repo": "Quenary/tugtainer",
+    "kind": "service",
+    "pitch": "An application for automated Docker container updates with a web UI",
+    "platforms": [
+      "Self-hosted",
+      "Docker"
+    ],
+    "categories": [
+      "System"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/Quenary/tugtainer",
+    "automated": true,
+    "selected_at": "2026-09-15T09:29:30+00:00",
+    "selection_reason": "proven · updated 3d ago · 17 contributors · 102 releases"
   }
 ]

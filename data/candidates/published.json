@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-09-14T09:56:47+00:00",
+  "generated_at": "2026-09-15T09:29:30+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "mcp-local-rag",
-      "name": "mcp-local-rag",
-      "repo": "shinpr/mcp-local-rag",
-      "kind": "cli",
-      "pitch": "Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.",
+      "slug": "tugtainer",
+      "name": "tugtainer",
+      "repo": "Quenary/tugtainer",
+      "kind": "service",
+      "pitch": "An application for automated Docker container updates with a web UI",
       "platforms": [
-        "Terminal"
+        "Self-hosted",
+        "Docker"
       ],
       "categories": [
-        "AI",
-        "Developer tools",
-        "Privacy"
+        "System"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/shinpr/mcp-local-rag",
+      "get_url": "https://github.com/Quenary/tugtainer",
       "automated": true,
-      "selected_at": "2026-09-14T09:56:47+00:00",
-      "selection_reason": "proven · updated 3d ago · 6 contributors · 54 releases"
+      "selected_at": "2026-09-15T09:29:30+00:00",
+      "selection_reason": "proven · updated 3d ago · 17 contributors · 102 releases"
     }
   ],
-  "automatic_total": 26
+  "automatic_total": 27
 }
