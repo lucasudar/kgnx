@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-09-15T09:29:30+00:00",
+  "generated_at": "2026-09-16T09:21:05+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "tugtainer",
-      "name": "tugtainer",
-      "repo": "Quenary/tugtainer",
-      "kind": "service",
-      "pitch": "An application for automated Docker container updates with a web UI",
+      "slug": "lightning-browser-extension",
+      "name": "lightning-browser-extension",
+      "repo": "getAlby/lightning-browser-extension",
+      "kind": "extension",
+      "pitch": "The Bitcoin Lightning Browser Extension that brings deep Lightning & Nostr integration to the web. Wallet interface to multiple lightning nodes and key signer for Nostr, Liquid and onchain…",
       "platforms": [
-        "Self-hosted",
-        "Docker"
+        "Firefox",
+        "Chrome"
       ],
       "categories": [
-        "System"
+        "Browser",
+        "Networking"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/Quenary/tugtainer",
+      "get_url": "https://github.com/getAlby/lightning-browser-extension",
       "automated": true,
-      "selected_at": "2026-09-15T09:29:30+00:00",
-      "selection_reason": "proven · updated 3d ago · 17 contributors · 102 releases"
+      "selected_at": "2026-09-16T09:21:05+00:00",
+      "selection_reason": "proven · updated 4d ago · 118 contributors · 73 releases"
     }
   ],
-  "automatic_total": 27
+  "automatic_total": 28
 }
