@@ -1,31 +1,32 @@
 {
-  "generated_at": "2026-09-16T09:21:05+00:00",
+  "generated_at": "2026-09-17T09:30:38+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "lightning-browser-extension",
-      "name": "lightning-browser-extension",
-      "repo": "getAlby/lightning-browser-extension",
-      "kind": "extension",
-      "pitch": "The Bitcoin Lightning Browser Extension that brings deep Lightning & Nostr integration to the web. Wallet interface to multiple lightning nodes and key signer for Nostr, Liquid and onchain…",
+      "slug": "open-cowork",
+      "name": "open-cowork",
+      "repo": "OpenCoworkAI/open-cowork",
+      "kind": "app",
+      "pitch": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.",
       "platforms": [
-        "Firefox",
-        "Chrome"
+        "macOS",
+        "Windows"
       ],
       "categories": [
-        "Browser",
-        "Networking"
+        "AI",
+        "Developer tools",
+        "Productivity"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/getAlby/lightning-browser-extension",
+      "get_url": "https://github.com/OpenCoworkAI/open-cowork",
       "automated": true,
-      "selected_at": "2026-09-16T09:21:05+00:00",
-      "selection_reason": "proven · updated 4d ago · 118 contributors · 73 releases"
+      "selected_at": "2026-09-17T09:30:38+00:00",
+      "selection_reason": "proven · updated 2d ago · 18 contributors · 13 releases"
     }
   ],
-  "automatic_total": 28
+  "automatic_total": 29
 }

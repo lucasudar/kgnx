@@ -649,5 +649,30 @@
     "automated": true,
     "selected_at": "2026-09-16T09:21:05+00:00",
     "selection_reason": "proven · updated 4d ago · 118 contributors · 73 releases"
+  },
+  {
+    "slug": "open-cowork",
+    "name": "open-cowork",
+    "repo": "OpenCoworkAI/open-cowork",
+    "kind": "app",
+    "pitch": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.",
+    "platforms": [
+      "macOS",
+      "Windows"
+    ],
+    "categories": [
+      "AI",
+      "Developer tools",
+      "Productivity"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/OpenCoworkAI/open-cowork",
+    "automated": true,
+    "selected_at": "2026-09-17T09:30:38+00:00",
+    "selection_reason": "proven · updated 2d ago · 18 contributors · 13 releases"
   }
 ]
