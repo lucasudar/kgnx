@@ -188,6 +188,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "halp": {
+    "status": "active",
+    "published_at": "2026-09-18T09:03:42+00:00",
+    "active_until": "2026-10-18T09:03:42+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "hammerspoon": {
     "status": "active",
     "published_at": "2026-08-20T18:18:47+00:00",

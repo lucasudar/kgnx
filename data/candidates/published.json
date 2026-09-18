@@ -1,32 +1,29 @@
 {
-  "generated_at": "2026-09-17T09:30:38+00:00",
+  "generated_at": "2026-09-18T09:03:42+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "open-cowork",
-      "name": "open-cowork",
-      "repo": "OpenCoworkAI/open-cowork",
-      "kind": "app",
-      "pitch": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.",
+      "slug": "halp",
+      "name": "halp",
+      "repo": "orhun/halp",
+      "kind": "cli",
+      "pitch": "A CLI tool to get help with CLI tools 🐙",
       "platforms": [
-        "macOS",
-        "Windows"
+        "Terminal"
       ],
       "categories": [
-        "AI",
-        "Developer tools",
-        "Productivity"
+        "Terminal"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/OpenCoworkAI/open-cowork",
+      "get_url": "https://github.com/orhun/halp",
       "automated": true,
-      "selected_at": "2026-09-17T09:30:38+00:00",
-      "selection_reason": "proven · updated 2d ago · 18 contributors · 13 releases"
+      "selected_at": "2026-09-18T09:03:42+00:00",
+      "selection_reason": "proven · updated 17d ago · 11 contributors · 10 releases"
     }
   ],
-  "automatic_total": 29
+  "automatic_total": 30
 }

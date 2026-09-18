@@ -674,5 +674,27 @@
     "automated": true,
     "selected_at": "2026-09-17T09:30:38+00:00",
     "selection_reason": "proven · updated 2d ago · 18 contributors · 13 releases"
+  },
+  {
+    "slug": "halp",
+    "name": "halp",
+    "repo": "orhun/halp",
+    "kind": "cli",
+    "pitch": "A CLI tool to get help with CLI tools 🐙",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/orhun/halp",
+    "automated": true,
+    "selected_at": "2026-09-18T09:03:42+00:00",
+    "selection_reason": "proven · updated 17d ago · 11 contributors · 10 releases"
   }
 ]
