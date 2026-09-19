@@ -1,29 +1,32 @@
 {
-  "generated_at": "2026-09-18T09:03:42+00:00",
+  "generated_at": "2026-09-19T08:51:24+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "halp",
-      "name": "halp",
-      "repo": "orhun/halp",
-      "kind": "cli",
-      "pitch": "A CLI tool to get help with CLI tools 🐙",
+      "slug": "pulse",
+      "name": "Pulse",
+      "repo": "rcourtman/Pulse",
+      "kind": "service",
+      "pitch": "Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes",
       "platforms": [
-        "Terminal"
+        "Self-hosted",
+        "Docker"
       ],
       "categories": [
-        "Terminal"
+        "AI",
+        "Self-hosted",
+        "System"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/orhun/halp",
+      "get_url": "https://github.com/rcourtman/Pulse",
       "automated": true,
-      "selected_at": "2026-09-18T09:03:42+00:00",
-      "selection_reason": "proven · updated 17d ago · 11 contributors · 10 releases"
+      "selected_at": "2026-09-19T08:51:24+00:00",
+      "selection_reason": "proven · updated 1d ago · 12 contributors · 508 releases"
     }
   ],
-  "automatic_total": 30
+  "automatic_total": 31
 }
