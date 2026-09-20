@@ -1,23 +1,23 @@
 {
   "adguardhome": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "aerospace": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "alt-tab": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "analytics": {
@@ -28,31 +28,31 @@
     "generation": 1
   },
   "appflowy": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "atuin": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "audiobookshelf": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "bat": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "better-shot": {
@@ -70,17 +70,17 @@
     "generation": 1
   },
   "bruno": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "btop": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "cachet": {
@@ -91,10 +91,10 @@
     "generation": 1
   },
   "cc-haha": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:34:29+00:00",
     "active_until": "2026-09-19T18:34:29+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "claude-code-history-viewer": {
@@ -119,10 +119,10 @@
     "generation": 1
   },
   "darkreader": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "deepseek-pp": {
@@ -133,10 +133,10 @@
     "generation": 1
   },
   "delta": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "design-extract": {
@@ -147,38 +147,38 @@
     "generation": 1
   },
   "espanso": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "eza": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "fd": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "fzf": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "ghostty": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "gitlogue": {
@@ -196,17 +196,17 @@
     "generation": 1
   },
   "hammerspoon": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "helix": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "hermes-cn-desktop": {
@@ -217,24 +217,24 @@
     "generation": 1
   },
   "ice": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "iina": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "immich": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "ipfs-companion": {
@@ -252,24 +252,24 @@
     "generation": 1
   },
   "jellyfin": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "jiggler": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "jq": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "kaset": {
@@ -287,24 +287,24 @@
     "generation": 1
   },
   "keepingyouawake": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "lazydocker": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "lazygit": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "lightning-browser-extension": {
@@ -315,24 +315,24 @@
     "generation": 1
   },
   "linearmouse": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "localsend": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "maccy": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "mcp-local-rag": {
@@ -350,31 +350,31 @@
     "generation": 1
   },
   "monitorcontrol": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "navidrome": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "notesnook": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "nutola": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "oc": {
@@ -385,17 +385,17 @@
     "generation": 1
   },
   "ollama": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "onlyswitch": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "open-cowork": {
@@ -413,16 +413,23 @@
     "generation": 1
   },
   "paperless-ngx": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "pearcleaner": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
+    "archived_at": "2026-09-20T09:20:03+00:00",
+    "generation": 1
+  },
+  "privacybadger": {
+    "status": "active",
+    "published_at": "2026-09-20T09:20:03+00:00",
+    "active_until": "2026-10-20T09:20:03+00:00",
     "archived_at": null,
     "generation": 1
   },
@@ -434,87 +441,87 @@
     "generation": 1
   },
   "rclone": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "rectangle": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "restic": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "ripgrep": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "rmux": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-21T04:57:53+00:00",
     "active_until": "2026-09-20T04:57:53+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "searxng": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "sponsorblock": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "starship": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "stats": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "stirling-pdf": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "stylus": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "syncthing": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "television": {
@@ -532,24 +539,24 @@
     "generation": 1
   },
   "ublock-origin": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "uptime-kuma": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "vaultwarden": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "vhs": {
@@ -560,10 +567,10 @@
     "generation": 1
   },
   "voiceink": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "wallabag": {
@@ -574,10 +581,10 @@
     "generation": 1
   },
   "yazi": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "youtube": {
@@ -588,10 +595,10 @@
     "generation": 1
   },
   "yt-dlp": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "yubal": {
@@ -602,24 +609,24 @@
     "generation": 1
   },
   "zed": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "zellij": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
   "zoxide": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   }
 }

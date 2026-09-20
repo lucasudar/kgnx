@@ -721,5 +721,29 @@
     "automated": true,
     "selected_at": "2026-09-19T08:51:24+00:00",
     "selection_reason": "proven · updated 1d ago · 12 contributors · 508 releases"
+  },
+  {
+    "slug": "privacybadger",
+    "name": "privacybadger",
+    "repo": "EFForg/privacybadger",
+    "kind": "extension",
+    "pitch": "Privacy Badger is a browser extension that automatically learns to block hidden trackers",
+    "platforms": [
+      "Firefox",
+      "Chrome"
+    ],
+    "categories": [
+      "Browser",
+      "Privacy"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/EFForg/privacybadger",
+    "automated": true,
+    "selected_at": "2026-09-20T09:20:03+00:00",
+    "selection_reason": "proven · updated 1d ago · 160 contributors · 80 releases"
   }
 ]
