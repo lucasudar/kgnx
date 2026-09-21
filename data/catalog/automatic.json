@@ -745,5 +745,27 @@
     "automated": true,
     "selected_at": "2026-09-20T09:20:03+00:00",
     "selection_reason": "proven · updated 1d ago · 160 contributors · 80 releases"
+  },
+  {
+    "slug": "applite",
+    "name": "Applite",
+    "repo": "milanvarady/Applite",
+    "kind": "app",
+    "pitch": "A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/milanvarady/Applite",
+    "automated": true,
+    "selected_at": "2026-09-21T10:00:34+00:00",
+    "selection_reason": "proven · updated 8d ago · 22 contributors · 12 releases"
   }
 ]
