@@ -767,5 +767,27 @@
     "automated": true,
     "selected_at": "2026-09-21T10:00:34+00:00",
     "selection_reason": "proven · updated 8d ago · 22 contributors · 12 releases"
+  },
+  {
+    "slug": "taze",
+    "name": "taze",
+    "repo": "antfu-collective/taze",
+    "kind": "cli",
+    "pitch": "🥦 A modern cli tool that keeps your deps fresh",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/antfu-collective/taze",
+    "automated": true,
+    "selected_at": "2026-09-22T09:21:40+00:00",
+    "selection_reason": "proven · updated 1d ago · 81 contributors · 97 releases"
   }
 ]

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-21T10:00:34+00:00",
+  "generated_at": "2026-09-22T09:21:40+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "applite",
-      "name": "Applite",
-      "repo": "milanvarady/Applite",
-      "kind": "app",
-      "pitch": "A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask",
+      "slug": "taze",
+      "name": "taze",
+      "repo": "antfu-collective/taze",
+      "kind": "cli",
+      "pitch": "🥦 A modern cli tool that keeps your deps fresh",
       "platforms": [
-        "macOS"
+        "Terminal"
       ],
       "categories": [
         "Terminal"
@@ -19,11 +19,11 @@
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/milanvarady/Applite",
+      "get_url": "https://github.com/antfu-collective/taze",
       "automated": true,
-      "selected_at": "2026-09-21T10:00:34+00:00",
-      "selection_reason": "proven · updated 8d ago · 22 contributors · 12 releases"
+      "selected_at": "2026-09-22T09:21:40+00:00",
+      "selection_reason": "proven · updated 1d ago · 81 contributors · 97 releases"
     }
   ],
-  "automatic_total": 33
+  "automatic_total": 34
 }
