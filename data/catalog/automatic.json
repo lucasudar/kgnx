@@ -789,5 +789,29 @@
     "automated": true,
     "selected_at": "2026-09-22T09:21:40+00:00",
     "selection_reason": "proven · updated 1d ago · 81 contributors · 97 releases"
+  },
+  {
+    "slug": "bitcart",
+    "name": "bitcart",
+    "repo": "bitcart/bitcart",
+    "kind": "service",
+    "pitch": "Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more",
+    "platforms": [
+      "Self-hosted",
+      "Docker"
+    ],
+    "categories": [
+      "Self-hosted",
+      "System"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/bitcart/bitcart",
+    "automated": true,
+    "selected_at": "2026-09-23T09:22:03+00:00",
+    "selection_reason": "proven · updated 2d ago · 19 contributors · 86 releases"
   }
 ]
