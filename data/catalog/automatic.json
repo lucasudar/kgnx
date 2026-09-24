@@ -813,5 +813,27 @@
     "automated": true,
     "selected_at": "2026-09-23T09:22:03+00:00",
     "selection_reason": "proven · updated 2d ago · 19 contributors · 86 releases"
+  },
+  {
+    "slug": "scriptcat",
+    "name": "scriptcat",
+    "repo": "scriptscat/scriptcat",
+    "kind": "extension",
+    "pitch": "ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展",
+    "platforms": [
+      "Chrome"
+    ],
+    "categories": [
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/scriptscat/scriptcat",
+    "automated": true,
+    "selected_at": "2026-09-24T09:21:50+00:00",
+    "selection_reason": "proven · updated 1d ago · 31 contributors · 138 releases"
   }
 ]
