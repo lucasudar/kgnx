@@ -835,5 +835,27 @@
     "automated": true,
     "selected_at": "2026-09-24T09:21:50+00:00",
     "selection_reason": "proven · updated 1d ago · 31 contributors · 138 releases"
+  },
+  {
+    "slug": "omniwm",
+    "name": "OmniWM",
+    "repo": "OmniNull/OmniWM",
+    "kind": "app",
+    "pitch": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/OmniNull/OmniWM",
+    "automated": true,
+    "selected_at": "2026-09-25T09:40:07+00:00",
+    "selection_reason": "proven · updated 1d ago · 32 contributors · 86 releases"
   }
 ]
