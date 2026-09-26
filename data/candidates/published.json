@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-09-25T09:40:07+00:00",
+  "generated_at": "2026-09-26T09:24:12+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "omniwm",
-      "name": "OmniWM",
-      "repo": "OmniNull/OmniWM",
-      "kind": "app",
-      "pitch": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "slug": "aws-extend-switch-roles",
+      "name": "aws-extend-switch-roles",
+      "repo": "tilfinltd/aws-extend-switch-roles",
+      "kind": "extension",
+      "pitch": "Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on",
       "platforms": [
-        "macOS"
+        "Firefox",
+        "Chrome"
       ],
       "categories": [
-        "Productivity"
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/OmniNull/OmniWM",
+      "get_url": "https://github.com/tilfinltd/aws-extend-switch-roles",
       "automated": true,
-      "selected_at": "2026-09-25T09:40:07+00:00",
-      "selection_reason": "proven · updated 1d ago · 32 contributors · 86 releases"
+      "selected_at": "2026-09-26T09:24:12+00:00",
+      "selection_reason": "proven · updated 13d ago · 23 contributors · 47 releases"
     }
   ],
-  "automatic_total": 37
+  "automatic_total": 38
 }

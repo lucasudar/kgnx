@@ -55,6 +55,13 @@
     "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
+  "aws-extend-switch-roles": {
+    "status": "active",
+    "published_at": "2026-09-26T09:24:12+00:00",
+    "active_until": "2026-10-26T09:24:12+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "bat": {
     "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
