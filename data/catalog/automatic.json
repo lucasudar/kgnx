@@ -880,5 +880,29 @@
     "automated": true,
     "selected_at": "2026-09-26T09:24:12+00:00",
     "selection_reason": "proven · updated 13d ago · 23 contributors · 47 releases"
+  },
+  {
+    "slug": "octo-web",
+    "name": "octo-web",
+    "repo": "Mininglamp-OSS/octo-web",
+    "kind": "app",
+    "pitch": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
+    "platforms": [
+      "Desktop"
+    ],
+    "categories": [
+      "AI",
+      "Browser",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/Mininglamp-OSS/octo-web",
+    "automated": true,
+    "selected_at": "2026-09-27T10:03:57+00:00",
+    "selection_reason": "proven · updated 1d ago · 32 contributors · 28 releases"
   }
 ]
