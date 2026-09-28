@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-09-27T10:03:57+00:00",
+  "generated_at": "2026-09-28T11:00:14+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "octo-web",
-      "name": "octo-web",
-      "repo": "Mininglamp-OSS/octo-web",
-      "kind": "app",
-      "pitch": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
+      "slug": "time-tracker-4-browser",
+      "name": "time-tracker-4-browser",
+      "repo": "sheepzh/time-tracker-4-browser",
+      "kind": "extension",
+      "pitch": "A browser extension that helps you track time, analyze your habits and block addictive sites",
       "platforms": [
-        "Desktop"
+        "Firefox",
+        "Chrome"
       ],
       "categories": [
-        "AI",
-        "Browser",
-        "Terminal"
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/Mininglamp-OSS/octo-web",
+      "get_url": "https://github.com/sheepzh/time-tracker-4-browser",
       "automated": true,
-      "selected_at": "2026-09-27T10:03:57+00:00",
-      "selection_reason": "proven · updated 1d ago · 32 contributors · 28 releases"
+      "selected_at": "2026-09-28T11:00:14+00:00",
+      "selection_reason": "proven · updated 1d ago · 15 contributors · 32 releases"
     }
   ],
-  "automatic_total": 39
+  "automatic_total": 40
 }

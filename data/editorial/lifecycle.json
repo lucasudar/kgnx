@@ -266,10 +266,10 @@
     "generation": 1
   },
   "ipfs-desktop": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-08-28T16:42:48+00:00",
     "active_until": "2026-09-27T16:42:48+00:00",
-    "archived_at": null,
+    "archived_at": "2026-09-28T11:00:14+00:00",
     "generation": 1
   },
   "jellyfin": {
@@ -578,6 +578,13 @@
     "published_at": "2026-08-25T04:58:00+00:00",
     "active_until": "2026-09-24T04:58:00+00:00",
     "archived_at": "2026-09-24T09:21:50+00:00",
+    "generation": 1
+  },
+  "time-tracker-4-browser": {
+    "status": "active",
+    "published_at": "2026-09-28T11:00:14+00:00",
+    "active_until": "2026-10-28T11:00:14+00:00",
+    "archived_at": null,
     "generation": 1
   },
   "tugtainer": {
