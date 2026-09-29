@@ -1,30 +1,29 @@
 {
-  "generated_at": "2026-09-28T11:00:14+00:00",
+  "generated_at": "2026-09-29T10:45:13+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "time-tracker-4-browser",
-      "name": "time-tracker-4-browser",
-      "repo": "sheepzh/time-tracker-4-browser",
-      "kind": "extension",
-      "pitch": "A browser extension that helps you track time, analyze your habits and block addictive sites",
+      "slug": "sanebar",
+      "name": "SaneBar",
+      "repo": "sane-apps/SaneBar",
+      "kind": "app",
+      "pitch": "The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.",
       "platforms": [
-        "Firefox",
-        "Chrome"
+        "macOS"
       ],
       "categories": [
-        "Browser"
+        "Privacy"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/sheepzh/time-tracker-4-browser",
+      "get_url": "https://github.com/sane-apps/SaneBar",
       "automated": true,
-      "selected_at": "2026-09-28T11:00:14+00:00",
-      "selection_reason": "proven · updated 1d ago · 15 contributors · 32 releases"
+      "selected_at": "2026-09-29T10:45:13+00:00",
+      "selection_reason": "proven · updated 8d ago · 4 contributors · 81 releases"
     }
   ],
-  "automatic_total": 40
+  "automatic_total": 41
 }

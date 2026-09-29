@@ -927,5 +927,27 @@
     "automated": true,
     "selected_at": "2026-09-28T11:00:14+00:00",
     "selection_reason": "proven · updated 1d ago · 15 contributors · 32 releases"
+  },
+  {
+    "slug": "sanebar",
+    "name": "SaneBar",
+    "repo": "sane-apps/SaneBar",
+    "kind": "app",
+    "pitch": "The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "Privacy"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/sane-apps/SaneBar",
+    "automated": true,
+    "selected_at": "2026-09-29T10:45:13+00:00",
+    "selection_reason": "proven · updated 8d ago · 4 contributors · 81 releases"
   }
 ]
