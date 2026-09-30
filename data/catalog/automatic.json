@@ -949,5 +949,27 @@
     "automated": true,
     "selected_at": "2026-09-29T10:45:13+00:00",
     "selection_reason": "proven · updated 8d ago · 4 contributors · 81 releases"
+  },
+  {
+    "slug": "coteditor",
+    "name": "CotEditor",
+    "repo": "coteditor/CotEditor",
+    "kind": "app",
+    "pitch": "Lightweight Plain Text Editor for macOS",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "Productivity"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/coteditor/CotEditor",
+    "automated": true,
+    "selected_at": "2026-09-30T10:33:09+00:00",
+    "selection_reason": "proven · updated 1d ago · 51 contributors · 238 releases"
   }
 ]

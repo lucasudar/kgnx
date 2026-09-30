@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-29T10:45:13+00:00",
+  "generated_at": "2026-09-30T10:33:09+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "sanebar",
-      "name": "SaneBar",
-      "repo": "sane-apps/SaneBar",
+      "slug": "coteditor",
+      "name": "CotEditor",
+      "repo": "coteditor/CotEditor",
       "kind": "app",
-      "pitch": "The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.",
+      "pitch": "Lightweight Plain Text Editor for macOS",
       "platforms": [
         "macOS"
       ],
       "categories": [
-        "Privacy"
+        "Productivity"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/sane-apps/SaneBar",
+      "get_url": "https://github.com/coteditor/CotEditor",
       "automated": true,
-      "selected_at": "2026-09-29T10:45:13+00:00",
-      "selection_reason": "proven · updated 8d ago · 4 contributors · 81 releases"
+      "selected_at": "2026-09-30T10:33:09+00:00",
+      "selection_reason": "proven · updated 1d ago · 51 contributors · 238 releases"
     }
   ],
-  "automatic_total": 41
+  "automatic_total": 42
 }
