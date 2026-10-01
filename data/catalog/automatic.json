@@ -971,5 +971,29 @@
     "automated": true,
     "selected_at": "2026-09-30T10:33:09+00:00",
     "selection_reason": "proven · updated 1d ago · 51 contributors · 238 releases"
+  },
+  {
+    "slug": "better-deepseek",
+    "name": "better-deepseek",
+    "repo": "EdgeTypE/better-deepseek",
+    "kind": "extension",
+    "pitch": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser…",
+    "platforms": [
+      "Chrome"
+    ],
+    "categories": [
+      "AI",
+      "Automation",
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/EdgeTypE/better-deepseek",
+    "automated": true,
+    "selected_at": "2026-10-01T11:01:15+00:00",
+    "selection_reason": "proven · updated 1d ago · 9 contributors · 15 releases"
   }
 ]
