@@ -139,6 +139,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "competitive-companion": {
+    "status": "active",
+    "published_at": "2026-10-02T10:34:04+00:00",
+    "active_until": "2026-11-01T10:34:04+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "convertx": {
     "status": "archived",
     "published_at": "2026-08-22T04:53:50+00:00",
@@ -217,10 +224,10 @@
     "generation": 1
   },
   "gitlogue": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-02T08:50:15+00:00",
     "active_until": "2026-10-02T08:50:15+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-02T10:34:04+00:00",
     "generation": 1
   },
   "halp": {

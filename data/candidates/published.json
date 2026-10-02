@@ -1,19 +1,17 @@
 {
-  "generated_at": "2026-10-01T11:01:15+00:00",
+  "generated_at": "2026-10-02T10:34:04+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "better-deepseek",
-      "name": "better-deepseek",
-      "repo": "EdgeTypE/better-deepseek",
+      "slug": "competitive-companion",
+      "name": "competitive-companion",
+      "repo": "jmerle/competitive-companion",
       "kind": "extension",
-      "pitch": "A powerful browser extension that supercharges DeepSeek Chat with custom tooling, persistent memory, and seamless project scaffolding. Generate and download files, run Python in-browser…",
+      "pitch": "Browser extension which parses competitive programming problems",
       "platforms": [
-        "Chrome"
+        "Browser"
       ],
       "categories": [
-        "AI",
-        "Automation",
         "Browser"
       ],
       "traits": [
@@ -21,11 +19,11 @@
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/EdgeTypE/better-deepseek",
+      "get_url": "https://github.com/jmerle/competitive-companion",
       "automated": true,
-      "selected_at": "2026-10-01T11:01:15+00:00",
-      "selection_reason": "proven · updated 1d ago · 9 contributors · 15 releases"
+      "selected_at": "2026-10-02T10:34:04+00:00",
+      "selection_reason": "proven · updated 1d ago · 58 contributors · 154 releases"
     }
   ],
-  "automatic_total": 43
+  "automatic_total": 44
 }

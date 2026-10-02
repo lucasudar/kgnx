@@ -995,5 +995,27 @@
     "automated": true,
     "selected_at": "2026-10-01T11:01:15+00:00",
     "selection_reason": "proven · updated 1d ago · 9 contributors · 15 releases"
+  },
+  {
+    "slug": "competitive-companion",
+    "name": "competitive-companion",
+    "repo": "jmerle/competitive-companion",
+    "kind": "extension",
+    "pitch": "Browser extension which parses competitive programming problems",
+    "platforms": [
+      "Browser"
+    ],
+    "categories": [
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/jmerle/competitive-companion",
+    "automated": true,
+    "selected_at": "2026-10-02T10:34:04+00:00",
+    "selection_reason": "proven · updated 1d ago · 58 contributors · 154 releases"
   }
 ]
