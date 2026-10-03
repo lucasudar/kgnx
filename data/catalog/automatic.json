@@ -1017,5 +1017,27 @@
     "automated": true,
     "selected_at": "2026-10-02T10:34:04+00:00",
     "selection_reason": "proven · updated 1d ago · 58 contributors · 154 releases"
+  },
+  {
+    "slug": "telegram-drive",
+    "name": "Telegram-Drive",
+    "repo": "caamer20/Telegram-Drive",
+    "kind": "app",
+    "pitch": "Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.",
+    "platforms": [
+      "Desktop"
+    ],
+    "categories": [
+      "Developer tools"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/caamer20/Telegram-Drive",
+    "automated": true,
+    "selected_at": "2026-10-03T09:55:17+00:00",
+    "selection_reason": "proven · updated 3d ago · 3 contributors · 84 releases"
   }
 ]

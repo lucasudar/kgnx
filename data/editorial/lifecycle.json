@@ -112,10 +112,10 @@
     "generation": 1
   },
   "cachet": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-03T08:59:05+00:00",
     "active_until": "2026-10-03T08:59:05+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-03T09:55:17+00:00",
     "generation": 1
   },
   "cc-haha": {
@@ -598,6 +598,13 @@
     "status": "active",
     "published_at": "2026-09-22T09:21:40+00:00",
     "active_until": "2026-10-22T09:21:40+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
+  "telegram-drive": {
+    "status": "active",
+    "published_at": "2026-10-03T09:55:17+00:00",
+    "active_until": "2026-11-02T09:55:17+00:00",
     "archived_at": null,
     "generation": 1
   },
