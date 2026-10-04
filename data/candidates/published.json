@@ -1,29 +1,31 @@
 {
-  "generated_at": "2026-10-03T09:55:17+00:00",
+  "generated_at": "2026-10-04T10:38:19+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "telegram-drive",
-      "name": "Telegram-Drive",
-      "repo": "caamer20/Telegram-Drive",
-      "kind": "app",
-      "pitch": "Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.",
+      "slug": "open-agent-hub",
+      "name": "open-agent-hub",
+      "repo": "guanyang/open-agent-hub",
+      "kind": "cli",
+      "pitch": "A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).",
       "platforms": [
-        "Desktop"
+        "Terminal"
       ],
       "categories": [
-        "Developer tools"
+        "AI",
+        "Developer tools",
+        "Terminal"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/caamer20/Telegram-Drive",
+      "get_url": "https://github.com/guanyang/open-agent-hub",
       "automated": true,
-      "selected_at": "2026-10-03T09:55:17+00:00",
-      "selection_reason": "proven · updated 3d ago · 3 contributors · 84 releases"
+      "selected_at": "2026-10-04T10:38:19+00:00",
+      "selection_reason": "proven · updated 2d ago · 3 contributors · 11 releases"
     }
   ],
-  "automatic_total": 45
+  "automatic_total": 46
 }
