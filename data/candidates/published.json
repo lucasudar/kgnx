@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-10-04T10:38:19+00:00",
+  "generated_at": "2026-10-05T11:35:27+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "open-agent-hub",
-      "name": "open-agent-hub",
-      "repo": "guanyang/open-agent-hub",
-      "kind": "cli",
-      "pitch": "A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).",
+      "slug": "panel",
+      "name": "panel",
+      "repo": "pelican/panel",
+      "kind": "service",
+      "pitch": "Free, open source game server management panel built on Laravel and Docker.",
       "platforms": [
-        "Terminal"
+        "Self-hosted",
+        "Docker"
       ],
       "categories": [
-        "AI",
-        "Developer tools",
-        "Terminal"
+        "Self-hosted"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/guanyang/open-agent-hub",
+      "get_url": "https://github.com/pelican/panel",
       "automated": true,
-      "selected_at": "2026-10-04T10:38:19+00:00",
-      "selection_reason": "proven · updated 2d ago · 3 contributors · 11 releases"
+      "selected_at": "2026-10-05T11:35:27+00:00",
+      "selection_reason": "proven · updated 1d ago · 233 contributors · 37 releases"
     }
   ],
-  "automatic_total": 46
+  "automatic_total": 47
 }
