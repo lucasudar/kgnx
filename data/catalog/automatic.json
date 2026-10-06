@@ -1086,5 +1086,27 @@
     "automated": true,
     "selected_at": "2026-10-05T11:35:27+00:00",
     "selection_reason": "proven · updated 1d ago · 233 contributors · 37 releases"
+  },
+  {
+    "slug": "motrix-webextension",
+    "name": "motrix-webextension",
+    "repo": "gautamkrishnar/motrix-webextension",
+    "kind": "extension",
+    "pitch": "A browser extension for the Motrix Download Manager and its forks",
+    "platforms": [
+      "Chrome"
+    ],
+    "categories": [
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/gautamkrishnar/motrix-webextension",
+    "automated": true,
+    "selected_at": "2026-10-06T11:20:54+00:00",
+    "selection_reason": "proven · updated 4d ago · 11 contributors · 49 releases"
   }
 ]

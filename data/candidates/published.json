@@ -1,30 +1,29 @@
 {
-  "generated_at": "2026-10-05T11:35:27+00:00",
+  "generated_at": "2026-10-06T11:20:54+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "panel",
-      "name": "panel",
-      "repo": "pelican/panel",
-      "kind": "service",
-      "pitch": "Free, open source game server management panel built on Laravel and Docker.",
+      "slug": "motrix-webextension",
+      "name": "motrix-webextension",
+      "repo": "gautamkrishnar/motrix-webextension",
+      "kind": "extension",
+      "pitch": "A browser extension for the Motrix Download Manager and its forks",
       "platforms": [
-        "Self-hosted",
-        "Docker"
+        "Chrome"
       ],
       "categories": [
-        "Self-hosted"
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/pelican/panel",
+      "get_url": "https://github.com/gautamkrishnar/motrix-webextension",
       "automated": true,
-      "selected_at": "2026-10-05T11:35:27+00:00",
-      "selection_reason": "proven · updated 1d ago · 233 contributors · 37 releases"
+      "selected_at": "2026-10-06T11:20:54+00:00",
+      "selection_reason": "proven · updated 4d ago · 11 contributors · 49 releases"
     }
   ],
-  "automatic_total": 47
+  "automatic_total": 48
 }
