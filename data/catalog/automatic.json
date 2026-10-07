@@ -1108,5 +1108,29 @@
     "automated": true,
     "selected_at": "2026-10-06T11:20:54+00:00",
     "selection_reason": "proven · updated 4d ago · 11 contributors · 49 releases"
+  },
+  {
+    "slug": "kition",
+    "name": "kition",
+    "repo": "KitionAI/kition",
+    "kind": "app",
+    "pitch": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace.",
+    "platforms": [
+      "Desktop"
+    ],
+    "categories": [
+      "AI",
+      "Automation",
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/KitionAI/kition",
+    "automated": true,
+    "selected_at": "2026-10-07T11:08:16+00:00",
+    "selection_reason": "proven · updated 1d ago · 3 contributors · 40 releases"
   }
 ]
