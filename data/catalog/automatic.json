@@ -1132,5 +1132,29 @@
     "automated": true,
     "selected_at": "2026-10-07T11:08:16+00:00",
     "selection_reason": "proven · updated 1d ago · 3 contributors · 40 releases"
+  },
+  {
+    "slug": "haven",
+    "name": "Haven",
+    "repo": "ancsemi/Haven",
+    "kind": "service",
+    "pitch": "Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+    "platforms": [
+      "Self-hosted",
+      "Docker"
+    ],
+    "categories": [
+      "Browser",
+      "Self-hosted"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/ancsemi/Haven",
+    "automated": true,
+    "selected_at": "2026-10-08T11:26:38+00:00",
+    "selection_reason": "proven · updated 1d ago · 23 contributors · 170 releases"
   }
 ]
