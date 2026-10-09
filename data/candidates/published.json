@@ -1,31 +1,29 @@
 {
-  "generated_at": "2026-10-08T11:26:38+00:00",
+  "generated_at": "2026-10-09T11:23:21+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "haven",
-      "name": "Haven",
-      "repo": "ancsemi/Haven",
-      "kind": "service",
-      "pitch": "Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.",
+      "slug": "marvelloussuspender",
+      "name": "MarvellousSuspender",
+      "repo": "gioxx/MarvellousSuspender",
+      "kind": "extension",
+      "pitch": "A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.",
       "platforms": [
-        "Self-hosted",
-        "Docker"
+        "Chrome"
       ],
       "categories": [
-        "Browser",
-        "Self-hosted"
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/ancsemi/Haven",
+      "get_url": "https://github.com/gioxx/MarvellousSuspender",
       "automated": true,
-      "selected_at": "2026-10-08T11:26:38+00:00",
-      "selection_reason": "proven · updated 1d ago · 23 contributors · 170 releases"
+      "selected_at": "2026-10-09T11:23:21+00:00",
+      "selection_reason": "proven · updated 3d ago · 64 contributors · 15 releases"
     }
   ],
-  "automatic_total": 50
+  "automatic_total": 51
 }

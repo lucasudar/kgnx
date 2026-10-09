@@ -1156,5 +1156,27 @@
     "automated": true,
     "selected_at": "2026-10-08T11:26:38+00:00",
     "selection_reason": "proven · updated 1d ago · 23 contributors · 170 releases"
+  },
+  {
+    "slug": "marvelloussuspender",
+    "name": "MarvellousSuspender",
+    "repo": "gioxx/MarvellousSuspender",
+    "kind": "extension",
+    "pitch": "A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.",
+    "platforms": [
+      "Chrome"
+    ],
+    "categories": [
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/gioxx/MarvellousSuspender",
+    "automated": true,
+    "selected_at": "2026-10-09T11:23:21+00:00",
+    "selection_reason": "proven · updated 3d ago · 64 contributors · 15 releases"
   }
 ]
