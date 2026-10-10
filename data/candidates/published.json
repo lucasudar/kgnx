@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T11:23:21+00:00",
+  "generated_at": "2026-10-10T10:40:05+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "marvelloussuspender",
-      "name": "MarvellousSuspender",
-      "repo": "gioxx/MarvellousSuspender",
+      "slug": "cookie-editor",
+      "name": "cookie-editor",
+      "repo": "Moustachauve/cookie-editor",
       "kind": "extension",
-      "pitch": "A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.",
+      "pitch": "A powerful browser extension to create, edit and delete cookies",
       "platforms": [
         "Chrome"
       ],
@@ -19,11 +19,11 @@
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/gioxx/MarvellousSuspender",
+      "get_url": "https://github.com/Moustachauve/cookie-editor",
       "automated": true,
-      "selected_at": "2026-10-09T11:23:21+00:00",
-      "selection_reason": "proven · updated 3d ago · 64 contributors · 15 releases"
+      "selected_at": "2026-10-10T10:40:05+00:00",
+      "selection_reason": "proven · updated 6d ago · 12 contributors · 15 releases"
     }
   ],
-  "automatic_total": 51
+  "automatic_total": 52
 }

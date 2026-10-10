@@ -153,6 +153,13 @@
     "archived_at": "2026-09-21T10:00:34+00:00",
     "generation": 1
   },
+  "cookie-editor": {
+    "status": "active",
+    "published_at": "2026-10-10T10:40:05+00:00",
+    "active_until": "2026-11-09T10:40:05+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "coteditor": {
     "status": "active",
     "published_at": "2026-09-30T10:33:09+00:00",
@@ -406,10 +413,10 @@
     "generation": 1
   },
   "mermaid-rs-renderer": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-10T09:00:01+00:00",
     "active_until": "2026-10-10T09:00:01+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-10T10:40:05+00:00",
     "generation": 1
   },
   "monitorcontrol": {

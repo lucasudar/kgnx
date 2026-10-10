@@ -24,7 +24,7 @@
         <button data-view="saved" class="nav-item">Saved <span data-count="saved"></span></button>
         <button data-view="try" class="nav-item">Try next <span data-count="try"></span></button>
         <button data-view="using" class="nav-item">Using <span data-count="using"></span></button>
-        <button data-view="archive" class="nav-item">Archive <span>79</span></button>
+        <button data-view="archive" class="nav-item">Archive <span>80</span></button>
       </nav>
       <button class="profile-button" data-profile>
         <span class="profile-dot"></span>
@@ -42,7 +42,7 @@
     </section>
 
     <section class="controls shell" aria-label="Filter the catalogue">
-      <div class="row kinds"><button class="chip active" data-kind="all" aria-pressed="true">Everything <i>109</i></button><button class="chip" data-kind="app" aria-pressed="false">App <i>38</i></button><button class="chip" data-kind="cli" aria-pressed="false">Command line <i>30</i></button><button class="chip" data-kind="service" aria-pressed="false">Self-hosted <i>22</i></button><button class="chip" data-kind="extension" aria-pressed="false">Browser extension <i>19</i></button></div>
+      <div class="row kinds"><button class="chip active" data-kind="all" aria-pressed="true">Everything <i>110</i></button><button class="chip" data-kind="app" aria-pressed="false">App <i>38</i></button><button class="chip" data-kind="cli" aria-pressed="false">Command line <i>30</i></button><button class="chip" data-kind="service" aria-pressed="false">Self-hosted <i>22</i></button><button class="chip" data-kind="extension" aria-pressed="false">Browser extension <i>20</i></button></div>
       <div class="row secondary">
         <div class="platforms">
           <button class="chip active" data-platform="all" aria-pressed="true">Any platform</button>
@@ -122,6 +122,33 @@
     <a class="get" href="https://github.com/milanvarady/Applite" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
+<article class="tool" data-tool="scriptcat"
+  data-tool-kind="extension" data-platforms="chrome"
+  data-categories="browser" data-haystack="scriptcat scriptcat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 browser chrome scriptscat/scriptcat extension"
+  data-lifecycle="active" data-status="">
+  <div class="tool-head">
+    <span class="kind extension">Browser extension</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">Chrome</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide scriptcat" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>scriptcat</button></h3>
+  <p class="pitch">ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for scriptcat">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/scriptscat/scriptcat" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
 <article class="tool" data-tool="telegram-drive"
   data-tool-kind="app" data-platforms="desktop"
   data-categories="developer tools" data-haystack="telegram-drive turn your telegram account into an unlimited, secure cloud storage drive. an open-source desktop app built with tauri, rust, and react. developer tools desktop caamer20/telegram-drive app"
@@ -176,23 +203,23 @@
     <a class="get" href="https://github.com/antfu-collective/taze" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="panel"
-  data-tool-kind="service" data-platforms="self-hosted docker"
-  data-categories="self-hosted" data-haystack="panel free, open source game server management panel built on laravel and docker. self-hosted self-hosted docker pelican/panel service"
+<article class="tool" data-tool="omniwm"
+  data-tool-kind="app" data-platforms="macos"
+  data-categories="productivity" data-haystack="omniwm free, open-source tiling window manager for apple silicon macs, with niri-style scrolling containers and hyprland-style dwindle bsp. productivity macos omninull/omniwm app"
   data-lifecycle="active" data-status="">
   <div class="tool-head">
-    <span class="kind service">Self-hosted</span>
+    <span class="kind app">App</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Self-hosted · Docker</span>
+    <span class="runs-on">macOS</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide panel" title="Not for me">×</button>
+      aria-label="Hide OmniWM" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>panel</button></h3>
-  <p class="pitch">Free, open source game server management panel built on Laravel and Docker.</p>
+  <h3 class="tool-name"><button data-open>OmniWM</button></h3>
+  <p class="pitch">Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for panel">
+  <div class="actions" role="group" aria-label="Actions for OmniWM">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -200,7 +227,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/pelican/panel" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/OmniNull/OmniWM" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="open-cowork"
@@ -257,23 +284,23 @@
     <a class="get" href="https://github.com/gautamkrishnar/motrix-webextension" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="mermaid-rs-renderer"
-  data-tool-kind="cli" data-platforms="terminal"
-  data-categories="browser terminal" data-haystack="mermaid-rs-renderer a fast native rust mermaid diagram renderer. no browser required. 500-1000x faster than mermaid-cli. browser terminal terminal 1jehuang/mermaid-rs-renderer cli"
+<article class="tool" data-tool="cookie-editor"
+  data-tool-kind="extension" data-platforms="chrome"
+  data-categories="browser" data-haystack="cookie-editor a powerful browser extension to create, edit and delete cookies browser chrome moustachauve/cookie-editor extension"
   data-lifecycle="active" data-status="">
   <div class="tool-head">
-    <span class="kind cli">Command line</span>
+    <span class="kind extension">Browser extension</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Terminal</span>
+    <span class="runs-on">Chrome</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide mermaid-rs-renderer" title="Not for me">×</button>
+      aria-label="Hide cookie-editor" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>mermaid-rs-renderer</button></h3>
-  <p class="pitch">A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.</p>
+  <h3 class="tool-name"><button data-open>cookie-editor</button></h3>
+  <p class="pitch">A powerful browser extension to create, edit and delete cookies</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for mermaid-rs-renderer">
+  <div class="actions" role="group" aria-label="Actions for cookie-editor">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -281,7 +308,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/1jehuang/mermaid-rs-renderer" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/Moustachauve/cookie-editor" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="tugtainer"
@@ -392,23 +419,23 @@
     <a class="get" href="https://github.com/jmerle/competitive-companion" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="bitcart"
-  data-tool-kind="service" data-platforms="self-hosted docker"
-  data-categories="self-hosted system" data-haystack="bitcart bitcart is a free and open-source self-hosted payment processor for btc, ltc, bch, xmr, eth, trx, usdt and more self-hosted system self-hosted docker bitcart/bitcart service"
+<article class="tool" data-tool="time-tracker-4-browser"
+  data-tool-kind="extension" data-platforms="firefox chrome"
+  data-categories="browser" data-haystack="time-tracker-4-browser a browser extension that helps you track time, analyze your habits and block addictive sites browser firefox chrome sheepzh/time-tracker-4-browser extension"
   data-lifecycle="active" data-status="">
   <div class="tool-head">
-    <span class="kind service">Self-hosted</span>
+    <span class="kind extension">Browser extension</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Self-hosted · Docker</span>
+    <span class="runs-on">Firefox · Chrome</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide bitcart" title="Not for me">×</button>
+      aria-label="Hide time-tracker-4-browser" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>bitcart</button></h3>
-  <p class="pitch">Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more</p>
+  <h3 class="tool-name"><button data-open>time-tracker-4-browser</button></h3>
+  <p class="pitch">A browser extension that helps you track time, analyze your habits and block addictive sites</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for bitcart">
+  <div class="actions" role="group" aria-label="Actions for time-tracker-4-browser">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -416,34 +443,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/bitcart/bitcart" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
-<article class="tool" data-tool="open-agent-hub"
-  data-tool-kind="cli" data-platforms="terminal"
-  data-categories="ai developer tools terminal" data-haystack="open-agent-hub a lightweight, zero-dependency cli tool to manage and activate capabilities for ai coding assistants (such as claude code, cursor, trae, etc.). ai developer tools terminal terminal guanyang/open-agent-hub cli"
-  data-lifecycle="active" data-status="">
-  <div class="tool-head">
-    <span class="kind cli">Command line</span>
-    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Terminal</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide open-agent-hub" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>open-agent-hub</button></h3>
-  <p class="pitch">A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).</p>
-  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for open-agent-hub">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/guanyang/open-agent-hub" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/sheepzh/time-tracker-4-browser" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="halp"
@@ -471,33 +471,6 @@
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
     <a class="get" href="https://github.com/orhun/halp" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
-<article class="tool" data-tool="haven"
-  data-tool-kind="service" data-platforms="self-hosted docker"
-  data-categories="browser self-hosted" data-haystack="haven self-hosted private chat: no cloud, no telemetry, no big tech. discord alternative that runs on your own machine. browser self-hosted self-hosted docker ancsemi/haven service"
-  data-lifecycle="active" data-status="">
-  <div class="tool-head">
-    <span class="kind service">Self-hosted</span>
-    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Self-hosted · Docker</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide Haven" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>Haven</button></h3>
-  <p class="pitch">Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.</p>
-  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for Haven">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/ancsemi/Haven" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="lightning-browser-extension"
@@ -552,60 +525,6 @@
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
     <a class="get" href="https://github.com/clawwork-ai/ClawWork" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
-<article class="tool" data-tool="kition"
-  data-tool-kind="app" data-platforms="desktop"
-  data-categories="ai automation browser" data-haystack="kition kition brings markdown, datatable, whiteboard, a tool-using ai agent, browser research, and visual workflows into one desktop workspace. ai automation browser desktop kitionai/kition app"
-  data-lifecycle="active" data-status="">
-  <div class="tool-head">
-    <span class="kind app">App</span>
-    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Desktop</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide kition" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>kition</button></h3>
-  <p class="pitch">Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace.</p>
-  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for kition">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/KitionAI/kition" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
-<article class="tool" data-tool="mcp-local-rag"
-  data-tool-kind="cli" data-platforms="terminal"
-  data-categories="ai developer tools privacy" data-haystack="mcp-local-rag local-first rag server for developers. semantic + keyword search for code and technical docs. works with mcp or cli. fully private, zero setup. ai developer tools privacy terminal shinpr/mcp-local-rag cli"
-  data-lifecycle="active" data-status="">
-  <div class="tool-head">
-    <span class="kind cli">Command line</span>
-    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Terminal</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide mcp-local-rag" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>mcp-local-rag</button></h3>
-  <p class="pitch">Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.</p>
-  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for mcp-local-rag">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/shinpr/mcp-local-rag" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="sanebar"
@@ -689,33 +608,6 @@
     <a class="get" href="https://github.com/rcourtman/Pulse" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="scriptcat"
-  data-tool-kind="extension" data-platforms="chrome"
-  data-categories="browser" data-haystack="scriptcat scriptcat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 browser chrome scriptscat/scriptcat extension"
-  data-lifecycle="active" data-status="">
-  <div class="tool-head">
-    <span class="kind extension">Browser extension</span>
-    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Chrome</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide scriptcat" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>scriptcat</button></h3>
-  <p class="pitch">ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展</p>
-  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for scriptcat">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/scriptscat/scriptcat" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
 <article class="tool" data-tool="youtube"
   data-tool-kind="extension" data-platforms="chrome"
   data-categories="browser developer tools media" data-haystack="youtube youtube / video browser-extension. [top1 foss.] enrich your experience &amp; choice! 🧰smart features📌set &amp; forget📌300+ tweaks. longest-standing. join🧩us?👨‍👩‍👧‍👧 ⋮ {playback|discovery|extra… browser developer tools media chrome code-charity/youtube extension"
@@ -770,23 +662,23 @@
     <a class="get" href="https://github.com/EFForg/privacybadger" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="omniwm"
-  data-tool-kind="app" data-platforms="macos"
-  data-categories="productivity" data-haystack="omniwm free, open-source tiling window manager for apple silicon macs, with niri-style scrolling containers and hyprland-style dwindle bsp. productivity macos omninull/omniwm app"
+<article class="tool" data-tool="panel"
+  data-tool-kind="service" data-platforms="self-hosted docker"
+  data-categories="self-hosted" data-haystack="panel free, open source game server management panel built on laravel and docker. self-hosted self-hosted docker pelican/panel service"
   data-lifecycle="active" data-status="">
   <div class="tool-head">
-    <span class="kind app">App</span>
+    <span class="kind service">Self-hosted</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">macOS</span>
+    <span class="runs-on">Self-hosted · Docker</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide OmniWM" title="Not for me">×</button>
+      aria-label="Hide panel" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>OmniWM</button></h3>
-  <p class="pitch">Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.</p>
+  <h3 class="tool-name"><button data-open>panel</button></h3>
+  <p class="pitch">Free, open source game server management panel built on Laravel and Docker.</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for OmniWM">
+  <div class="actions" role="group" aria-label="Actions for panel">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -794,7 +686,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/OmniNull/OmniWM" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/pelican/panel" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="octo-web"
@@ -824,23 +716,23 @@
     <a class="get" href="https://github.com/Mininglamp-OSS/octo-web" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="time-tracker-4-browser"
-  data-tool-kind="extension" data-platforms="firefox chrome"
-  data-categories="browser" data-haystack="time-tracker-4-browser a browser extension that helps you track time, analyze your habits and block addictive sites browser firefox chrome sheepzh/time-tracker-4-browser extension"
+<article class="tool" data-tool="bitcart"
+  data-tool-kind="service" data-platforms="self-hosted docker"
+  data-categories="self-hosted system" data-haystack="bitcart bitcart is a free and open-source self-hosted payment processor for btc, ltc, bch, xmr, eth, trx, usdt and more self-hosted system self-hosted docker bitcart/bitcart service"
   data-lifecycle="active" data-status="">
   <div class="tool-head">
-    <span class="kind extension">Browser extension</span>
+    <span class="kind service">Self-hosted</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Firefox · Chrome</span>
+    <span class="runs-on">Self-hosted · Docker</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide time-tracker-4-browser" title="Not for me">×</button>
+      aria-label="Hide bitcart" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>time-tracker-4-browser</button></h3>
-  <p class="pitch">A browser extension that helps you track time, analyze your habits and block addictive sites</p>
+  <h3 class="tool-name"><button data-open>bitcart</button></h3>
+  <p class="pitch">Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for time-tracker-4-browser">
+  <div class="actions" role="group" aria-label="Actions for bitcart">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -848,7 +740,34 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/sheepzh/time-tracker-4-browser" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/bitcart/bitcart" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
+<article class="tool" data-tool="open-agent-hub"
+  data-tool-kind="cli" data-platforms="terminal"
+  data-categories="ai developer tools terminal" data-haystack="open-agent-hub a lightweight, zero-dependency cli tool to manage and activate capabilities for ai coding assistants (such as claude code, cursor, trae, etc.). ai developer tools terminal terminal guanyang/open-agent-hub cli"
+  data-lifecycle="active" data-status="">
+  <div class="tool-head">
+    <span class="kind cli">Command line</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">Terminal</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide open-agent-hub" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>open-agent-hub</button></h3>
+  <p class="pitch">A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for open-agent-hub">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/guanyang/open-agent-hub" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="better-deepseek"
@@ -878,6 +797,87 @@
     <a class="get" href="https://github.com/EdgeTypE/better-deepseek" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
+<article class="tool" data-tool="haven"
+  data-tool-kind="service" data-platforms="self-hosted docker"
+  data-categories="browser self-hosted" data-haystack="haven self-hosted private chat: no cloud, no telemetry, no big tech. discord alternative that runs on your own machine. browser self-hosted self-hosted docker ancsemi/haven service"
+  data-lifecycle="active" data-status="">
+  <div class="tool-head">
+    <span class="kind service">Self-hosted</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">Self-hosted · Docker</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide Haven" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>Haven</button></h3>
+  <p class="pitch">Self-hosted private chat: no cloud, no telemetry, no Big Tech. Discord alternative that runs on your own machine.</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for Haven">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/ancsemi/Haven" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
+<article class="tool" data-tool="kition"
+  data-tool-kind="app" data-platforms="desktop"
+  data-categories="ai automation browser" data-haystack="kition kition brings markdown, datatable, whiteboard, a tool-using ai agent, browser research, and visual workflows into one desktop workspace. ai automation browser desktop kitionai/kition app"
+  data-lifecycle="active" data-status="">
+  <div class="tool-head">
+    <span class="kind app">App</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">Desktop</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide kition" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>kition</button></h3>
+  <p class="pitch">Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace.</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for kition">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/KitionAI/kition" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
+<article class="tool" data-tool="mcp-local-rag"
+  data-tool-kind="cli" data-platforms="terminal"
+  data-categories="ai developer tools privacy" data-haystack="mcp-local-rag local-first rag server for developers. semantic + keyword search for code and technical docs. works with mcp or cli. fully private, zero setup. ai developer tools privacy terminal shinpr/mcp-local-rag cli"
+  data-lifecycle="active" data-status="">
+  <div class="tool-head">
+    <span class="kind cli">Command line</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">Terminal</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide mcp-local-rag" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>mcp-local-rag</button></h3>
+  <p class="pitch">Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for mcp-local-rag">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/shinpr/mcp-local-rag" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
 <article class="tool" data-tool="maccy"
   data-tool-kind="app" data-platforms="macos"
   data-categories="clipboard productivity" data-haystack="maccy search your clipboard history instantly without leaving the keyboard. clipboard productivity macos p0deje/maccy app"
@@ -905,23 +905,23 @@
     <a class="get" href="https://maccy.app" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="localsend"
-  data-tool-kind="app" data-platforms="macos windows linux ios android"
-  data-categories="file transfer privacy" data-haystack="localsend send files between phones and computers over your local network. file transfer privacy macos windows linux ios android localsend/localsend app"
+<article class="tool" data-tool="fzf"
+  data-tool-kind="cli" data-platforms="macos linux windows"
+  data-categories="terminal productivity" data-haystack="fzf fuzzy-find anything in your shell: files, command history, git branches. terminal productivity macos linux windows junegunn/fzf cli"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
-    <span class="kind app">App</span>
+    <span class="kind cli">Command line</span>
     
-    <span class="runs-on">macOS · Windows · Linux +2</span>
+    <span class="runs-on">macOS · Windows · Linux</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide LocalSend" title="Not for me">×</button>
+      aria-label="Hide fzf" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>LocalSend</button></h3>
-  <p class="pitch">Send files between phones and computers over your local network.</p>
-  <div class="traits"><span>Free</span><span>No cloud</span></div>
+  <h3 class="tool-name"><button data-open>fzf</button></h3>
+  <p class="pitch">Fuzzy-find anything in your shell: files, command history, git branches.</p>
+  <div class="traits"><span>Free</span><span>Composable</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for LocalSend">
+  <div class="actions" role="group" aria-label="Actions for fzf">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -929,7 +929,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://localsend.org" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/junegunn/fzf" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="ripgrep"
@@ -957,33 +957,6 @@
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
     <a class="get" href="https://github.com/BurntSushi/ripgrep" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
-<article class="tool" data-tool="lazygit"
-  data-tool-kind="cli" data-platforms="macos linux windows"
-  data-categories="terminal developer tools" data-haystack="lazygit stage hunks, rebase, and fix conflicts in a terminal ui instead of memorising flags. terminal developer tools macos linux windows jesseduffield/lazygit cli"
-  data-lifecycle="archived" data-status="">
-  <div class="tool-head">
-    <span class="kind cli">Command line</span>
-    
-    <span class="runs-on">macOS · Windows · Linux</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide lazygit" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>lazygit</button></h3>
-  <p class="pitch">Stage hunks, rebase, and fix conflicts in a terminal UI instead of memorising flags.</p>
-  <div class="traits"><span>Free</span><span>Keyboard-first</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for lazygit">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="voiceink"
@@ -1067,23 +1040,23 @@
     <a class="get" href="https://www.hammerspoon.org" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="fzf"
-  data-tool-kind="cli" data-platforms="macos linux windows"
-  data-categories="terminal productivity" data-haystack="fzf fuzzy-find anything in your shell: files, command history, git branches. terminal productivity macos linux windows junegunn/fzf cli"
+<article class="tool" data-tool="localsend"
+  data-tool-kind="app" data-platforms="macos windows linux ios android"
+  data-categories="file transfer privacy" data-haystack="localsend send files between phones and computers over your local network. file transfer privacy macos windows linux ios android localsend/localsend app"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
-    <span class="kind cli">Command line</span>
+    <span class="kind app">App</span>
     
-    <span class="runs-on">macOS · Windows · Linux</span>
+    <span class="runs-on">macOS · Windows · Linux +2</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide fzf" title="Not for me">×</button>
+      aria-label="Hide LocalSend" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>fzf</button></h3>
-  <p class="pitch">Fuzzy-find anything in your shell: files, command history, git branches.</p>
-  <div class="traits"><span>Free</span><span>Composable</span></div>
+  <h3 class="tool-name"><button data-open>LocalSend</button></h3>
+  <p class="pitch">Send files between phones and computers over your local network.</p>
+  <div class="traits"><span>Free</span><span>No cloud</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for fzf">
+  <div class="actions" role="group" aria-label="Actions for LocalSend">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -1091,7 +1064,34 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/junegunn/fzf" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://localsend.org" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
+<article class="tool" data-tool="lazygit"
+  data-tool-kind="cli" data-platforms="macos linux windows"
+  data-categories="terminal developer tools" data-haystack="lazygit stage hunks, rebase, and fix conflicts in a terminal ui instead of memorising flags. terminal developer tools macos linux windows jesseduffield/lazygit cli"
+  data-lifecycle="archived" data-status="">
+  <div class="tool-head">
+    <span class="kind cli">Command line</span>
+    
+    <span class="runs-on">macOS · Windows · Linux</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide lazygit" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>lazygit</button></h3>
+  <p class="pitch">Stage hunks, rebase, and fix conflicts in a terminal UI instead of memorising flags.</p>
+  <div class="traits"><span>Free</span><span>Keyboard-first</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for lazygit">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="jiggler"
@@ -1391,6 +1391,33 @@
     <a class="get" href="https://github.com/aristocratos/btop" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
+<article class="tool" data-tool="jq"
+  data-tool-kind="cli" data-platforms="macos linux windows"
+  data-categories="terminal developer tools" data-haystack="jq filter and reshape json directly in a shell pipeline. terminal developer tools macos linux windows jqlang/jq cli"
+  data-lifecycle="archived" data-status="">
+  <div class="tool-head">
+    <span class="kind cli">Command line</span>
+    
+    <span class="runs-on">macOS · Windows · Linux</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide jq" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>jq</button></h3>
+  <p class="pitch">Filter and reshape JSON directly in a shell pipeline.</p>
+  <div class="traits"><span>Free</span><span>Scriptable</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for jq">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://jqlang.github.io/jq" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
 <article class="tool" data-tool="delta"
   data-tool-kind="cli" data-platforms="macos linux windows"
   data-categories="terminal developer tools" data-haystack="delta make git diffs readable with syntax highlighting and side-by-side view. terminal developer tools macos linux windows dandavison/delta cli"
@@ -1443,33 +1470,6 @@
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
     <a class="get" href="https://eza.rocks" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
-<article class="tool" data-tool="starship"
-  data-tool-kind="cli" data-platforms="macos linux windows"
-  data-categories="terminal productivity" data-haystack="starship a fast prompt showing git, language, and environment context in any shell. terminal productivity macos linux windows starship/starship cli"
-  data-lifecycle="archived" data-status="">
-  <div class="tool-head">
-    <span class="kind cli">Command line</span>
-    
-    <span class="runs-on">macOS · Windows · Linux</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide Starship" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>Starship</button></h3>
-  <p class="pitch">A fast prompt showing git, language, and environment context in any shell.</p>
-  <div class="traits"><span>Free</span><span>Any shell</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for Starship">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://starship.rs" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="helix"
@@ -1634,6 +1634,33 @@
     <a class="get" href="https://www.audiobookshelf.org" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
+<article class="tool" data-tool="ublock-origin"
+  data-tool-kind="extension" data-platforms="firefox chrome"
+  data-categories="browser privacy" data-haystack="ublock origin block ads and trackers with far less memory than the alternatives. browser privacy firefox chrome gorhill/ublock extension"
+  data-lifecycle="archived" data-status="">
+  <div class="tool-head">
+    <span class="kind extension">Browser extension</span>
+    
+    <span class="runs-on">Firefox · Chrome</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide uBlock Origin" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>uBlock Origin</button></h3>
+  <p class="pitch">Block ads and trackers with far less memory than the alternatives.</p>
+  <div class="traits"><span>Free</span><span>Efficient</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for uBlock Origin">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/gorhill/uBlock#installation" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
 <article class="tool" data-tool="sponsorblock"
   data-tool-kind="extension" data-platforms="firefox chrome"
   data-categories="browser media" data-haystack="sponsorblock skip sponsor segments in videos using crowdsourced timestamps. browser media firefox chrome ajayyy/sponsorblock extension"
@@ -1661,23 +1688,23 @@
     <a class="get" href="https://sponsor.ajay.app" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="convertx"
+<article class="tool" data-tool="openwa"
   data-tool-kind="service" data-platforms="self-hosted"
-  data-categories="documents self-hosted" data-haystack="convertx 💾 self-hosted online file converter. supports 1000+ formats ⚙️ documents self-hosted self-hosted c4illin/convertx service"
+  data-categories="automation developer tools self-hosted" data-haystack="openwa free, open source, self-hosted whatsapp api gateway automation developer tools self-hosted self-hosted rmyndharis/openwa service"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
     <span class="kind service">Self-hosted</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
     <span class="runs-on">Self-hosted</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide ConvertX" title="Not for me">×</button>
+      aria-label="Hide OpenWA" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>ConvertX</button></h3>
-  <p class="pitch">💾 Self-hosted online file converter. Supports 1000+ formats ⚙️</p>
+  <h3 class="tool-name"><button data-open>OpenWA</button></h3>
+  <p class="pitch">Free, Open Source, Self-Hosted WhatsApp API Gateway</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for ConvertX">
+  <div class="actions" role="group" aria-label="Actions for OpenWA">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -1685,7 +1712,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/C4illin/ConvertX" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/rmyndharis/OpenWA" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="cachet"
@@ -1877,23 +1904,23 @@
     <a class="get" href="https://github.com/alexpasmantier/television" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="gitlogue"
-  data-tool-kind="cli" data-platforms="terminal"
-  data-categories="developer tools terminal" data-haystack="gitlogue a cinematic git commit replay tool for the terminal, turning your git history into a living, animated story. developer tools terminal terminal unhappychoice/gitlogue cli"
+<article class="tool" data-tool="design-extract"
+  data-tool-kind="extension" data-platforms="chrome"
+  data-categories="ai browser developer tools" data-haystack="design-extract extract any website&#x27;s complete design system with one command. dtcg tokens, semantic+primitive+composite, mcp server for claude code/cursor/windsurf, multi-platform emitters (ios swiftui… ai browser developer tools chrome manavarya09/design-extract extension"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
-    <span class="kind cli">Command line</span>
+    <span class="kind extension">Browser extension</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Terminal</span>
+    <span class="runs-on">Chrome</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide gitlogue" title="Not for me">×</button>
+      aria-label="Hide design-extract" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>gitlogue</button></h3>
-  <p class="pitch">A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.</p>
+  <h3 class="tool-name"><button data-open>design-extract</button></h3>
+  <p class="pitch">Extract any website&#x27;s complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI…</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for gitlogue">
+  <div class="actions" role="group" aria-label="Actions for design-extract">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -1901,7 +1928,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/unhappychoice/gitlogue" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/Manavarya09/design-extract" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="rmux"
@@ -1931,6 +1958,33 @@
     <a class="get" href="https://github.com/Helvesec/rmux" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
+<article class="tool" data-tool="better-shot"
+  data-tool-kind="app" data-platforms="macos"
+  data-categories="media" data-haystack="better-shot one app for the whole screen. screenshots, screen recording, and a video editor, native on macos. open-source cleanshot x + loom alternative. no subscription, no account, no telemetry. media macos kartiklabhshetwar/better-shot app"
+  data-lifecycle="archived" data-status="">
+  <div class="tool-head">
+    <span class="kind app">App</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">macOS</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide better-shot" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>better-shot</button></h3>
+  <p class="pitch">One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for better-shot">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/KartikLabhshetwar/better-shot" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
 <article class="tool" data-tool="kaset"
   data-tool-kind="app" data-platforms="macos"
   data-categories="media" data-haystack="kaset 📼 the missing youtube and youtube music macos app media macos sozercan/kaset app"
@@ -1958,60 +2012,6 @@
     <a class="get" href="https://github.com/sozercan/kaset" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="keepassxc-browser"
-  data-tool-kind="extension" data-platforms="browser"
-  data-categories="browser" data-haystack="keepassxc-browser keepassxc browser extension browser browser keepassxreboot/keepassxc-browser extension"
-  data-lifecycle="archived" data-status="">
-  <div class="tool-head">
-    <span class="kind extension">Browser extension</span>
-    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Browser</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide keepassxc-browser" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>keepassxc-browser</button></h3>
-  <p class="pitch">KeePassXC Browser Extension</p>
-  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for keepassxc-browser">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/keepassxreboot/keepassxc-browser" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
-<article class="tool" data-tool="claude-code-history-viewer"
-  data-tool-kind="app" data-platforms="desktop"
-  data-categories="developer tools" data-haystack="claude-code-history-viewer desktop app to browse and analyze your claude code conversation history developer tools desktop jhlee0409/claude-code-history-viewer app"
-  data-lifecycle="archived" data-status="">
-  <div class="tool-head">
-    <span class="kind app">App</span>
-    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Desktop</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide claude-code-history-viewer" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>claude-code-history-viewer</button></h3>
-  <p class="pitch">desktop app to browse and analyze your Claude Code conversation history</p>
-  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for claude-code-history-viewer">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/jhlee0409/claude-code-history-viewer" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
 <article class="tool" data-tool="ipfs-companion"
   data-tool-kind="extension" data-platforms="firefox chrome"
   data-categories="browser" data-haystack="ipfs-companion browser extension that routes ipfs:// addresses and content-addressed websites through your own local ipfs node browser firefox chrome ipfs/ipfs-companion extension"
@@ -2037,6 +2037,33 @@
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
     <a class="get" href="https://github.com/ipfs/ipfs-companion" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
+<article class="tool" data-tool="mermaid-rs-renderer"
+  data-tool-kind="cli" data-platforms="terminal"
+  data-categories="browser terminal" data-haystack="mermaid-rs-renderer a fast native rust mermaid diagram renderer. no browser required. 500-1000x faster than mermaid-cli. browser terminal terminal 1jehuang/mermaid-rs-renderer cli"
+  data-lifecycle="archived" data-status="">
+  <div class="tool-head">
+    <span class="kind cli">Command line</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">Terminal</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide mermaid-rs-renderer" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>mermaid-rs-renderer</button></h3>
+  <p class="pitch">A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for mermaid-rs-renderer">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/1jehuang/mermaid-rs-renderer" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="hermes-cn-desktop"
@@ -2417,23 +2444,23 @@
     <a class="get" href="https://yazi-rs.github.io" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="jq"
+<article class="tool" data-tool="starship"
   data-tool-kind="cli" data-platforms="macos linux windows"
-  data-categories="terminal developer tools" data-haystack="jq filter and reshape json directly in a shell pipeline. terminal developer tools macos linux windows jqlang/jq cli"
+  data-categories="terminal productivity" data-haystack="starship a fast prompt showing git, language, and environment context in any shell. terminal productivity macos linux windows starship/starship cli"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
     <span class="kind cli">Command line</span>
     
     <span class="runs-on">macOS · Windows · Linux</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide jq" title="Not for me">×</button>
+      aria-label="Hide Starship" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>jq</button></h3>
-  <p class="pitch">Filter and reshape JSON directly in a shell pipeline.</p>
-  <div class="traits"><span>Free</span><span>Scriptable</span></div>
+  <h3 class="tool-name"><button data-open>Starship</button></h3>
+  <p class="pitch">A fast prompt showing git, language, and environment context in any shell.</p>
+  <div class="traits"><span>Free</span><span>Any shell</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for jq">
+  <div class="actions" role="group" aria-label="Actions for Starship">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -2441,7 +2468,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://jqlang.github.io/jq" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://starship.rs" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="zellij"
@@ -2741,33 +2768,6 @@
     <a class="get" href="https://www.stirlingpdf.com" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="ublock-origin"
-  data-tool-kind="extension" data-platforms="firefox chrome"
-  data-categories="browser privacy" data-haystack="ublock origin block ads and trackers with far less memory than the alternatives. browser privacy firefox chrome gorhill/ublock extension"
-  data-lifecycle="archived" data-status="">
-  <div class="tool-head">
-    <span class="kind extension">Browser extension</span>
-    
-    <span class="runs-on">Firefox · Chrome</span>
-    <button class="dismiss" data-action="dismiss"
-      aria-label="Hide uBlock Origin" title="Not for me">×</button>
-  </div>
-
-  <h3 class="tool-name"><button data-open>uBlock Origin</button></h3>
-  <p class="pitch">Block ads and trackers with far less memory than the alternatives.</p>
-  <div class="traits"><span>Free</span><span>Efficient</span></div>
-
-  <div class="actions" role="group" aria-label="Actions for uBlock Origin">
-    <button class="action save" data-action="saved">Save</button>
-    <button class="action try" data-action="try">Try next</button>
-    <button class="action using" data-action="using">I use this</button>
-  </div>
-
-  <div class="tool-foot">
-    <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/gorhill/uBlock#installation" target="_blank" rel="noopener">Project page ↗</a>
-  </div>
-</article>
 <article class="tool" data-tool="darkreader"
   data-tool-kind="extension" data-platforms="firefox chrome safari"
   data-categories="browser productivity" data-haystack="dark reader generate a readable dark theme for any website on the fly. browser productivity firefox chrome safari darkreader/darkreader extension"
@@ -2822,23 +2822,23 @@
     <a class="get" href="https://github.com/NanmiCoder/cc-haha" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="openwa"
+<article class="tool" data-tool="convertx"
   data-tool-kind="service" data-platforms="self-hosted"
-  data-categories="automation developer tools self-hosted" data-haystack="openwa free, open source, self-hosted whatsapp api gateway automation developer tools self-hosted self-hosted rmyndharis/openwa service"
+  data-categories="documents self-hosted" data-haystack="convertx 💾 self-hosted online file converter. supports 1000+ formats ⚙️ documents self-hosted self-hosted c4illin/convertx service"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
     <span class="kind service">Self-hosted</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
     <span class="runs-on">Self-hosted</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide OpenWA" title="Not for me">×</button>
+      aria-label="Hide ConvertX" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>OpenWA</button></h3>
-  <p class="pitch">Free, Open Source, Self-Hosted WhatsApp API Gateway</p>
+  <h3 class="tool-name"><button data-open>ConvertX</button></h3>
+  <p class="pitch">💾 Self-hosted online file converter. Supports 1000+ formats ⚙️</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for OpenWA">
+  <div class="actions" role="group" aria-label="Actions for ConvertX">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -2846,7 +2846,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/rmyndharis/OpenWA" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/C4illin/ConvertX" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="analytics"
@@ -2930,23 +2930,50 @@
     <a class="get" href="https://github.com/jacklandrin/OnlySwitch" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="design-extract"
-  data-tool-kind="extension" data-platforms="chrome"
-  data-categories="ai browser developer tools" data-haystack="design-extract extract any website&#x27;s complete design system with one command. dtcg tokens, semantic+primitive+composite, mcp server for claude code/cursor/windsurf, multi-platform emitters (ios swiftui… ai browser developer tools chrome manavarya09/design-extract extension"
+<article class="tool" data-tool="gitlogue"
+  data-tool-kind="cli" data-platforms="terminal"
+  data-categories="developer tools terminal" data-haystack="gitlogue a cinematic git commit replay tool for the terminal, turning your git history into a living, animated story. developer tools terminal terminal unhappychoice/gitlogue cli"
+  data-lifecycle="archived" data-status="">
+  <div class="tool-head">
+    <span class="kind cli">Command line</span>
+    <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
+    <span class="runs-on">Terminal</span>
+    <button class="dismiss" data-action="dismiss"
+      aria-label="Hide gitlogue" title="Not for me">×</button>
+  </div>
+
+  <h3 class="tool-name"><button data-open>gitlogue</button></h3>
+  <p class="pitch">A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.</p>
+  <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
+
+  <div class="actions" role="group" aria-label="Actions for gitlogue">
+    <button class="action save" data-action="saved">Save</button>
+    <button class="action try" data-action="try">Try next</button>
+    <button class="action using" data-action="using">I use this</button>
+  </div>
+
+  <div class="tool-foot">
+    <button class="details" data-open>Details</button>
+    <a class="get" href="https://github.com/unhappychoice/gitlogue" target="_blank" rel="noopener">Project page ↗</a>
+  </div>
+</article>
+<article class="tool" data-tool="keepassxc-browser"
+  data-tool-kind="extension" data-platforms="browser"
+  data-categories="browser" data-haystack="keepassxc-browser keepassxc browser extension browser browser keepassxreboot/keepassxc-browser extension"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
     <span class="kind extension">Browser extension</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">Chrome</span>
+    <span class="runs-on">Browser</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide design-extract" title="Not for me">×</button>
+      aria-label="Hide keepassxc-browser" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>design-extract</button></h3>
-  <p class="pitch">Extract any website&#x27;s complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI…</p>
+  <h3 class="tool-name"><button data-open>keepassxc-browser</button></h3>
+  <p class="pitch">KeePassXC Browser Extension</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for design-extract">
+  <div class="actions" role="group" aria-label="Actions for keepassxc-browser">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -2954,26 +2981,26 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/Manavarya09/design-extract" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/keepassxreboot/keepassxc-browser" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
-<article class="tool" data-tool="better-shot"
-  data-tool-kind="app" data-platforms="macos"
-  data-categories="media" data-haystack="better-shot one app for the whole screen. screenshots, screen recording, and a video editor, native on macos. open-source cleanshot x + loom alternative. no subscription, no account, no telemetry. media macos kartiklabhshetwar/better-shot app"
+<article class="tool" data-tool="claude-code-history-viewer"
+  data-tool-kind="app" data-platforms="desktop"
+  data-categories="developer tools" data-haystack="claude-code-history-viewer desktop app to browse and analyze your claude code conversation history developer tools desktop jhlee0409/claude-code-history-viewer app"
   data-lifecycle="archived" data-status="">
   <div class="tool-head">
     <span class="kind app">App</span>
     <span class="automatic" title="Published by the strict automated pipeline">Auto-selected</span>
-    <span class="runs-on">macOS</span>
+    <span class="runs-on">Desktop</span>
     <button class="dismiss" data-action="dismiss"
-      aria-label="Hide better-shot" title="Not for me">×</button>
+      aria-label="Hide claude-code-history-viewer" title="Not for me">×</button>
   </div>
 
-  <h3 class="tool-name"><button data-open>better-shot</button></h3>
-  <p class="pitch">One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.</p>
+  <h3 class="tool-name"><button data-open>claude-code-history-viewer</button></h3>
+  <p class="pitch">desktop app to browse and analyze your Claude Code conversation history</p>
   <div class="traits"><span>Open source</span><span>Actively maintained</span><span>Tests + CI</span></div>
 
-  <div class="actions" role="group" aria-label="Actions for better-shot">
+  <div class="actions" role="group" aria-label="Actions for claude-code-history-viewer">
     <button class="action save" data-action="saved">Save</button>
     <button class="action try" data-action="try">Try next</button>
     <button class="action using" data-action="using">I use this</button>
@@ -2981,7 +3008,7 @@
 
   <div class="tool-foot">
     <button class="details" data-open>Details</button>
-    <a class="get" href="https://github.com/KartikLabhshetwar/better-shot" target="_blank" rel="noopener">Project page ↗</a>
+    <a class="get" href="https://github.com/jhlee0409/claude-code-history-viewer" target="_blank" rel="noopener">Project page ↗</a>
   </div>
 </article>
 <article class="tool" data-tool="deepseek-pp"
@@ -3042,9 +3069,9 @@
     </article>
   </div>
   <ul class="method-facts">
-    <li><b>109</b> tools currently published</li>
-    <li><b>51</b> published unattended</li>
-    <li><b>109</b> repositories screened automatically in the last run</li>
+    <li><b>110</b> tools currently published</li>
+    <li><b>52</b> published unattended</li>
+    <li><b>110</b> repositories screened automatically in the last run</li>
     <li>Tests + CI + licence + 100 commits + 3 contributors + 2 releases required</li>
   </ul>
 </section>
@@ -3083,7 +3110,7 @@
   </dialog>
 
   <div class="toast" data-toast role="status" aria-live="polite"></div>
-  <footer><div class="shell">Updated 2026-10-09 11:24:10 UTC · 109 tools ·
+  <footer><div class="shell">Updated 2026-10-10 10:40:32 UTC · 110 tools ·
     evidence from the public GitHub API</div></footer>
   <script src="app.js" defer></script>
 </body>
