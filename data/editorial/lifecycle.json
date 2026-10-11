@@ -531,6 +531,13 @@
     "archived_at": "2026-09-20T09:20:03+00:00",
     "generation": 1
   },
+  "pi-app": {
+    "status": "active",
+    "published_at": "2026-10-11T10:53:15+00:00",
+    "active_until": "2026-11-10T10:53:15+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "privacybadger": {
     "status": "active",
     "published_at": "2026-09-20T09:20:03+00:00",
@@ -714,10 +721,10 @@
     "generation": 1
   },
   "wallabag": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-11T08:58:22+00:00",
     "active_until": "2026-10-11T08:58:22+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-11T10:53:15+00:00",
     "generation": 1
   },
   "yazi": {
