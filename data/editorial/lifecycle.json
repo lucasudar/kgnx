@@ -27,6 +27,13 @@
     "archived_at": "2026-09-29T10:45:13+00:00",
     "generation": 1
   },
+  "aniworld-downloader": {
+    "status": "active",
+    "published_at": "2026-10-12T12:07:49+00:00",
+    "active_until": "2026-11-11T12:07:49+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "appflowy": {
     "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
@@ -735,10 +742,10 @@
     "generation": 1
   },
   "youtube": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-12T08:41:24+00:00",
     "active_until": "2026-10-12T08:41:24+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-12T12:07:49+00:00",
     "generation": 1
   },
   "yt-dlp": {

@@ -1226,5 +1226,29 @@
     "automated": true,
     "selected_at": "2026-10-11T10:53:15+00:00",
     "selection_reason": "proven · updated 1d ago · 6 contributors · 52 releases"
+  },
+  {
+    "slug": "aniworld-downloader",
+    "name": "AniWorld-Downloader",
+    "repo": "phoenixthrush/AniWorld-Downloader",
+    "kind": "cli",
+    "pitch": "AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web…",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "Media",
+      "Productivity",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/phoenixthrush/AniWorld-Downloader",
+    "automated": true,
+    "selected_at": "2026-10-12T12:07:49+00:00",
+    "selection_reason": "proven · updated 2d ago · 16 contributors · 104 releases"
   }
 ]
