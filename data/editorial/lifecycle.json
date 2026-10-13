@@ -140,10 +140,10 @@
     "generation": 1
   },
   "clawwork": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-13T09:36:15+00:00",
     "active_until": "2026-10-13T09:36:15+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-13T11:53:38+00:00",
     "generation": 1
   },
   "competitive-companion": {
@@ -389,6 +389,13 @@
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
     "archived_at": "2026-09-20T09:20:03+00:00",
+    "generation": 1
+  },
+  "listmonk": {
+    "status": "active",
+    "published_at": "2026-10-13T11:53:38+00:00",
+    "active_until": "2026-11-12T11:53:38+00:00",
+    "archived_at": null,
     "generation": 1
   },
   "localsend": {

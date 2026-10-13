@@ -1250,5 +1250,27 @@
     "automated": true,
     "selected_at": "2026-10-12T12:07:49+00:00",
     "selection_reason": "proven · updated 2d ago · 16 contributors · 104 releases"
+  },
+  {
+    "slug": "listmonk",
+    "name": "listmonk",
+    "repo": "knadh/listmonk",
+    "kind": "service",
+    "pitch": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+    "platforms": [
+      "Self-hosted"
+    ],
+    "categories": [
+      "Self-hosted"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/knadh/listmonk",
+    "automated": true,
+    "selected_at": "2026-10-13T11:53:38+00:00",
+    "selection_reason": "proven · updated 1d ago · 263 contributors · 41 releases"
   }
 ]
