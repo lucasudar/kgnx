@@ -1272,5 +1272,29 @@
     "automated": true,
     "selected_at": "2026-10-13T11:53:38+00:00",
     "selection_reason": "proven · updated 1d ago · 263 contributors · 41 releases"
+  },
+  {
+    "slug": "browser_extension",
+    "name": "browser_extension",
+    "repo": "libredirect/browser_extension",
+    "kind": "extension",
+    "pitch": "A browser extension that redirects popular sites to alternative privacy friendly frontends",
+    "platforms": [
+      "Firefox",
+      "Chrome"
+    ],
+    "categories": [
+      "Browser",
+      "Privacy"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/libredirect/browser_extension",
+    "automated": true,
+    "selected_at": "2026-10-14T09:34:51+00:00",
+    "selection_reason": "proven · updated 1d ago · 124 contributors · 67 releases"
   }
 ]

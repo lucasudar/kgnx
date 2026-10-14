@@ -104,6 +104,13 @@
     "archived_at": null,
     "generation": 1
   },
+  "browser_extension": {
+    "status": "active",
+    "published_at": "2026-10-14T09:34:51+00:00",
+    "active_until": "2026-11-13T09:34:51+00:00",
+    "archived_at": null,
+    "generation": 1
+  },
   "bruno": {
     "status": "archived",
     "published_at": "2026-08-20T18:18:47+00:00",
