@@ -1,31 +1,29 @@
 {
-  "generated_at": "2026-10-14T09:34:51+00:00",
+  "generated_at": "2026-10-15T09:12:59+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "browser_extension",
-      "name": "browser_extension",
-      "repo": "libredirect/browser_extension",
-      "kind": "extension",
-      "pitch": "A browser extension that redirects popular sites to alternative privacy friendly frontends",
+      "slug": "llm-god",
+      "name": "llm-god",
+      "repo": "czhou578/llm-god",
+      "kind": "app",
+      "pitch": "Desktop app to multi-prompt ChatGPT, Gemini and more at the same time!",
       "platforms": [
-        "Firefox",
-        "Chrome"
+        "Desktop"
       ],
       "categories": [
-        "Browser",
-        "Privacy"
+        "AI"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/libredirect/browser_extension",
+      "get_url": "https://github.com/czhou578/llm-god",
       "automated": true,
-      "selected_at": "2026-10-14T09:34:51+00:00",
-      "selection_reason": "proven · updated 1d ago · 124 contributors · 67 releases"
+      "selected_at": "2026-10-15T09:12:59+00:00",
+      "selection_reason": "proven · updated 15d ago · 3 contributors · 9 releases"
     }
   ],
-  "automatic_total": 56
+  "automatic_total": 57
 }

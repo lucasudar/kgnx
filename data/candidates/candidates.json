@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T09:34:51+00:00",
+  "generated_at": "2026-10-15T09:12:59+00:00",
   "screened": 108,
-  "published_already": 113,
+  "published_already": 114,
   "proposals": [
     {
       "kind": "app",
@@ -21,8 +21,8 @@
       ],
       "stars": 283,
       "stars_per_day": 0.35,
-      "age_days": 811,
-      "last_push_days": 14,
+      "age_days": 812,
+      "last_push_days": 15,
       "contributors": 3,
       "releases": 9,
       "commits": 118,
@@ -31,43 +31,6 @@
       "has_license": true,
       "maturity": "proven",
       "url": "https://github.com/czhou578/llm-god",
-      "needs": [
-        "pitch",
-        "platforms",
-        "categories",
-        "traits",
-        "install",
-        "get_url"
-      ]
-    },
-    {
-      "kind": "extension",
-      "repo": "libredirect/browser_extension",
-      "suggested_slug": "browser_extension",
-      "upstream_description": "A browser extension that redirects popular sites to alternative privacy friendly frontends",
-      "language": "JSON",
-      "topics": [
-        "bibliogram",
-        "chrome-extension",
-        "firefox-extension",
-        "invidious",
-        "libre",
-        "nitter",
-        "privacy",
-        "quora"
-      ],
-      "stars": 4079,
-      "stars_per_day": 2.3,
-      "age_days": 1775,
-      "last_push_days": 1,
-      "contributors": 124,
-      "releases": 67,
-      "commits": 2068,
-      "has_tests": true,
-      "has_ci": true,
-      "has_license": true,
-      "maturity": "proven",
-      "url": "https://github.com/libredirect/browser_extension",
       "needs": [
         "pitch",
         "platforms",
