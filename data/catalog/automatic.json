@@ -1318,5 +1318,29 @@
     "automated": true,
     "selected_at": "2026-10-15T09:12:59+00:00",
     "selection_reason": "proven · updated 15d ago · 3 contributors · 9 releases"
+  },
+  {
+    "slug": "remove-youtube-suggestions",
+    "name": "remove-youtube-suggestions",
+    "repo": "lawrencehook/remove-youtube-suggestions",
+    "kind": "extension",
+    "pitch": "A browser extension that lets you hide recommendations, customize the interface, and take control of your YouTube experience.",
+    "platforms": [
+      "Firefox",
+      "Chrome"
+    ],
+    "categories": [
+      "Browser",
+      "Productivity"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/lawrencehook/remove-youtube-suggestions",
+    "automated": true,
+    "selected_at": "2026-10-16T09:05:22+00:00",
+    "selection_reason": "proven · updated 4d ago · 15 contributors · 8 releases"
   }
 ]
