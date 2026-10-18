@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-10-17T08:38:27+00:00",
+  "generated_at": "2026-10-18T08:54:14+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "stackprism",
-      "name": "stackprism",
-      "repo": "setube/stackprism",
+      "slug": "tusk",
+      "name": "Tusk",
+      "repo": "subdavis/Tusk",
       "kind": "extension",
-      "pitch": "StackPrism is a browser extension for detecting website technology stacks.",
+      "pitch": "🐘 🔒 KeePass-compatible browser extension for filling passwords.",
       "platforms": [
         "Firefox",
         "Chrome"
       ],
       "categories": [
-        "Browser",
-        "Developer tools"
+        "Browser"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/setube/stackprism",
+      "get_url": "https://github.com/subdavis/Tusk",
       "automated": true,
-      "selected_at": "2026-10-17T08:38:27+00:00",
-      "selection_reason": "proven · updated 1d ago · 6 contributors · 20 releases"
+      "selected_at": "2026-10-18T08:54:14+00:00",
+      "selection_reason": "proven · updated 4d ago · 16 contributors · 13 releases"
     }
   ],
-  "automatic_total": 59
+  "automatic_total": 60
 }

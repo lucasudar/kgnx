@@ -1366,5 +1366,28 @@
     "automated": true,
     "selected_at": "2026-10-17T08:38:27+00:00",
     "selection_reason": "proven · updated 1d ago · 6 contributors · 20 releases"
+  },
+  {
+    "slug": "tusk",
+    "name": "Tusk",
+    "repo": "subdavis/Tusk",
+    "kind": "extension",
+    "pitch": "🐘 🔒 KeePass-compatible browser extension for filling passwords.",
+    "platforms": [
+      "Firefox",
+      "Chrome"
+    ],
+    "categories": [
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/subdavis/Tusk",
+    "automated": true,
+    "selected_at": "2026-10-18T08:54:14+00:00",
+    "selection_reason": "proven · updated 4d ago · 16 contributors · 13 releases"
   }
 ]

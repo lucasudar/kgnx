@@ -1,45 +1,8 @@
 {
-  "generated_at": "2026-10-17T08:38:27+00:00",
+  "generated_at": "2026-10-18T08:54:14+00:00",
   "screened": 104,
-  "published_already": 116,
+  "published_already": 117,
   "proposals": [
-    {
-      "kind": "extension",
-      "repo": "setube/stackprism",
-      "suggested_slug": "stackprism",
-      "upstream_description": "StackPrism is a browser extension for detecting website technology stacks.",
-      "language": "TypeScript",
-      "topics": [
-        "browser-extension",
-        "chrome-extension",
-        "developer-tools",
-        "edge-extension",
-        "firefox-extension",
-        "manifest-v3",
-        "stackprism",
-        "technology-stack"
-      ],
-      "stars": 1124,
-      "stars_per_day": 6.98,
-      "age_days": 161,
-      "last_push_days": 1,
-      "contributors": 6,
-      "releases": 20,
-      "commits": 472,
-      "has_tests": true,
-      "has_ci": true,
-      "has_license": true,
-      "maturity": "proven",
-      "url": "https://github.com/setube/stackprism",
-      "needs": [
-        "pitch",
-        "platforms",
-        "categories",
-        "traits",
-        "install",
-        "get_url"
-      ]
-    },
     {
       "kind": "extension",
       "repo": "subdavis/Tusk",
@@ -57,8 +20,8 @@
       ],
       "stars": 523,
       "stars_per_day": 0.15,
-      "age_days": 3573,
-      "last_push_days": 3,
+      "age_days": 3574,
+      "last_push_days": 4,
       "contributors": 16,
       "releases": 13,
       "commits": 598,
