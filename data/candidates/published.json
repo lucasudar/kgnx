@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-10-18T08:54:14+00:00",
+  "generated_at": "2026-10-19T10:00:16+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "tusk",
-      "name": "Tusk",
-      "repo": "subdavis/Tusk",
-      "kind": "extension",
-      "pitch": "🐘 🔒 KeePass-compatible browser extension for filling passwords.",
+      "slug": "kanri",
+      "name": "kanri",
+      "repo": "kanriapp/kanri",
+      "kind": "app",
+      "pitch": "Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.",
       "platforms": [
-        "Firefox",
-        "Chrome"
+        "macOS",
+        "Windows",
+        "Linux"
       ],
       "categories": [
-        "Browser"
+        "Productivity"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/subdavis/Tusk",
+      "get_url": "https://github.com/kanriapp/kanri",
       "automated": true,
-      "selected_at": "2026-10-18T08:54:14+00:00",
-      "selection_reason": "proven · updated 4d ago · 16 contributors · 13 releases"
+      "selected_at": "2026-10-19T10:00:16+00:00",
+      "selection_reason": "proven · updated 1d ago · 27 contributors · 25 releases"
     }
   ],
-  "automatic_total": 60
+  "automatic_total": 61
 }

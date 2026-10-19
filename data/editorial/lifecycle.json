@@ -252,10 +252,10 @@
     "generation": 1
   },
   "halp": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-18T09:03:42+00:00",
     "active_until": "2026-10-18T09:03:42+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-19T10:00:16+00:00",
     "generation": 1
   },
   "hammerspoon": {
@@ -340,6 +340,13 @@
     "published_at": "2026-08-20T18:18:47+00:00",
     "active_until": "2026-09-19T18:18:47+00:00",
     "archived_at": "2026-09-20T09:20:03+00:00",
+    "generation": 1
+  },
+  "kanri": {
+    "status": "active",
+    "published_at": "2026-10-19T10:00:16+00:00",
+    "active_until": "2026-11-18T10:00:16+00:00",
+    "archived_at": null,
     "generation": 1
   },
   "kaset": {
@@ -574,10 +581,10 @@
     "generation": 1
   },
   "pulse": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-19T08:51:24+00:00",
     "active_until": "2026-10-19T08:51:24+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-19T10:00:16+00:00",
     "generation": 1
   },
   "rclone": {
