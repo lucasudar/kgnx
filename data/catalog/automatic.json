@@ -1438,5 +1438,29 @@
     "automated": true,
     "selected_at": "2026-10-23T09:24:47+00:00",
     "selection_reason": "proven · updated 1d ago · 7 contributors · 33 releases"
+  },
+  {
+    "slug": "mlx-serve",
+    "name": "mlx-serve",
+    "repo": "ddalcu/mlx-serve",
+    "kind": "app",
+    "pitch": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
+    "platforms": [
+      "macOS"
+    ],
+    "categories": [
+      "AI",
+      "Developer tools",
+      "Media"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/ddalcu/mlx-serve",
+    "automated": true,
+    "selected_at": "2026-10-24T08:56:09+00:00",
+    "selection_reason": "proven · updated 1d ago · 70 contributors · 83 releases"
   }
 ]

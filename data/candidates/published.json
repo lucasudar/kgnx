@@ -1,32 +1,31 @@
 {
-  "generated_at": "2026-10-23T09:24:47+00:00",
+  "generated_at": "2026-10-24T08:56:09+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "ai-novel-writer",
-      "name": "AI-Novel-Writer",
-      "repo": "EthanYoQ/AI-Novel-Writer",
+      "slug": "mlx-serve",
+      "name": "mlx-serve",
+      "repo": "ddalcu/mlx-serve",
       "kind": "app",
-      "pitch": "书童 Pagekin（原名 AI 小说作家）：开源免费的 AI 长篇小说写作桌面软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for…",
+      "pitch": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "platforms": [
-        "macOS",
-        "Windows"
+        "macOS"
       ],
       "categories": [
         "AI",
-        "Privacy",
-        "Productivity"
+        "Developer tools",
+        "Media"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+      "get_url": "https://github.com/ddalcu/mlx-serve",
       "automated": true,
-      "selected_at": "2026-10-23T09:24:47+00:00",
-      "selection_reason": "proven · updated 1d ago · 7 contributors · 33 releases"
+      "selected_at": "2026-10-24T08:56:09+00:00",
+      "selection_reason": "proven · updated 1d ago · 70 contributors · 83 releases"
     }
   ],
-  "automatic_total": 62
+  "automatic_total": 63
 }
