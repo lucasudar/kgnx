@@ -651,10 +651,10 @@
     "generation": 1
   },
   "scriptcat": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-09-24T09:21:50+00:00",
     "active_until": "2026-10-24T09:21:50+00:00",
-    "archived_at": null,
+    "archived_at": "2026-10-25T09:12:43+00:00",
     "generation": 1
   },
   "searxng": {
