@@ -1,6 +1,29 @@
 {
-  "generated_at": "2026-10-25T09:12:43+00:00",
-  "new_count": 0,
-  "new_tools": [],
-  "automatic_total": 63
+  "generated_at": "2026-10-26T10:14:15+00:00",
+  "new_count": 1,
+  "new_tools": [
+    {
+      "slug": "youplot",
+      "name": "YouPlot",
+      "repo": "red-data-tools/YouPlot",
+      "kind": "cli",
+      "pitch": "A command line tool that draw plots on the terminal.",
+      "platforms": [
+        "Terminal"
+      ],
+      "categories": [
+        "Terminal"
+      ],
+      "traits": [
+        "Open source",
+        "Actively maintained",
+        "Tests + CI"
+      ],
+      "get_url": "https://github.com/red-data-tools/YouPlot",
+      "automated": true,
+      "selected_at": "2026-10-26T10:14:15+00:00",
+      "selection_reason": "proven · updated 1d ago · 11 contributors · 12 releases"
+    }
+  ],
+  "automatic_total": 64
 }

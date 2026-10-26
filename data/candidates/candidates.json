@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-25T09:12:43+00:00",
-  "screened": 105,
+  "generated_at": "2026-10-26T10:14:15+00:00",
+  "screened": 103,
   "published_already": 121,
-  "proposals": []
+  "proposals": [
+    {
+      "kind": "cli",
+      "repo": "red-data-tools/YouPlot",
+      "suggested_slug": "youplot",
+      "upstream_description": "A command line tool that draw plots on the terminal.",
+      "language": "Ruby",
+      "topics": [
+        "cli",
+        "csv",
+        "ruby",
+        "terminal",
+        "tsv",
+        "tui",
+        "visualization"
+      ],
+      "stars": 4874,
+      "stars_per_day": 2.14,
+      "age_days": 2280,
+      "last_push_days": 1,
+      "contributors": 11,
+      "releases": 12,
+      "commits": 433,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/red-data-tools/YouPlot",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    }
+  ]
 }
