@@ -1484,5 +1484,30 @@
     "automated": true,
     "selected_at": "2026-10-26T10:14:15+00:00",
     "selection_reason": "proven · updated 1d ago · 11 contributors · 12 releases"
+  },
+  {
+    "slug": "teampass",
+    "name": "TeamPass",
+    "repo": "nilsteampassnet/TeamPass",
+    "kind": "service",
+    "pitch": "Self-hosted collaborative password manager for teams: folder-level access control, AES-256-GCM encryption, LDAP/AD, OAuth2 SSO, audit trail, REST API, browser extension. PHP/MySQL, Docker.",
+    "platforms": [
+      "Self-hosted",
+      "Docker"
+    ],
+    "categories": [
+      "Browser",
+      "Developer tools",
+      "Self-hosted"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/nilsteampassnet/TeamPass",
+    "automated": true,
+    "selected_at": "2026-10-27T09:52:29+00:00",
+    "selection_reason": "proven · updated 1d ago · 55 contributors · 228 releases"
   }
 ]
