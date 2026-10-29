@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-10-28T10:39:10+00:00",
+  "generated_at": "2026-10-29T10:57:27+00:00",
   "screened": 107,
-  "published_already": 123,
-  "proposals": [
-    {
-      "kind": "service",
-      "repo": "marvinvr/docktail",
-      "suggested_slug": "docktail",
-      "upstream_description": "Label-based Tailscale Services for Docker containers",
-      "language": "Go",
-      "topics": [
-        "containers",
-        "docker",
-        "golang",
-        "homelab",
-        "monitoring",
-        "reverse-proxy",
-        "self-hosted",
-        "tailscale"
-      ],
-      "stars": 1342,
-      "stars_per_day": 3.88,
-      "age_days": 346,
-      "last_push_days": 1,
-      "contributors": 6,
-      "releases": 15,
-      "commits": 199,
-      "has_tests": true,
-      "has_ci": true,
-      "has_license": true,
-      "maturity": "proven",
-      "url": "https://github.com/marvinvr/docktail",
-      "needs": [
-        "pitch",
-        "platforms",
-        "categories",
-        "traits",
-        "install",
-        "get_url"
-      ]
-    }
-  ]
+  "published_already": 124,
+  "proposals": []
 }

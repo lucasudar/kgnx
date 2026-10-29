@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-10-28T10:39:10+00:00",
-  "new_count": 1,
-  "new_tools": [
-    {
-      "slug": "docktail",
-      "name": "docktail",
-      "repo": "marvinvr/docktail",
-      "kind": "service",
-      "pitch": "Label-based Tailscale Services for Docker containers",
-      "platforms": [
-        "Self-hosted",
-        "Docker"
-      ],
-      "categories": [
-        "Networking",
-        "Self-hosted",
-        "System"
-      ],
-      "traits": [
-        "Open source",
-        "Actively maintained",
-        "Tests + CI"
-      ],
-      "get_url": "https://github.com/marvinvr/docktail",
-      "automated": true,
-      "selected_at": "2026-10-28T10:39:10+00:00",
-      "selection_reason": "proven · updated 1d ago · 6 contributors · 15 releases"
-    }
-  ],
+  "generated_at": "2026-10-29T10:57:27+00:00",
+  "new_count": 0,
+  "new_tools": [],
   "automatic_total": 66
 }
