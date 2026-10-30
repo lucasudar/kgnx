@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-29T10:57:27+00:00",
-  "screened": 107,
+  "generated_at": "2026-10-30T10:55:23+00:00",
+  "screened": 106,
   "published_already": 124,
-  "proposals": []
+  "proposals": [
+    {
+      "kind": "app",
+      "repo": "zhukunpenglinyutong/desktop-cc-gui",
+      "suggested_slug": "desktop-cc-gui",
+      "upstream_description": "Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.",
+      "language": "TypeScript",
+      "topics": [
+        "ai-coding",
+        "claude-code",
+        "codex",
+        "deepseek-harness",
+        "desktop-app",
+        "dsh",
+        "tauri",
+        "vibe-coding"
+      ],
+      "stars": 4549,
+      "stars_per_day": 16.97,
+      "age_days": 268,
+      "last_push_days": 1,
+      "contributors": 31,
+      "releases": 129,
+      "commits": 6323,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    }
+  ]
 }

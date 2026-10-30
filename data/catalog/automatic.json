@@ -1534,5 +1534,29 @@
     "automated": true,
     "selected_at": "2026-10-28T10:39:10+00:00",
     "selection_reason": "proven · updated 1d ago · 6 contributors · 15 releases"
+  },
+  {
+    "slug": "desktop-cc-gui",
+    "name": "desktop-cc-gui",
+    "repo": "zhukunpenglinyutong/desktop-cc-gui",
+    "kind": "app",
+    "pitch": "Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.",
+    "platforms": [
+      "Desktop"
+    ],
+    "categories": [
+      "AI",
+      "Developer tools",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+    "automated": true,
+    "selected_at": "2026-10-30T10:55:23+00:00",
+    "selection_reason": "proven · updated 1d ago · 31 contributors · 129 releases"
   }
 ]
