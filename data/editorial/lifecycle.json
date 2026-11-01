@@ -84,10 +84,10 @@
     "generation": 1
   },
   "better-deepseek": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-01T11:01:15+00:00",
     "active_until": "2026-10-31T11:01:15+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-01T11:20:40+00:00",
     "generation": 1
   },
   "better-shot": {
@@ -161,10 +161,10 @@
     "generation": 1
   },
   "competitive-companion": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-02T10:34:04+00:00",
     "active_until": "2026-11-01T10:34:04+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-01T11:20:40+00:00",
     "generation": 1
   },
   "convertx": {
