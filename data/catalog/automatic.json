@@ -1558,5 +1558,27 @@
     "automated": true,
     "selected_at": "2026-10-30T10:55:23+00:00",
     "selection_reason": "proven · updated 1d ago · 31 contributors · 129 releases"
+  },
+  {
+    "slug": "sad",
+    "name": "sad",
+    "repo": "ms-jpq/sad",
+    "kind": "cli",
+    "pitch": "CLI search and replace | Space Age seD",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/ms-jpq/sad",
+    "automated": true,
+    "selected_at": "2026-11-03T12:00:43+00:00",
+    "selection_reason": "proven · updated 1d ago · 12 contributors · 43 releases"
   }
 ]

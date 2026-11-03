@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-02T12:33:21+00:00",
-  "screened": 112,
+  "generated_at": "2026-11-03T12:00:43+00:00",
+  "screened": 115,
   "published_already": 125,
-  "proposals": []
+  "proposals": [
+    {
+      "kind": "cli",
+      "repo": "ms-jpq/sad",
+      "suggested_slug": "sad",
+      "upstream_description": "CLI search and replace | Space Age seD",
+      "language": "Rust",
+      "topics": [
+        "cli",
+        "command-line",
+        "diff",
+        "editing",
+        "fzf",
+        "rust",
+        "sed",
+        "terminal"
+      ],
+      "stars": 2050,
+      "stars_per_day": 0.87,
+      "age_days": 2369,
+      "last_push_days": 1,
+      "contributors": 12,
+      "releases": 43,
+      "commits": 2091,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/ms-jpq/sad",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    }
+  ]
 }
