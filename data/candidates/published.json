@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-11-03T12:00:43+00:00",
+  "generated_at": "2026-11-04T12:15:14+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "sad",
-      "name": "sad",
-      "repo": "ms-jpq/sad",
-      "kind": "cli",
-      "pitch": "CLI search and replace | Space Age seD",
+      "slug": "geopulse",
+      "name": "geopulse",
+      "repo": "tess1o/geopulse",
+      "kind": "service",
+      "pitch": "A self-hosted location timeline platform and Google Timeline alternative. Lightweight, features automatic trip detection, rich analytics, and Immich integration.",
       "platforms": [
-        "Terminal"
+        "Self-hosted",
+        "Docker"
       ],
       "categories": [
-        "Terminal"
+        "Self-hosted"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/ms-jpq/sad",
+      "get_url": "https://github.com/tess1o/geopulse",
       "automated": true,
-      "selected_at": "2026-11-03T12:00:43+00:00",
-      "selection_reason": "proven · updated 1d ago · 12 contributors · 43 releases"
+      "selected_at": "2026-11-04T12:15:14+00:00",
+      "selection_reason": "proven · updated 1d ago · 15 contributors · 85 releases"
     }
   ],
-  "automatic_total": 68
+  "automatic_total": 69
 }
