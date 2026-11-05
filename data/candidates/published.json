@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-11-04T12:15:14+00:00",
-  "new_count": 1,
-  "new_tools": [
-    {
-      "slug": "geopulse",
-      "name": "geopulse",
-      "repo": "tess1o/geopulse",
-      "kind": "service",
-      "pitch": "A self-hosted location timeline platform and Google Timeline alternative. Lightweight, features automatic trip detection, rich analytics, and Immich integration.",
-      "platforms": [
-        "Self-hosted",
-        "Docker"
-      ],
-      "categories": [
-        "Self-hosted"
-      ],
-      "traits": [
-        "Open source",
-        "Actively maintained",
-        "Tests + CI"
-      ],
-      "get_url": "https://github.com/tess1o/geopulse",
-      "automated": true,
-      "selected_at": "2026-11-04T12:15:14+00:00",
-      "selection_reason": "proven · updated 1d ago · 15 contributors · 85 releases"
-    }
-  ],
+  "generated_at": "2026-11-05T12:28:24+00:00",
+  "new_count": 0,
+  "new_tools": [],
   "automatic_total": 69
 }
