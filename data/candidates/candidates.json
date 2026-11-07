@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-11-06T12:11:46+00:00",
+  "generated_at": "2026-11-07T11:08:50+00:00",
   "screened": 113,
-  "published_already": 127,
-  "proposals": [
-    {
-      "kind": "service",
-      "repo": "ajnart/self-host",
-      "suggested_slug": "self-host",
-      "upstream_description": "Replace the SaaS you pay for. One binary installs and runs self-hosted apps at home, no Docker knowledge needed. Terminal dashboard for you, plain commands for your agent.",
-      "language": "Go",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "docker-compose",
-        "golang",
-        "homarr",
-        "home-assistant"
-      ],
-      "stars": 1510,
-      "stars_per_day": 2.53,
-      "age_days": 597,
-      "last_push_days": 1,
-      "contributors": 10,
-      "releases": 47,
-      "commits": 1913,
-      "has_tests": true,
-      "has_ci": true,
-      "has_license": true,
-      "maturity": "proven",
-      "url": "https://github.com/ajnart/self-host",
-      "needs": [
-        "pitch",
-        "platforms",
-        "categories",
-        "traits",
-        "install",
-        "get_url"
-      ]
-    }
-  ]
+  "published_already": 128,
+  "proposals": []
 }

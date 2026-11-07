@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-11-06T12:11:46+00:00",
-  "new_count": 1,
-  "new_tools": [
-    {
-      "slug": "self-host",
-      "name": "self-host",
-      "repo": "ajnart/self-host",
-      "kind": "service",
-      "pitch": "Replace the SaaS you pay for. One binary installs and runs self-hosted apps at home, no Docker knowledge needed. Terminal dashboard for you, plain commands for your agent.",
-      "platforms": [
-        "Self-hosted",
-        "Docker"
-      ],
-      "categories": [
-        "AI",
-        "Developer tools",
-        "Self-hosted"
-      ],
-      "traits": [
-        "Open source",
-        "Actively maintained",
-        "Tests + CI"
-      ],
-      "get_url": "https://github.com/ajnart/self-host",
-      "automated": true,
-      "selected_at": "2026-11-06T12:11:46+00:00",
-      "selection_reason": "proven · updated 1d ago · 10 contributors · 47 releases"
-    }
-  ],
+  "generated_at": "2026-11-07T11:08:50+00:00",
+  "new_count": 0,
+  "new_tools": [],
   "automatic_total": 70
 }
