@@ -175,10 +175,10 @@
     "generation": 1
   },
   "cookie-editor": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-10T10:40:05+00:00",
     "active_until": "2026-11-09T10:40:05+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-09T12:59:15+00:00",
     "generation": 1
   },
   "coteditor": {
@@ -294,10 +294,10 @@
     "generation": 1
   },
   "haven": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-08T11:26:38+00:00",
     "active_until": "2026-11-07T11:26:38+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-09T12:59:15+00:00",
     "generation": 1
   },
   "helix": {
@@ -462,10 +462,10 @@
     "generation": 1
   },
   "marvelloussuspender": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-09T11:23:21+00:00",
     "active_until": "2026-11-08T11:23:21+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-09T12:59:15+00:00",
     "generation": 1
   },
   "mcp-local-rag": {
