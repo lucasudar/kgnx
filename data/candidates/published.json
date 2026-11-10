@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-11-09T12:59:14+00:00",
-  "new_count": 0,
-  "new_tools": [],
-  "automatic_total": 70
+  "generated_at": "2026-11-10T12:44:33+00:00",
+  "new_count": 1,
+  "new_tools": [
+    {
+      "slug": "pagekin",
+      "name": "Pagekin",
+      "repo": "EthanYoQ/Pagekin",
+      "kind": "app",
+      "pitch": "Pagekin，免费 AI 小说写作软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for long novels and web…",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "categories": [
+        "AI",
+        "Privacy",
+        "Productivity"
+      ],
+      "traits": [
+        "Open source",
+        "Actively maintained",
+        "Tests + CI"
+      ],
+      "get_url": "https://github.com/EthanYoQ/Pagekin",
+      "automated": true,
+      "selected_at": "2026-11-10T12:44:33+00:00",
+      "selection_reason": "proven · updated 1d ago · 9 contributors · 34 releases"
+    }
+  ],
+  "automatic_total": 71
 }
