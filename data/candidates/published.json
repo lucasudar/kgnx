@@ -1,32 +1,30 @@
 {
-  "generated_at": "2026-11-10T12:44:33+00:00",
+  "generated_at": "2026-11-11T11:56:41+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "pagekin",
-      "name": "Pagekin",
-      "repo": "EthanYoQ/Pagekin",
+      "slug": "cartcut",
+      "name": "cartcut",
+      "repo": "cartesiancs/cartcut",
       "kind": "app",
-      "pitch": "Pagekin，免费 AI 小说写作软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for long novels and web…",
+      "pitch": "Video Editor for AI agents, built on the belief that open source can beat commercial tools",
       "platforms": [
-        "macOS",
-        "Windows"
+        "macOS"
       ],
       "categories": [
         "AI",
-        "Privacy",
-        "Productivity"
+        "Media"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/EthanYoQ/Pagekin",
+      "get_url": "https://github.com/cartesiancs/cartcut",
       "automated": true,
-      "selected_at": "2026-11-10T12:44:33+00:00",
-      "selection_reason": "proven · updated 1d ago · 9 contributors · 34 releases"
+      "selected_at": "2026-11-11T11:56:41+00:00",
+      "selection_reason": "proven · updated 2d ago · 6 contributors · 19 releases"
     }
   ],
-  "automatic_total": 71
+  "automatic_total": 72
 }

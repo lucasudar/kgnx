@@ -1,45 +1,8 @@
 {
-  "generated_at": "2026-11-10T12:44:33+00:00",
-  "screened": 115,
-  "published_already": 128,
+  "generated_at": "2026-11-11T11:56:41+00:00",
+  "screened": 114,
+  "published_already": 129,
   "proposals": [
-    {
-      "kind": "app",
-      "repo": "EthanYoQ/Pagekin",
-      "suggested_slug": "pagekin",
-      "upstream_description": "Pagekin，免费 AI 小说写作软件，从设定、蓝图到正文、审稿、定稿；支持拆解仿写、续写、改写，可导入写作 Skill（如去 AI 味）。模型需自行配置，作品在本地。Pagekin (formerly AI Novel Writer): free, open-source AI novel writing app for long novels and web fiction. Imitate, continue, rewrite; import writing skills. Local-first, no model bundled. Windows & macOS.",
-      "language": "TypeScript",
-      "topics": [
-        "ai-novel",
-        "ai-writing",
-        "ai-writing-assistant",
-        "chinese",
-        "creative-writing",
-        "deepseek",
-        "desktop-app",
-        "electron"
-      ],
-      "stars": 2541,
-      "stars_per_day": 17.89,
-      "age_days": 142,
-      "last_push_days": 1,
-      "contributors": 9,
-      "releases": 34,
-      "commits": 3591,
-      "has_tests": true,
-      "has_ci": true,
-      "has_license": true,
-      "maturity": "proven",
-      "url": "https://github.com/EthanYoQ/Pagekin",
-      "needs": [
-        "pitch",
-        "platforms",
-        "categories",
-        "traits",
-        "install",
-        "get_url"
-      ]
-    },
     {
       "kind": "app",
       "repo": "cartesiancs/cartcut",
@@ -55,10 +18,10 @@
         "typescript",
         "video-editor"
       ],
-      "stars": 830,
+      "stars": 831,
       "stars_per_day": 0.54,
-      "age_days": 1536,
-      "last_push_days": 1,
+      "age_days": 1537,
+      "last_push_days": 2,
       "contributors": 6,
       "releases": 19,
       "commits": 1063,
