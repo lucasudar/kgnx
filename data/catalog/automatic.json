@@ -1676,5 +1676,29 @@
     "automated": true,
     "selected_at": "2026-11-11T11:56:41+00:00",
     "selection_reason": "proven · updated 2d ago · 6 contributors · 19 releases"
+  },
+  {
+    "slug": "agent-desktop",
+    "name": "agent-desktop",
+    "repo": "vercel-labs/agent-desktop",
+    "kind": "cli",
+    "pitch": "Computer use CLI for AI agents",
+    "platforms": [
+      "Terminal"
+    ],
+    "categories": [
+      "AI",
+      "Automation",
+      "Developer tools"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/vercel-labs/agent-desktop",
+    "automated": true,
+    "selected_at": "2026-11-12T12:51:46+00:00",
+    "selection_reason": "proven · updated 1d ago · 10 contributors · 49 releases"
   }
 ]
