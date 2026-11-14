@@ -455,10 +455,10 @@
     "generation": 1
   },
   "llm-god": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-15T09:12:59+00:00",
     "active_until": "2026-11-14T09:12:59+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-14T11:35:16+00:00",
     "generation": 1
   },
   "localsend": {
