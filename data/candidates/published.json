@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-11-14T11:35:16+00:00",
-  "new_count": 0,
-  "new_tools": [],
-  "automatic_total": 73
+  "generated_at": "2026-11-15T12:00:33+00:00",
+  "new_count": 1,
+  "new_tools": [
+    {
+      "slug": "desktop",
+      "name": "desktop",
+      "repo": "nextcloud/desktop",
+      "kind": "app",
+      "pitch": "💻 Desktop sync client for Nextcloud",
+      "platforms": [
+        "macOS",
+        "Linux"
+      ],
+      "categories": [
+        "Backup",
+        "Terminal"
+      ],
+      "traits": [
+        "Open source",
+        "Actively maintained",
+        "Tests + CI"
+      ],
+      "get_url": "https://github.com/nextcloud/desktop",
+      "automated": true,
+      "selected_at": "2026-11-15T12:00:33+00:00",
+      "selection_reason": "proven · updated 1d ago · 294 contributors · 195 releases"
+    }
+  ],
+  "automatic_total": 74
 }
