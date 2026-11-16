@@ -735,10 +735,10 @@
     "generation": 1
   },
   "stackprism": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-17T08:38:27+00:00",
     "active_until": "2026-11-16T08:38:27+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-16T12:52:17+00:00",
     "generation": 1
   },
   "starship": {

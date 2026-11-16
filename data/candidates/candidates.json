@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-11-15T12:00:33+00:00",
-  "screened": 111,
-  "published_already": 131,
-  "proposals": [
-    {
-      "kind": "app",
-      "repo": "nextcloud/desktop",
-      "suggested_slug": "desktop",
-      "upstream_description": "💻 Desktop sync client for Nextcloud",
-      "language": "C++",
-      "topics": [
-        "c-plus-plus",
-        "cpp",
-        "desktop",
-        "hacktoberfest",
-        "linux",
-        "macos",
-        "nextcloud",
-        "nextcloud-desktop-client"
-      ],
-      "stars": 3964,
-      "stars_per_day": 1.19,
-      "age_days": 3336,
-      "last_push_days": 1,
-      "contributors": 294,
-      "releases": 195,
-      "commits": 28588,
-      "has_tests": true,
-      "has_ci": true,
-      "has_license": true,
-      "maturity": "proven",
-      "url": "https://github.com/nextcloud/desktop",
-      "needs": [
-        "pitch",
-        "platforms",
-        "categories",
-        "traits",
-        "install",
-        "get_url"
-      ]
-    }
-  ]
+  "generated_at": "2026-11-16T12:52:17+00:00",
+  "screened": 110,
+  "published_already": 132,
+  "proposals": []
 }
