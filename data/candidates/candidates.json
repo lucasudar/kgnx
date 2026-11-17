@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-16T12:52:17+00:00",
-  "screened": 110,
+  "generated_at": "2026-11-17T13:34:19+00:00",
+  "screened": 113,
   "published_already": 132,
-  "proposals": []
+  "proposals": [
+    {
+      "kind": "app",
+      "repo": "DemonDamon/AgenticX",
+      "suggested_slug": "agenticx",
+      "upstream_description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "language": "Python",
+      "topics": [
+        "agent-framework",
+        "agentic-workflows",
+        "ai-agent",
+        "ai-orchestration",
+        "chatbot",
+        "desktop-app",
+        "electron",
+        "fastapi"
+      ],
+      "stars": 1113,
+      "stars_per_day": 1.14,
+      "age_days": 977,
+      "last_push_days": 1,
+      "contributors": 10,
+      "releases": 13,
+      "commits": 3993,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/DemonDamon/AgenticX",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    },
+    {
+      "kind": "extension",
+      "repo": "gdh1995/vimium-c",
+      "suggested_slug": "vimium-c",
+      "upstream_description": "A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar",
+      "language": "TypeScript",
+      "topics": [
+        "chrome-extension",
+        "edge-extension",
+        "firefox-webextension",
+        "keyboard-assistance",
+        "keyboard-shortcut",
+        "vimium",
+        "webextension"
+      ],
+      "stars": 4664,
+      "stars_per_day": 1.08,
+      "age_days": 4317,
+      "last_push_days": 1,
+      "contributors": 20,
+      "releases": 50,
+      "commits": 10407,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/gdh1995/vimium-c",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    }
+  ]
 }

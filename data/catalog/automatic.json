@@ -1724,5 +1724,28 @@
     "automated": true,
     "selected_at": "2026-11-15T12:00:33+00:00",
     "selection_reason": "proven · updated 1d ago · 294 contributors · 195 releases"
+  },
+  {
+    "slug": "vimium-c",
+    "name": "vimium-c",
+    "repo": "gdh1995/vimium-c",
+    "kind": "extension",
+    "pitch": "A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar",
+    "platforms": [
+      "Firefox",
+      "Chrome"
+    ],
+    "categories": [
+      "Browser"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/gdh1995/vimium-c",
+    "automated": true,
+    "selected_at": "2026-11-17T13:34:19+00:00",
+    "selection_reason": "proven · updated 1d ago · 20 contributors · 50 releases"
   }
 ]
