@@ -392,10 +392,10 @@
     "generation": 1
   },
   "kanri": {
-    "status": "active",
+    "status": "archived",
     "published_at": "2026-10-19T10:00:16+00:00",
     "active_until": "2026-11-18T10:00:16+00:00",
-    "archived_at": null,
+    "archived_at": "2026-11-18T13:10:27+00:00",
     "generation": 1
   },
   "kaset": {
