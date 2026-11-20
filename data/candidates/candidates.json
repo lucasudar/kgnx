@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-11-19T13:23:07+00:00",
-  "screened": 112,
+  "generated_at": "2026-11-20T13:03:05+00:00",
+  "screened": 114,
   "published_already": 133,
-  "proposals": []
+  "proposals": [
+    {
+      "kind": "app",
+      "repo": "DemonDamon/AgenticX",
+      "suggested_slug": "agenticx",
+      "upstream_description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "language": "Python",
+      "topics": [
+        "agent-framework",
+        "agentic-workflows",
+        "ai-agent",
+        "ai-orchestration",
+        "chatbot",
+        "desktop-app",
+        "electron",
+        "fastapi"
+      ],
+      "stars": 1123,
+      "stars_per_day": 1.15,
+      "age_days": 980,
+      "last_push_days": 1,
+      "contributors": 10,
+      "releases": 13,
+      "commits": 3994,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/DemonDamon/AgenticX",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    },
+    {
+      "kind": "service",
+      "repo": "ulsklyc/yuvomi",
+      "suggested_slug": "yuvomi",
+      "upstream_description": "One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT.",
+      "language": "JavaScript",
+      "topics": [
+        "calendar",
+        "docker",
+        "family",
+        "family-planner",
+        "home-assistant",
+        "household",
+        "meal-planning",
+        "open-source"
+      ],
+      "stars": 2416,
+      "stars_per_day": 10.02,
+      "age_days": 241,
+      "last_push_days": 1,
+      "contributors": 49,
+      "releases": 917,
+      "commits": 4836,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/ulsklyc/yuvomi",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    }
+  ]
 }

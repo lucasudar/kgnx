@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-11-19T13:23:07+00:00",
-  "new_count": 0,
-  "new_tools": [],
-  "automatic_total": 75
+  "generated_at": "2026-11-20T13:03:05+00:00",
+  "new_count": 1,
+  "new_tools": [
+    {
+      "slug": "agenticx",
+      "name": "AgenticX",
+      "repo": "DemonDamon/AgenticX",
+      "kind": "app",
+      "pitch": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub…",
+      "platforms": [
+        "Desktop"
+      ],
+      "categories": [
+        "AI",
+        "Automation",
+        "Developer tools"
+      ],
+      "traits": [
+        "Open source",
+        "Actively maintained",
+        "Tests + CI"
+      ],
+      "get_url": "https://github.com/DemonDamon/AgenticX",
+      "automated": true,
+      "selected_at": "2026-11-20T13:03:05+00:00",
+      "selection_reason": "proven · updated 1d ago · 10 contributors · 13 releases"
+    }
+  ],
+  "automatic_total": 76
 }
