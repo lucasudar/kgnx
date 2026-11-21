@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-11-20T13:03:05+00:00",
+  "generated_at": "2026-11-21T12:46:09+00:00",
   "new_count": 1,
   "new_tools": [
     {
-      "slug": "agenticx",
-      "name": "AgenticX",
-      "repo": "DemonDamon/AgenticX",
-      "kind": "app",
-      "pitch": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub…",
+      "slug": "yuvomi",
+      "name": "yuvomi",
+      "repo": "ulsklyc/yuvomi",
+      "kind": "service",
+      "pitch": "One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker…",
       "platforms": [
-        "Desktop"
+        "Self-hosted",
+        "Docker"
       ],
       "categories": [
-        "AI",
-        "Automation",
-        "Developer tools"
+        "Self-hosted"
       ],
       "traits": [
         "Open source",
         "Actively maintained",
         "Tests + CI"
       ],
-      "get_url": "https://github.com/DemonDamon/AgenticX",
+      "get_url": "https://github.com/ulsklyc/yuvomi",
       "automated": true,
-      "selected_at": "2026-11-20T13:03:05+00:00",
-      "selection_reason": "proven · updated 1d ago · 10 contributors · 13 releases"
+      "selected_at": "2026-11-21T12:46:09+00:00",
+      "selection_reason": "proven · updated 2d ago · 49 contributors · 917 releases"
     }
   ],
-  "automatic_total": 76
+  "automatic_total": 77
 }
