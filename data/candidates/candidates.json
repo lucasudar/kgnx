@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-11-21T12:46:09+00:00",
-  "screened": 113,
-  "published_already": 134,
-  "proposals": [
-    {
-      "kind": "service",
-      "repo": "ulsklyc/yuvomi",
-      "suggested_slug": "yuvomi",
-      "upstream_description": "One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT.",
-      "language": "JavaScript",
-      "topics": [
-        "calendar",
-        "docker",
-        "family",
-        "family-planner",
-        "home-assistant",
-        "household",
-        "meal-planning",
-        "open-source"
-      ],
-      "stars": 2431,
-      "stars_per_day": 10.09,
-      "age_days": 241,
-      "last_push_days": 2,
-      "contributors": 49,
-      "releases": 917,
-      "commits": 4836,
-      "has_tests": true,
-      "has_ci": true,
-      "has_license": true,
-      "maturity": "proven",
-      "url": "https://github.com/ulsklyc/yuvomi",
-      "needs": [
-        "pitch",
-        "platforms",
-        "categories",
-        "traits",
-        "install",
-        "get_url"
-      ]
-    }
-  ]
+  "generated_at": "2026-11-22T12:40:40+00:00",
+  "screened": 114,
+  "published_already": 135,
+  "proposals": []
 }
