@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-25T14:31:33+00:00",
-  "screened": 119,
+  "generated_at": "2026-11-27T13:58:28+00:00",
+  "screened": 118,
   "published_already": 135,
-  "proposals": []
+  "proposals": [
+    {
+      "kind": "cli",
+      "repo": "made-in-common/taze",
+      "suggested_slug": "taze",
+      "upstream_description": "🥦 A modern cli tool that keeps your deps fresh",
+      "language": "TypeScript",
+      "topics": [
+        "cli-tool",
+        "dependencies",
+        "updates"
+      ],
+      "stars": 4298,
+      "stars_per_day": 1.85,
+      "age_days": 2319,
+      "last_push_days": 2,
+      "contributors": 82,
+      "releases": 99,
+      "commits": 500,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/made-in-common/taze",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    },
+    {
+      "kind": "service",
+      "repo": "ZimengXiong/ExcaliDash",
+      "suggested_slug": "excalidash",
+      "upstream_description": "Self-hosted Excalidraw workspace and Excalidraw+ alternative with saved drawings, collections, real-time collaboration, and OIDC SSO in Docker Compose.",
+      "language": "TypeScript",
+      "topics": [
+        "collaboration",
+        "diagrams",
+        "docker-compose",
+        "excalidash",
+        "excalidraw",
+        "excalidraw-alternative",
+        "excalidraw-platform",
+        "excalidraw-plus-alternative"
+      ],
+      "stars": 1840,
+      "stars_per_day": 4.97,
+      "age_days": 370,
+      "last_push_days": 1,
+      "contributors": 19,
+      "releases": 67,
+      "commits": 395,
+      "has_tests": true,
+      "has_ci": true,
+      "has_license": true,
+      "maturity": "proven",
+      "url": "https://github.com/ZimengXiong/ExcaliDash",
+      "needs": [
+        "pitch",
+        "platforms",
+        "categories",
+        "traits",
+        "install",
+        "get_url"
+      ]
+    }
+  ]
 }
