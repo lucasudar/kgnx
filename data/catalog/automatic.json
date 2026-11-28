@@ -1818,5 +1818,30 @@
     "automated": true,
     "selected_at": "2026-11-27T13:58:28+00:00",
     "selection_reason": "proven · updated 1d ago · 19 contributors · 67 releases"
+  },
+  {
+    "slug": "tubehaus",
+    "name": "tubehaus",
+    "repo": "biolend83/tubehaus",
+    "kind": "service",
+    "pitch": "A private YouTube client: self-hosted web version (one docker compose) and native apps for Android, Windows, macOS, Linux and iPad/iPhone. No Google account, no tracking. Not affiliated…",
+    "platforms": [
+      "Self-hosted",
+      "Docker"
+    ],
+    "categories": [
+      "Productivity",
+      "Self-hosted",
+      "Terminal"
+    ],
+    "traits": [
+      "Open source",
+      "Actively maintained",
+      "Tests + CI"
+    ],
+    "get_url": "https://github.com/biolend83/tubehaus",
+    "automated": true,
+    "selected_at": "2026-11-28T13:10:13+00:00",
+    "selection_reason": "proven · updated 1d ago · 12 contributors · 100 releases"
   }
 ]
